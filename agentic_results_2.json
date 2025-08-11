@@ -1,0 +1,299 @@
+[
+  {
+    "english": "That designer bag costs an arm and a leg.",
+    "filipino": "Napakamahal ng designer bag na 'yan.",
+    "paraphrase_src": "That bag is extremely expensive.",
+    "paraphrase_tr": "That designer bag is very pricey.",
+    "back_translated": "That designer bag is very expensive.",
+    "scores_and_justifications": {
+      "Accuracy": {
+        "score": 4.5,
+        "justification": "The translation accurately conveys the meaning that the bag is very expensive. While it doesn't use a direct idiom equivalent to \"an arm and a leg,\" it captures the core idea of high cost. A more literal idiomatic translation might exist, but this version is understandable and correct."
+      },
+      "Fluency": {
+        "score": 4.0,
+        "justification": "The Filipino translation flows naturally and uses common vocabulary. The sentence structure is typical for Filipino. However, it could perhaps be slightly more idiomatic to achieve a higher fluency score."
+      },
+      "Coherence": {
+        "score": 4.2,
+        "justification": "The translation is coherent and easy to understand. The relationship between the original statement and the translation is clear."
+      },
+      "Cultural Appropriateness": {
+        "score": 5.0,
+        "justification": "The translation is culturally appropriate. Expressing the idea of something being very expensive in a straightforward manner is perfectly acceptable in Filipino culture."
+      },
+      "Completeness": {
+        "score": 4.8,
+        "justification": "The translation conveys the essential information from the source text. While the idiomatic nuance is somewhat lost, the core meaning of high cost is fully represented."
+      }
+    },
+    "summary": "Score: 5\n\nSummary: The Filipino translation is excellent. It accurately conveys the meaning of the original sentence in a culturally appropriate and understandable way. While a more direct idiomatic translation might be possible, the current version effectively communicates the high cost of the bag and maintains a natural flow.",
+    "human_score": 5,
+    "explanation1": "Accurate, Fluent, Coherent, Complete, and captures the meaning of the idiomatic expression.",
+    "explanation2": "Complete, and sounds natural. Captures the meaning well."
+  },
+  {
+    "english": "I didn’t want to go to the dentist, but I had to bite the bullet and get it over with.",
+    "filipino": "Ayoko sanang pumunta sa dentista, pero kailangan kong tiisin ito para matapos na.",
+    "paraphrase_src": "I reluctantly went to the dentist.",
+    "paraphrase_tr": "I didn't want to go to the dentist, but I had to endure it to get it done.",
+    "back_translated": "I didn't want to go to the dentist, but I had to endure it to get it over with.",
+    "scores_and_justifications": {
+      "Accuracy": {
+        "score": 4.5,
+        "justification": "The translation accurately conveys the core meaning of the English source. \"Bite the bullet\" is translated as \"tiisin ito para matapos na\" which captures the sense of enduring something unpleasant to get it over with. However, the nuance of facing something difficult with courage might be slightly less pronounced than the original idiom."
+      },
+      "Fluency": {
+        "score": 4.0,
+        "justification": "The translation flows naturally in Filipino. The sentence structure and word choices are appropriate. However, a more idiomatic translation of \"bite the bullet\" might improve the fluency further."
+      },
+      "Coherence": {
+        "score": 4.2,
+        "justification": "The translation is coherent and easy to understand. The relationship between the two clauses is clear, and the overall meaning is logically presented."
+      },
+      "Cultural Appropriateness": {
+        "score": 5.0,
+        "justification": "The translation is culturally appropriate. The language used is suitable for a general audience and doesn't contain any culturally insensitive elements. The concept of enduring something unpleasant is universally understood."
+      },
+      "Completeness": {
+        "score": 4.8,
+        "justification": "The translation conveys all the essential information from the source text. The feeling of reluctance and the need to overcome it are both present. A slightly higher score would be warranted if a more direct idiomatic equivalent of \"bite the bullet\" existed and was used effectively."
+      }
+    },
+    "summary": "Score: 4\n\nSummary: The Filipino translation is accurate, coherent, and culturally appropriate, effectively conveying the core meaning of the English source. While it flows naturally, the fluency could be slightly improved with a more direct idiomatic translation of \"bite the bullet\" if one existed. It is also complete, capturing the essential information from the source text.",
+    "human_score": 4,
+    "explanation1": "Complete, and accurately translates the idiomatic expression, with slight errors in tenses. The translation doesn't capture that the event was already done in the past.",
+    "explanation2": "Good translation but conjugation is incorrect"
+  },
+  {
+    "english": "Mark accidentally let the cat out of the bag about the surprise trip.",
+    "filipino": "Hindi sinasadyang nailabas ni Mark ang pusa mula sa maleta tungkol sa surprise trip.",
+    "paraphrase_src": "Mark inadvertently revealed the surprise trip.",
+    "paraphrase_tr": "Mark unintentionally revealed the surprise trip.",
+    "back_translated": "Mark accidentally took the cat out of the suitcase about the surprise trip.",
+    "scores_and_justifications": {
+      "Accuracy": {
+        "score": 2.0,
+        "justification": "The translation is inaccurate. The idiom \"let the cat out of the bag\" means to reveal a secret. The Filipino translation literally translates to taking a cat out of a suitcase, completely missing the idiomatic meaning."
+      },
+      "Fluency": {
+        "score": 4.5,
+        "justification": "The Filipino sentence is grammatically correct and flows naturally. The word choices are appropriate for standard Filipino."
+      },
+      "Coherence": {
+        "score": 3.0,
+        "justification": "While the sentence structure is coherent, the overall meaning is nonsensical due to the inaccurate translation of the idiom. The connection between taking a cat out of a suitcase and a surprise trip is unclear."
+      },
+      "Cultural Appropriateness": {
+        "score": 5.0,
+        "justification": "There are no cultural inappropriateness issues. Cats and suitcases are common objects, and the sentence doesn't contain any culturally sensitive elements."
+      },
+      "Completeness": {
+        "score": 4.0,
+        "justification": "The translation attempts to convey all the information in the original sentence, but fails to capture the crucial idiomatic meaning. It's complete in terms of including all the elements, but incomplete in conveying the intended message."
+      }
+    },
+    "summary": "Score: 3\n\nSummary: The Filipino translation is flawed due to a significant inaccuracy in translating the idiom \"let the cat out of the bag.\" While the translation is fluent, grammatically correct, and culturally appropriate, the failure to convey the intended meaning of the idiom severely impacts the overall quality. The sentence is coherent in structure but nonsensical in meaning.",
+    "human_score": 3,
+    "explanation1": "Complete, and gramatically correct. However, the idiomatic expression was translated literally which loses the original intent of the sentence.",
+    "explanation2": "Idiom was not translated correctly"
+  },
+  {
+    "english": "I won’t be able to attend the meeting later because I’m feeling under the weather.",
+    "filipino": "Hindi ako makakadalo sa meeting mamaya dahil masama ang pakiramdam ko.",
+    "paraphrase_src": "I'm sick, so I'll miss the meeting.",
+    "paraphrase_tr": "I feel unwell, so I can't attend the meeting later.",
+    "back_translated": "I couldn't attend the meeting later because I felt bad.",
+    "scores_and_justifications": {
+      "Accuracy": {
+        "score": 4.5,
+        "justification": "The translation accurately conveys the meaning of the English source. \"Masama ang pakiramdam ko\" is a common and accurate way to express \"feeling under the weather.\" The back-translation reflects this accurately. Minor deduction because \"feeling under the weather\" can also imply a slightly more nuanced meaning than just \"feeling bad,\" but the core meaning is preserved."
+      },
+      "Fluency": {
+        "score": 4.0,
+        "justification": "The Filipino translation flows naturally and uses common vocabulary. The sentence structure is typical of spoken Filipino. It could be slightly more fluent with a more idiomatic expression, but it's still quite natural."
+      },
+      "Coherence": {
+        "score": 4.2,
+        "justification": "The translation is coherent and easy to understand. The relationship between the reason (feeling unwell) and the inability to attend the meeting is clear."
+      },
+      "Cultural Appropriateness": {
+        "score": 5.0,
+        "justification": "The translation is culturally appropriate. Expressing feeling unwell as \"masama ang pakiramdam ko\" is a very common and natural way to say it in Filipino culture."
+      },
+      "Completeness": {
+        "score": 4.8,
+        "justification": "The translation captures all the essential information from the English source. The reason for not attending the meeting (feeling unwell) and the timing (later) are both included. A very slight deduction because \"later\" could be interpreted in different ways, but the Filipino \"mamaya\" is generally understood in context."
+      }
+    },
+    "summary": "Score: 4\n\nSummary: The Filipino translation is a good and accurate rendition of the English source. It effectively conveys the meaning, is generally fluent and coherent, and is culturally appropriate. Minor improvements could be made to enhance fluency and address the slight ambiguity of \"mamaya,\" but overall it's a strong translation.",
+    "human_score": 5,
+    "explanation1": "Accurate, Fluent, Coherent, Complete, and captures the meaning of the idiomatic expression.",
+    "explanation2": "Complete and grammatically correct"
+  },
+  {
+    "english": "Darkness is not heresy. It lies within us all.",
+    "filipino": "Hindi kasalanan ang kadiliman. Nagsisinungaling ito sa loob natin.",
+    "paraphrase_src": "Darkness is a universal part of human nature.",
+    "paraphrase_tr": "Darkness is not a sin; it deceives us from within.",
+    "back_translated": "Darkness is not sin. It lies within us.",
+    "scores_and_justifications": {
+      "Accuracy": {
+        "score": 4.5,
+        "justification": "The translation of \"darkness\" as \"kadiliman\" is accurate. However, \"heresy\" is translated as \"kasalanan\" (sin), which is a close but not perfect match. \"Heresy\" implies a deviation from accepted belief, while \"sin\" is a more general term for wrongdoing. The second sentence is translated accurately."
+      },
+      "Fluency": {
+        "score": 4.0,
+        "justification": "The Filipino translation flows naturally. The sentence structure is correct and easy to understand. However, the word choice of \"nagsisinungaling\" (lies) might sound slightly formal or literary in everyday conversation. A more common word like \"nasa\" (is in) could improve the naturalness."
+      },
+      "Coherence": {
+        "score": 4.2,
+        "justification": "The two sentences connect logically. The idea that darkness (or its potential for negativity) exists within everyone is conveyed clearly. The shift from \"kadiliman\" to \"ito\" (it) is grammatically correct and maintains coherence."
+      },
+      "Cultural Appropriateness": {
+        "score": 5.0,
+        "justification": "The translation is culturally appropriate. The concepts of darkness and inner struggles are universally understood, and the language used is suitable for a general Filipino audience."
+      },
+      "Completeness": {
+        "score": 4.8,
+        "justification": "The translation captures the core meaning of the original English text. The only minor point is the nuance lost in translating \"heresy\" as \"sin,\" but the overall message is still effectively conveyed."
+      }
+    },
+    "summary": "Score: 4\n\nSummary: The Filipino translation is generally well-done, accurately conveying the meaning of the original English text. It demonstrates good fluency and cultural appropriateness. The only minor drawback is the slightly imprecise translation of \"heresy\" and a potentially less common word choice that slightly impacts the naturalness of the language.",
+    "human_score": 2,
+    "explanation1": "flawed translation takes \"lies\" as literal \"being untruthful\" or \"nagsisinungaling\"",
+    "explanation2": "nan"
+  },
+  {
+    "english": "This would be easier if blood came in more colours.",
+    "filipino": "Ito ay magiging mas madali kung ang dugo ay dumating sa mas maraming kulay.",
+    "paraphrase_src": "More blood colors would simplify this.",
+    "paraphrase_tr": "It would be simpler if blood had more colors.",
+    "back_translated": "This would be easier if the blood came in more colors.",
+    "scores_and_justifications": {
+      "Accuracy": {
+        "score": 5.0,
+        "justification": "The translation accurately reflects the meaning of the English source. The back-translation is almost identical to the original, indicating a high degree of accuracy."
+      },
+      "Fluency": {
+        "score": 4.5,
+        "justification": "The Filipino translation flows naturally and uses common sentence structures. The word choices are appropriate and don't sound awkward."
+      },
+      "Coherence": {
+        "score": 4.7,
+        "justification": "The sentence is logically structured and easy to understand in Filipino. The relationship between the clauses is clear."
+      },
+      "Cultural Appropriateness": {
+        "score": 5.0,
+        "justification": "The translation is culturally neutral and doesn't contain any elements that would be inappropriate or offensive in Filipino culture."
+      },
+      "Completeness": {
+        "score": 5.0,
+        "justification": "The translation includes all the essential information from the source text and doesn't omit any important details."
+      }
+    },
+    "summary": "Score: 5\n\nSummary: The Filipino translation is of high quality, demonstrating excellent accuracy, fluency, coherence, cultural appropriateness, and completeness. It effectively conveys the meaning of the English source text in a natural and easily understandable way.",
+    "human_score": 2,
+    "explanation1": "flawed translation takes \"came in more colors\" literally",
+    "explanation2": "nan"
+  },
+  {
+    "english": "This guy right here is Shadow, and he's kinda my biggest rival. He's also a real buzz-kill.",
+    "filipino": "Ang lalaking ito dito ay si Shadow, at siya ang aking pinakamalaking karibal. Isa rin siyang totoong buzz-kill.",
+    "paraphrase_src": "Shadow is my biggest rival and a total downer.",
+    "paraphrase_tr": "This is Shadow, my greatest rival and a real killjoy.",
+    "back_translated": "This guy here is Shadow, and he's my biggest rival.",
+    "scores_and_justifications": {
+      "Accuracy": {
+        "score": 4.5,
+        "justification": "The translation accurately conveys the core meaning of the English source. The back-translation confirms that the main idea of Shadow being the speaker's biggest rival is preserved. The slight difference is the omission of \"He's also a real buzz-kill\" in the back translation."
+      },
+      "Fluency": {
+        "score": 4.0,
+        "justification": "The Filipino translation flows naturally and uses common vocabulary. The sentence structure is typical of Filipino. However, the phrase \"totoong buzz-kill\" sounds a bit literal and could be improved for better flow. A more natural phrasing might be \"nakakawalang-gana\" or similar."
+      },
+      "Coherence": {
+        "score": 4.2,
+        "justification": "The translation maintains a logical flow and connection between the sentences. The relationship between Shadow being the rival and being a \"buzz-kill\" is clear."
+      },
+      "Cultural Appropriateness": {
+        "score": 5.0,
+        "justification": "The translation is culturally appropriate for a Filipino audience. There are no elements that would be considered offensive or out of place."
+      },
+      "Completeness": {
+        "score": 4.8,
+        "justification": "The translation is mostly complete, capturing almost all the information from the source text. The only missing element is the nuance of \"kinda\" which is not directly translated, but this doesn't significantly impact the overall meaning."
+      }
+    },
+    "summary": "Score: 4\n\nSummary: The Filipino translation is generally well-done, accurately conveying the meaning of the original English text and demonstrating good fluency and coherence. It is also culturally appropriate. The translation could be improved by finding a more natural way to express \"buzz-kill\" in Filipino.",
+    "human_score": 1,
+    "explanation1": "\"Ang lalaking ito dito\" should not have \"dito\"",
+    "explanation2": "buzz-kill is not translated. also \"totoong buzzkill\" is too litteral."
+  },
+  {
+    "english": "Stealth is not your thing. But it's adorable you're willing to try.",
+    "filipino": "Ang pagnanakaw ay hindi bagay sa iyo. Ngunit ito ay kaibig-ibig na handa kang subukan.",
+    "paraphrase_src": "You're not stealthy, but your effort is cute.",
+    "paraphrase_tr": "You're bad at stealing, but it's sweet you're trying.",
+    "back_translated": "Stealing is not your thing, but it is a lovely thing to be willing to try.",
+    "scores_and_justifications": {
+      "Accuracy": {
+        "score": 3.0,
+        "justification": "The translation of \"stealth\" as \"pagnanakaw\" (stealing) is inaccurate. Stealth refers to being sneaky or covert, not necessarily theft. The rest of the sentence is translated relatively accurately."
+      },
+      "Fluency": {
+        "score": 4.5,
+        "justification": "The Filipino translation flows naturally and uses common sentence structures. It sounds like something a native speaker would say."
+      },
+      "Coherence": {
+        "score": 4.5,
+        "justification": "The sentence is logically structured and easy to understand in Filipino. The two clauses connect well."
+      },
+      "Cultural Appropriateness": {
+        "score": 5.0,
+        "justification": "The translation doesn't contain any culturally inappropriate elements. The sentiment expressed is universally understandable."
+      },
+      "Completeness": {
+        "score": 4.5,
+        "justification": "The translation captures the overall meaning of the original sentence, but the inaccuracy in translating \"stealth\" slightly detracts from the completeness of the message."
+      }
+    },
+    "summary": "Score: 4\n\nSummary: The Filipino translation is generally good, exhibiting strong fluency, coherence, cultural appropriateness, and completeness. However, the inaccurate translation of \"stealth\" as \"pagnanakaw\" slightly lowers the overall quality.",
+    "human_score": 1,
+    "explanation1": "\"sumubok\" might be better than \"subukan\" in this context",
+    "explanation2": "Changing adorable to \"nakakabilib\" (impressive) changes the tone for this line. Rouge calling Knuckles \"cute\" is meant to have immasculating undertones. In the incorrect translation, stealth is refering to the act of being stealthy/quiet/hidden. Pagnanakaw is theft. wrong translation entirely."
+  },
+  {
+    "english": "Cheddar cheese got its name from a village in what country?",
+    "filipino": "Ang nayon na pinagkuhanan ng pangalan ng cheddar cheese ay nasaang bansa?",
+    "paraphrase_src": "What country is the village that named cheddar cheese in?",
+    "paraphrase_tr": "In what country is the village where cheddar cheese got its name?",
+    "back_translated": "The village from which cheddar cheese gets its name is in what country?",
+    "scores_and_justifications": {
+      "Accuracy": {
+        "score": 4.5,
+        "justification": "The translation accurately conveys the core meaning of the English source. The question is correctly framed. A minor point is that \"pinagkuhanan ng pangalan\" (from which the name is taken) is slightly more verbose than necessary, but not inaccurate."
+      },
+      "Fluency": {
+        "score": 4.0,
+        "justification": "The Filipino translation is generally fluent, but the phrasing \"Ang nayon na pinagkuhanan ng pangalan ng cheddar cheese\" could be slightly more natural. A more fluent phrasing might be \"Saang bansa matatagpuan ang nayon na pinagmulan ng pangalan ng cheddar cheese?\"."
+      },
+      "Coherence": {
+        "score": 4.2,
+        "justification": "The translation is coherent and easy to understand. The question flows logically in Filipino."
+      },
+      "Cultural Appropriateness": {
+        "score": 5.0,
+        "justification": "The translation is culturally appropriate. There are no cultural elements that would make the translation awkward or inappropriate for a Filipino audience."
+      },
+      "Completeness": {
+        "score": 4.8,
+        "justification": "The translation is complete and doesn't omit any essential information from the source text."
+      }
+    },
+    "summary": "Score: 4\n\nSummary: The translation is accurate, coherent, culturally appropriate, and complete, effectively conveying the meaning of the original English question. While generally fluent, the phrasing could be slightly improved for a more natural flow in Filipino.",
+    "human_score": 3,
+    "explanation1": "Good translation, gramatically correct, but the word choice is quite formal and doesn't reflect everyday conversations the best.",
+    "explanation2": "Good translation that would be understood by native speakers, but still follows the English-centric sentence structure of subject, then verb rather than vice versa."
+  }
+]

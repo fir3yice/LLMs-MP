@@ -1,0 +1,152 @@
+{
+    "40": {
+        "prompt": "\nSource (English): Eating rice with almost every meal is part of out culture\nTranslation (Filipino): Bahagi ng ating kultura ang pagkain ng kanin sa halos bawat pagkain\n",
+        "scores": [
+            5,
+            5,
+            5,
+            5,
+            5
+        ]
+    },
+    "7": {
+        "prompt": "\nSource (English): Thank you for coming to the event.\nTranslation (Filipino): Salamat sa pagpunta sa kaganapan.\n",
+        "scores": [
+            5,
+            5,
+            5,
+            5,
+            5
+        ]
+    },
+    "1": {
+        "prompt": "\nSource (English): She took a break to gather her thoughts.\nTranslation (Filipino): Nagpahinga siya para mag-isip-isip.\n",
+        "scores": [
+            5,
+            5,
+            5,
+            5,
+            5
+        ]
+    },
+    "47": {
+        "prompt": "\nSource (English): I exclusively use Spotify to listen to music such as OPM.\nTranslation (Filipino): Sa Spotify lang ako nakikinig ng music katulad ng OPM.\n",
+        "scores": [
+            5,
+            5,
+            5,
+            5,
+            5
+        ]
+    },
+    "17": {
+        "prompt": "\nSource (English): Cheddar cheese got its name from a village in what country?\nTranslation (Filipino): Ang nayon na pinagkuhanan ng pangalan ng cheddar cheese ay nasaang bansa?\n",
+        "scores": [
+            5,
+            5,
+            5,
+            5,
+            5
+        ]
+    },
+    "15": {
+        "prompt": "\nSource (English): This guy right here is Shadow, and he's kinda my biggest rival. He's also a real buzz-kill.\nTranslation (Filipino): Ang lalaking ito dito ay si Shadow, at siya ang aking pinakamalaking karibal. Isa rin siyang totoong buzz-kill.\n",
+        "scores": [
+            3,
+            3,
+            3,
+            1,
+            3
+        ]
+    },
+    "14": {
+        "prompt": "\nSource (English): This would be easier if blood came in more colours.\nTranslation (Filipino): Ito ay magiging mas madali kung ang dugo ay dumating sa mas maraming kulay.\n",
+        "scores": [
+            3,
+            3,
+            3,
+            3,
+            3
+        ]
+    },
+    "8": {
+        "prompt": "\nSource (English): Despite her exhaustion, she finished the report before the deadline.\nTranslation (Filipino): Sa kabila ng kanyang pagod, natapos niya ang ulat bago ang deadline.\n",
+        "scores": [
+            5,
+            5,
+            5,
+            5,
+            5
+        ]
+    },
+    "53": {
+        "prompt": "\nSource (English): The wave returns to the ocean, where it came from, and where it's supposed to be.\nTranslation (Filipino): Bumabalik ang alon sa karagatan, kung saan ito nanggaling, at kung saan ito dapat nasa.\n",
+        "scores": [
+            4,
+            5,
+            3,
+            3,
+            3
+        ]
+    },
+    "6": {
+        "prompt": "\nSource (English): The party of the first part shall not be held liable for any unforeseen damages.\nTranslation (Filipino): Ang partido ng unang bahagi ay hindi mananagot para sa anumang hindi inaasahang pinsala.\n",
+        "scores": [
+            3,
+            3,
+            5,
+            4,
+            3
+        ]
+    },
+    "43": {
+        "prompt": "\nSource (English): To be able to start fasting, you have to stop eating and drinking anything except water at least 8 hours before your test.\nTranslation (Filipino): Para makapagsimula ng fasting, tigilan ang pagkain at pag-inom 8 oras bago ang test, tubig lang pwede.\n",
+        "scores": [
+            3,
+            3,
+            3,
+            3,
+            3
+        ]
+    },
+    "34": {
+        "prompt": "\nSource (English): Filipinos visit their relatives during holidays.\nTranslation (Filipino): Tuwing bakasyon, binibisita ng mga Pilipino ang kani-kanilang mga pamilya\n",
+        "scores": [
+            4,
+            4,
+            3,
+            4,
+            4
+        ]
+    },
+    "5": {
+        "prompt": "\nSource (English): It's raining cats and dogs.\nTranslation (Filipino): Umuulan ng pusa at aso.\n",
+        "scores": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    "37": {
+        "prompt": "\nSource (English): The hospitability of Filipinos are known worldwide\nTranslation (Filipino): Ang pagiging hospitable ng mga Pilipino ay kilala sa buong mundo\n",
+        "scores": [
+            5,
+            5,
+            5,
+            5,
+            5
+        ]
+    },
+    "27": {
+        "prompt": "\nSource (English): I just want to be your everything.\nTranslation (Filipino): Nais ko lang ay maging lahat para sa’yo\n",
+        "scores": [
+            5,
+            5,
+            5,
+            5,
+            5
+        ]
+    }
+}

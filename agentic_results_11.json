@@ -1,0 +1,1883 @@
+[
+  {
+    "english": "The children laughed and played under the afternoon sun.",
+    "filipino": "Ang mga bata ay nagtawanan at naglaro sa ilalim ng hapon na araw.",
+    "paraphrase_src": "The children joyfully played in the afternoon sun.",
+    "paraphrase_tr": "The children laughed and played beneath the afternoon sun.",
+    "back_translated": "The children laughed and played in the afternoon sun.",
+    "scores_and_justifications": {
+      "Accuracy": {
+        "score": 4.5,
+        "justification": "The translation is very close to the original meaning. \"Nagtawanan\" accurately captures \"laughed\" and \"naglaro\" captures \"played.\" \"Sa ilalim ng hapon na araw\" is a direct and understandable translation of \"under the afternoon sun.\" The slight deduction is because \"hapon na araw\" is a bit literal; a more natural phrasing might be \"araw ng hapon\" or simply \"sa init ng hapon\" (in the heat of the afternoon) depending on the nuance."
+      },
+      "Fluency": {
+        "score": 4.0,
+        "justification": "The sentence flows reasonably well in Filipino. The use of \"ay\" is grammatically correct, though in more casual spoken Filipino, it might be omitted. \"Nagtawanan at naglaro\" is a natural pairing of verbs. The phrase \"sa ilalim ng hapon na araw\" is understandable but could be slightly more fluid."
+      },
+      "Coherence": {
+        "score": 4.2,
+        "justification": "The Filipino translation maintains the logical flow and meaning of the English source. The actions of the children and the setting are clearly conveyed, creating a coherent image. The connection between the children's actions and the time of day is maintained."
+      },
+      "Cultural Appropriateness": {
+        "score": 5.0,
+        "justification": "The scenario of children laughing and playing under the sun is universally understood and culturally appropriate in the Philippines. There are no elements in the translation that would be considered out of place or offensive."
+      },
+      "Completeness": {
+        "score": 4.8,
+        "justification": "The translation captures all the essential elements of the English source: the subjects (children), their actions (laughed and played), and the setting (under the afternoon sun). The meaning is fully conveyed."
+      }
+    },
+    "summary": "Score: 4.5\n\nSummary: The Filipino translation is very good, accurately conveying the meaning and maintaining coherence. While generally fluent and culturally appropriate, minor adjustments to phrasing could enhance naturalness.",
+    "human_score": 4,
+    "explanation1": "Accurate, fluent, and natural translation. Captures the tone and meaning well.",
+    "explanation2": "Just slight error due to the literal translation of the \"afternoon sun\" to \"hapon na araw\". Afternoon sun means the Sun during the afternoon"
+  },
+  {
+    "english": "She took a break to gather her thoughts.",
+    "filipino": "Nagpahinga siya para mag-isip-isip.",
+    "paraphrase_src": "She paused to collect her thoughts.",
+    "paraphrase_tr": "She rested to think.",
+    "back_translated": "He paused to think.",
+    "scores_and_justifications": {
+      "Accuracy": {
+        "score": 4.5,
+        "justification": "The Filipino translation \"Nagpahinga siya para mag-isip-isip\" accurately conveys the core meaning of taking a break to think. The back-translation \"He paused to think\" is slightly less precise as it uses \"He\" instead of \"She\" and \"paused\" instead of \"took a break,\" but the essence of the action is maintained."
+      },
+      "Fluency": {
+        "score": 4.0,
+        "justification": "The Filipino translation is grammatically correct and flows naturally. \"Mag-isip-isip\" is a common and idiomatic way to express thinking or contemplating."
+      },
+      "Coherence": {
+        "score": 4.2,
+        "justification": "The sentence is coherent and easy to understand. The cause (taking a break) and effect (to think) are logically connected."
+      },
+      "Cultural Appropriateness": {
+        "score": 5.0,
+        "justification": "The phrase \"mag-isip-isip\" is a culturally appropriate and common expression in Filipino for someone needing time to process their thoughts. There are no cultural nuances that would make this translation inappropriate."
+      },
+      "Completeness": {
+        "score": 4.8,
+        "justification": "The translation captures the essential elements of the source sentence. While \"took a break\" could be more literally translated as \"nagpahinga,\" the current phrasing implies a pause for a purpose, which is well-represented by \"mag-isip-isip.\" The slight difference in the back-translation's pronoun and verb choice doesn't significantly detract from the completeness of the original meaning."
+      }
+    },
+    "summary": "Score: 4.5\n\nSummary: The Filipino translation is very good, accurately conveying the meaning of taking a break to think in a natural and culturally appropriate way. Minor discrepancies in the back-translation do not significantly impact the overall quality.",
+    "human_score": 4,
+    "explanation1": "The translation is accurate. It was able to capture the meaning of the idiom \"gather her thoughts\", instead of translating it literally to \"kumuha ng ideya\"",
+    "explanation2": "The translation would have been better if the translation also captured the gender indicated by the pronoun."
+  },
+  {
+    "english": "The algorithm efficiently identifies patterns in large datasets.",
+    "filipino": "Mabisang kinikilala ng algoritmo ang mga pattern sa malalaking dataset.",
+    "paraphrase_src": "The algorithm excels at finding patterns in extensive data.",
+    "paraphrase_tr": "The algorithm effectively recognizes patterns in large datasets.",
+    "back_translated": "The algorithm is effective at recognizing patterns in large datasets.",
+    "scores_and_justifications": {
+      "Accuracy": {
+        "score": 4.5,
+        "justification": "The Filipino translation accurately conveys the core meaning of the English source. \"Mabisang kinikilala\" (effectively recognizes) is a very close equivalent to \"efficiently identifies.\" The slight difference in nuance between \"efficiently\" and \"effectively\" is minor and doesn't detract from the overall accuracy."
+      },
+      "Fluency": {
+        "score": 4.0,
+        "justification": "The Filipino translation flows well and sounds natural. The word order and choice of vocabulary are appropriate for a technical context."
+      },
+      "Coherence": {
+        "score": 4.2,
+        "justification": "The sentence is coherent and easy to understand. The relationship between the algorithm, its action, and the data is clear."
+      },
+      "Cultural Appropriateness": {
+        "score": 5.0,
+        "justification": "The translation uses standard Filipino terminology for technical concepts like \"algoritmo\" and \"dataset,\" which are commonly understood in academic and professional settings in the Philippines. There are no cultural elements that would be out of place or misunderstood."
+      },
+      "Completeness": {
+        "score": 4.8,
+        "justification": "The translation captures all the essential information from the English source. The concept of efficiency is well-represented by \"mabisang\" (effectively/efficiently), and the identification of patterns in large datasets is fully translated."
+      }
+    },
+    "summary": "Score: 4.5\n\nSummary: The Filipino translation is highly accurate and fluent, effectively conveying the technical meaning of the English source. It uses appropriate terminology and maintains coherence, making it easily understandable in a professional context. The translation is also culturally appropriate and captures all essential information.",
+    "human_score": 3,
+    "explanation1": "The translation of \"identifies\" as \"kinikilala\" in the context of the sentence is not very accurate. The source text was translated literally.",
+    "explanation2": "The translation would have been better if the model didn't translated very literally."
+  },
+  {
+    "english": "Data normalization helps improve model performance.",
+    "filipino": "Tumutulong sa pagpabuti ng model ang normalisasyon ng datos",
+    "paraphrase_src": "Normalizing data enhances model effectiveness.",
+    "paraphrase_tr": "Data normalization aids in enhancing model performance.",
+    "back_translated": "Normalization of the data helps to improve the model",
+    "scores_and_justifications": {
+      "Accuracy": {
+        "score": 4.5,
+        "justification": "The Filipino translation accurately conveys the core meaning of the English source. \"Tumutulong sa pagpabuti ng model ang normalisasyon ng datos\" directly translates to \"Normalization of the data helps to improve the model.\" The slight deviation in word order from the back-translation is a common and acceptable variation in Filipino sentence structure."
+      },
+      "Fluency": {
+        "score": 4.0,
+        "justification": "The sentence flows reasonably well in Filipino. While grammatically correct, the phrasing \"Tumutulong sa pagpabuti ng model ang normalisasyon ng datos\" feels slightly more formal or technical than a more common, everyday phrasing might be. A slightly more natural flow could be achieved with a different word order, but this is still understandable and fluent."
+      },
+      "Coherence": {
+        "score": 4.2,
+        "justification": "The translation is coherent and the relationship between \"normalization of data\" and \"improving model performance\" is clear. The sentence structure logically connects the action (normalization) to its effect (improving the model)."
+      },
+      "Cultural Appropriateness": {
+        "score": 5.0,
+        "justification": "The concept of data normalization and its impact on model performance is a technical concept. The Filipino translation uses appropriate terminology that would be understood in a technical or academic context within the Philippines. There are no cultural nuances that are missed or misrepresented."
+      },
+      "Completeness": {
+        "score": 4.8,
+        "justification": "The translation captures all the essential information from the English source. It clearly states that data normalization is the subject, that it helps, and that it improves model performance. There is no loss of meaning or omission of key elements."
+      }
+    },
+    "summary": "Score: 4.5\n\nSummary: The Filipino translation is very good, accurately conveying the meaning of the English source with appropriate technical terminology. It is coherent and complete, though the fluency could be slightly improved with a more natural phrasing.",
+    "human_score": 5,
+    "explanation1": "The translated text is natural and captures the entire essence of the source text",
+    "explanation2": "The translation didn't literally translated the text, and the model was able to capture the relationship between data normalization and model performance."
+  },
+  {
+    "english": "alam mo ma'am masaya naman topics natin sa philosophy inaantok lang talaga ko kasi ikaw nagdidiscuss",
+    "filipino": "You know, ma'am, we have a lot of fun philosophy topics. I'm just really sleepy in what you're discussing.",
+    "paraphrase_src": "Ma'am, our philosophy topics are enjoyable, but I'm sleepy because of your discussion.",
+    "paraphrase_tr": "Ma'am, our philosophy topics are enjoyable, but I'm sleepy because of your discussion.",
+    "back_translated": "You know, ma'am, we have a lot of fun philosophy topics.",
+    "scores_and_justifications": {
+      "Accuracy": {
+        "score": 3.0,
+        "justification": "The Filipino source \"inaantok lang talaga ko kasi ikaw nagdidiscuss\" translates to \"I'm just really sleepy because you are discussing.\" The provided English translation \"I'm just really sleepy in what you're discussing\" changes the meaning from the *reason* for sleepiness to the *subject* of sleepiness, which is inaccurate."
+      },
+      "Fluency": {
+        "score": 4.0,
+        "justification": "The English translation is grammatically correct and flows reasonably well. The phrase \"sleepy in what you're discussing\" is slightly awkward but understandable."
+      },
+      "Coherence": {
+        "score": 4.0,
+        "justification": "The translation maintains a logical connection between the two parts of the sentence, even with the slight inaccuracy. It's understandable that the speaker finds the discussion itself (or perhaps the way it's presented) to be causing their sleepiness."
+      },
+      "Cultural Appropriateness": {
+        "score": 5.0,
+        "justification": "The use of \"ma'am\" is a common and respectful form of address in the Philippines, making the translation culturally appropriate. The sentiment expressed is also a common, albeit perhaps impolite, observation one might make in an academic setting."
+      },
+      "Completeness": {
+        "score": 4.5,
+        "justification": "The translation captures the essence of the original statement, including the positive sentiment about the topics and the reason for sleepiness. The slight shift in meaning for the reason for sleepiness prevents a perfect score."
+      }
+    },
+    "summary": "Score: 3\n\nSummary: The translation is grammatically sound and maintains coherence, but it inaccurately shifts the meaning of the original Filipino sentence. While culturally appropriate and mostly complete, the core inaccuracy in conveying the reason for sleepiness significantly impacts the overall quality.",
+    "human_score": 4,
+    "explanation1": "flawed translation is close, but failed to translate that the cause of antok is the ma'am and not the topic.",
+    "explanation2": "nan"
+  },
+  {
+    "english": "It's raining cats and dogs.",
+    "filipino": "Umuulan ng pusa at aso.",
+    "paraphrase_src": "It's raining heavily.",
+    "paraphrase_tr": "It's raining heavily.",
+    "back_translated": "It was raining cats and dogs.",
+    "scores_and_justifications": {
+      "Accuracy": {
+        "score": 4.5,
+        "justification": "The Filipino translation directly translates the literal meaning of \"raining cats and dogs,\" which is \"Umuulan ng pusa at aso.\" While this is a direct translation, it misses the idiomatic meaning of the English phrase. The back-translation confirms the literal interpretation."
+      },
+      "Fluency": {
+        "score": 4.0,
+        "justification": "The phrase \"Umuulan ng pusa at aso\" is grammatically correct in Filipino. However, it sounds unnatural and awkward because it's a literal translation of an idiom. A fluent speaker would likely use a different expression to convey heavy rain."
+      },
+      "Coherence": {
+        "score": 4.2,
+        "justification": "The sentence is coherent in that it describes a weather event. However, the imagery of cats and dogs falling from the sky is nonsensical and breaks the expected coherence of a weather description for a Filipino speaker."
+      },
+      "Cultural Appropriateness": {
+        "score": 5.0,
+        "justification": "The phrase \"Umuulan ng pusa at aso\" is not a common Filipino idiom. While it's not offensive, it doesn't carry the same cultural weight or understanding as the English idiom. However, the literal translation itself isn't culturally inappropriate in terms of causing offense or misunderstanding of the *words* themselves, just the *meaning*."
+      },
+      "Completeness": {
+        "score": 4.8,
+        "justification": "The translation captures all the words from the source sentence. However, it fails to convey the complete *meaning* of the idiom, which is the primary purpose of the original English phrase."
+      }
+    },
+    "summary": "Score: 3\n\nSummary: The Filipino translation \"Umuulan ng pusa at aso\" is a literal rendition of the English idiom \"raining cats and dogs.\" While grammatically sound and understandable in terms of individual words, it fails to capture the idiomatic meaning of heavy rain, resulting in an unnatural and nonsensical phrase for a Filipino speaker. The translation is complete in terms of words but lacks the intended meaning and cultural resonance of the original idiom.",
+    "human_score": 1,
+    "explanation1": "Literal translation of an idiom, doesn't make sense in Filipino.",
+    "explanation2": "Fails to capture the idiomatic meaning; sounds nonsensical."
+  },
+  {
+    "english": "The party of the first part shall not be held liable for any unforeseen damages.",
+    "filipino": "Ang partido ng unang bahagi ay hindi mananagot para sa anumang hindi inaasahang pinsala.",
+    "paraphrase_src": "The first party is not responsible for unexpected damages.",
+    "paraphrase_tr": "The first party will not be held accountable for any unforeseen harm.",
+    "back_translated": "The party of the first part is not liable for any unforeseen damage.",
+    "scores_and_justifications": {
+      "Accuracy": {
+        "score": 4.5,
+        "justification": "The translation is very close to the original meaning. \"Mananagot\" is a good translation for \"liable,\" and \"hindi inaasahang pinsala\" accurately conveys \"unforeseen damages.\" The slight deduction is because \"liable\" can sometimes imply a more direct legal responsibility than \"mananagot\" might fully capture in all contexts, though it's a very strong equivalent."
+      },
+      "Fluency": {
+        "score": 4.0,
+        "justification": "The Filipino sentence flows well and sounds natural. The word order and choice of words are standard for legal or formal contexts."
+      },
+      "Coherence": {
+        "score": 4.2,
+        "justification": "The sentence is logically structured and easy to understand. The relationship between the subject (\"Ang partido ng unang bahagi\") and the predicate (\"hindi mananagot para sa anumang hindi inaasahang pinsala\") is clear."
+      },
+      "Cultural Appropriateness": {
+        "score": 5.0,
+        "justification": "The phrasing used is standard and appropriate for formal or legal documents in Filipino. There are no cultural nuances that would make this translation inappropriate."
+      },
+      "Completeness": {
+        "score": 4.8,
+        "justification": "The translation captures all the essential elements of the English source. The concept of \"party of the first part\" is directly translated, and the exclusion of liability for unforeseen damages is fully conveyed. The slight deduction is for the subtle difference in the nuance of \"liable\" as mentioned in accuracy."
+      }
+    },
+    "summary": "Score: 4\n\nSummary: The Filipino translation is very good, accurately conveying the meaning of the English source in a fluent and culturally appropriate manner. The only minor deductions are for the subtle nuances of \"liable\" and the completeness of that specific term, but overall it is a strong and effective translation for a formal or legal context.",
+    "human_score": 4,
+    "explanation1": "Accurate and understandable, good for formal/legal context.",
+    "explanation2": "Effectively conveys legal terminology, correct but a bit stiff."
+  },
+  {
+    "english": "Thank you for coming to the event.",
+    "filipino": "Salamat sa pagpunta sa kaganapan.",
+    "paraphrase_src": "We appreciate your attendance.",
+    "paraphrase_tr": "Thanks for attending the event.",
+    "back_translated": "Thank you for coming to the event.",
+    "scores_and_justifications": {
+      "Accuracy": {
+        "score": 4.5,
+        "justification": "The translation is very close to the original meaning. \"Kaganapan\" is a direct translation of \"event,\" but in everyday Filipino, \"event\" or \"okasyon\" might be more commonly used depending on the context."
+      },
+      "Fluency": {
+        "score": 4.0,
+        "justification": "The sentence flows well and is grammatically correct in Filipino. It sounds natural, though as mentioned, \"kaganapan\" might be slightly formal for some casual events."
+      },
+      "Coherence": {
+        "score": 4.2,
+        "justification": "The sentence is clear and easy to understand. The relationship between \"salamat\" (thank you) and \"pagpunta sa kaganapan\" (coming to the event) is logical."
+      },
+      "Cultural Appropriateness": {
+        "score": 5.0,
+        "justification": "The phrase \"Salamat sa pagpunta\" is a standard and polite way to express gratitude for someone's attendance in Filipino culture."
+      },
+      "Completeness": {
+        "score": 4.8,
+        "justification": "The translation captures the full sentiment of the original English sentence. There are no missing elements."
+      }
+    },
+    "summary": "Score: 4.5\n\nSummary: The Filipino translation is excellent, accurately conveying the original meaning with good fluency and coherence. It is culturally appropriate and complete, with only a minor note on the formality of \"kaganapan\" in very casual contexts.",
+    "human_score": 5,
+    "explanation1": "Perfect, natural, and accurate.",
+    "explanation2": "Excellent, natural, and idiomatic translation."
+  },
+  {
+    "english": "Despite her exhaustion, she finished the report before the deadline.",
+    "filipino": "Sa kabila ng kanyang pagod, natapos niya ang ulat bago ang deadline.",
+    "paraphrase_src": "She completed the report on time, even though she was very tired.",
+    "paraphrase_tr": "She completed the report before the deadline, despite being tired.",
+    "back_translated": "Despite his fatigue, he finished the report before the deadline.",
+    "scores_and_justifications": {
+      "Accuracy": {
+        "score": 4.5,
+        "justification": "The Filipino translation accurately conveys the core meaning of the English source. The only minor inaccuracy is in the back-translation, which incorrectly uses \"his fatigue\" instead of \"her exhaustion.\" However, the Filipino translation itself correctly uses \"kanyang pagod\" which can refer to both genders, and the context of the original English source clarifies the intended gender."
+      },
+      "Fluency": {
+        "score": 4.0,
+        "justification": "The Filipino translation flows well and sounds natural. The sentence structure is common and easily understood by native speakers."
+      },
+      "Coherence": {
+        "score": 4.2,
+        "justification": "The translation is coherent and logically connects the two parts of the sentence: the state of exhaustion and the action of finishing the report. The use of \"Sa kabila ng\" effectively links these two ideas."
+      },
+      "Cultural Appropriateness": {
+        "score": 5.0,
+        "justification": "The translation is culturally appropriate. The concepts of exhaustion, finishing a report, and meeting a deadline are universal and are expressed in a way that is perfectly natural in Filipino culture."
+      },
+      "Completeness": {
+        "score": 4.8,
+        "justification": "The translation captures all the essential information from the English source. The nuance of \"despite her exhaustion\" is well-represented by \"Sa kabila ng kanyang pagod.\" The slight deduction is due to the back-translation's gender mismatch, which, while not a flaw in the Filipino translation itself, slightly impacts the overall perceived completeness of the conveyed meaning when considering the entire provided data."
+      }
+    },
+    "summary": "Score: 4.5\n\nSummary: The Filipino translation is excellent, accurately conveying the meaning and flowing naturally. It is culturally appropriate and captures all essential information, with only a minor issue in the back-translation's gender specificity impacting the overall completeness score slightly.",
+    "human_score": 5,
+    "explanation1": "Excellent, accurate, and flows well.",
+    "explanation2": "Fluent, accurate, and retains original meaning."
+  },
+  {
+    "english": "That designer bag costs an arm and a leg.",
+    "filipino": "Napakamahal ng designer bag na 'yan.",
+    "paraphrase_src": "That designer bag is extremely expensive.",
+    "paraphrase_tr": "That designer bag is very expensive.",
+    "back_translated": "That designer bag is very expensive.",
+    "scores_and_justifications": {
+      "Accuracy": {
+        "score": 4.5,
+        "justification": "The Filipino translation accurately conveys the meaning of the English source. While \"costs an arm and a leg\" is an idiom for being very expensive, the direct translation \"Napakamahal\" (very expensive) captures the essence of the meaning. It loses the idiomatic flavor but not the core message."
+      },
+      "Fluency": {
+        "score": 4.0,
+        "justification": "The Filipino translation is grammatically correct and flows well. \"Napakamahal ng designer bag na 'yan\" is a natural and common way to express that something is very expensive in Filipino."
+      },
+      "Coherence": {
+        "score": 4.2,
+        "justification": "The translation is coherent and easy to understand. It directly states the high cost of the designer bag, making the meaning clear and logical."
+      },
+      "Cultural Appropriateness": {
+        "score": 5.0,
+        "justification": "The phrase \"Napakamahal ng designer bag na 'yan\" is perfectly culturally appropriate in the Philippines. Discussing the high cost of luxury items like designer bags is common, and this phrasing is natural and widely understood."
+      },
+      "Completeness": {
+        "score": 4.8,
+        "justification": "The translation captures the essential meaning of the English source. It conveys that the designer bag is very expensive. While it doesn't translate the idiomatic expression \"costs an arm and a leg\" literally, the functional meaning of extreme expense is fully conveyed."
+      }
+    },
+    "summary": "Score: 4\nSummary: The Filipino translation is very good, accurately conveying the meaning of the original English phrase. While it sacrifices the idiomatic expression for a more direct statement of high cost, it remains fluent, coherent, culturally appropriate, and complete in its message.",
+    "human_score": 5,
+    "explanation1": "Accurate, Fluent, Coherent, Complete, and captures the meaning of the idiomatic expression.",
+    "explanation2": "Complete, and sounds natural. Captures the meaning well."
+  },
+  {
+    "english": "I didn’t want to go to the dentist, but I had to bite the bullet and get it over with.",
+    "filipino": "Ayoko sanang pumunta sa dentista, pero kailangan kong tiisin ito para matapos na.",
+    "paraphrase_src": "Despite my reluctance, I had to face the unpleasant task at the dentist.",
+    "paraphrase_tr": "I didn't want to go to the dentist, but I had to endure it to get it done.",
+    "back_translated": "I didn't want to go to the dentist, but I had to endure it to get it over with.",
+    "scores_and_justifications": {
+      "Accuracy": {
+        "score": 4.5,
+        "justification": "The Filipino translation accurately conveys the core meaning of the English source. \"Ayoko sanang pumunta sa dentista\" directly translates to \"I didn't want to go to the dentist.\" The phrase \"kailangan kong tiisin ito para matapos na\" captures the essence of \"had to bite the bullet and get it over with,\" although \"tiisin\" (to endure/tolerate) is a slightly less idiomatic translation of \"bite the bullet\" than a more direct Filipino idiom might be."
+      },
+      "Fluency": {
+        "score": 4.0,
+        "justification": "The Filipino translation flows reasonably well. The sentence structure is natural and easy to understand for a native speaker. However, the phrase \"tiisin ito para matapos na\" feels a little more literal than a truly fluent, idiomatic expression for \"bite the bullet.\""
+      },
+      "Coherence": {
+        "score": 4.2,
+        "justification": "The translation is coherent and the ideas connect logically. The cause-and-effect relationship between not wanting to go and having to endure it to finish is clear."
+      },
+      "Cultural Appropriateness": {
+        "score": 5.0,
+        "justification": "The sentiment of not wanting to go to the dentist and having to endure it is universally understood and culturally appropriate in the Philippines. There are no cultural nuances that are lost or misrepresented."
+      },
+      "Completeness": {
+        "score": 4.8,
+        "justification": "The translation captures all the essential elements of the original sentence. The reluctance, the necessity, and the desire for completion are all present. The only minor point is the slight difference in idiomatic expression for \"bite the bullet.\""
+      }
+    },
+    "summary": "Score: 4\nSummary: The Filipino translation is very good, accurately conveying the meaning and flowing naturally. While it captures the essence of the original sentence, a more idiomatic expression for \"bite the bullet\" could enhance fluency further.",
+    "human_score": 4,
+    "explanation1": "Complete, and accurately translates the idiomatic expression, with slight errors in tenses. The translation doesn't capture that the event was already done in the past.",
+    "explanation2": "Good translation but conjugation is incorrect"
+  },
+  {
+    "english": "Mark accidentally let the cat out of the bag about the surprise trip.",
+    "filipino": "Hindi sinasadyang nailabas ni Mark ang pusa mula sa maleta tungkol sa surprise trip.",
+    "paraphrase_src": "Mark unintentionally revealed the secret about the surprise trip.",
+    "paraphrase_tr": "Mark unintentionally let the cat out of the bag regarding the surprise trip.",
+    "back_translated": "Mark accidentally took the cat out of the suitcase about the surprise trip.",
+    "scores_and_justifications": {
+      "Accuracy": {
+        "score": 2.0,
+        "justification": "The Filipino translation incorrectly translates \"let the cat out of the bag\" as \"nailabas ang pusa mula sa maleta\" (took the cat out of the suitcase). This is a literal translation of the words, not the idiomatic meaning. The back-translation clearly shows this misunderstanding."
+      },
+      "Fluency": {
+        "score": 3.5,
+        "justification": "While the sentence is grammatically understandable in Filipino, the phrase \"nailabas ang pusa mula sa maleta\" sounds awkward and unnatural in the context of revealing a secret. It doesn't flow well as a common expression."
+      },
+      "Coherence": {
+        "score": 3.0,
+        "justification": "The sentence is coherent in that it describes an action Mark did involving a cat and a suitcase related to a surprise trip. However, the lack of understanding of the idiom makes the overall meaning confusing and illogical in the intended context."
+      },
+      "Cultural Appropriateness": {
+        "score": 5.0,
+        "justification": "The phrase \"let the cat out of the bag\" is an English idiom. There isn't a direct Filipino idiom that perfectly mirrors this specific English one. Therefore, the translation, while inaccurate in meaning, doesn't introduce any culturally inappropriate elements. It's more of a linguistic mismatch than a cultural one."
+      },
+      "Completeness": {
+        "score": 4.0,
+        "justification": "The translation captures the core elements of the sentence: Mark, the accidental action, and the surprise trip. However, the crucial idiomatic meaning of \"letting the cat out of the bag\" (revealing a secret) is lost due to the literal translation, making the completeness of the *intended meaning* incomplete."
+      }
+    },
+    "summary": "Score: 2\n\nSummary: The Filipino translation is poor due to a literal interpretation of the idiom \"let the cat out of the bag,\" resulting in an inaccurate and unnatural phrase. While grammatically understandable, it fails to convey the intended meaning of revealing a secret, making the overall message confusing. The translation is culturally neutral but incomplete in conveying the original intent.",
+    "human_score": 3,
+    "explanation1": "Complete, and gramatically correct. However, the idiomatic expression was translated literally which loses the original intent of the sentence.",
+    "explanation2": "Idiom was not translated correctly"
+  },
+  {
+    "english": "I won’t be able to attend the meeting later because I’m feeling under the weather.",
+    "filipino": "Hindi ako makakadalo sa meeting mamaya dahil masama ang pakiramdam ko.",
+    "paraphrase_src": "I'm unable to attend the meeting due to illness.",
+    "paraphrase_tr": "I can't make the meeting later because I feel unwell.",
+    "back_translated": "I couldn't attend the meeting later because I felt bad.",
+    "scores_and_justifications": {
+      "Accuracy": {
+        "score": 4.5,
+        "justification": "The translation accurately conveys the core meaning of being unable to attend a meeting due to feeling unwell. The phrase \"masama ang pakiramdam ko\" is a common and direct translation for \"feeling under the weather.\" The slight deduction is due to the back-translation's \"felt bad,\" which is a bit more general than \"under the weather,\" but the Filipino translation itself is quite precise."
+      },
+      "Fluency": {
+        "score": 4.0,
+        "justification": "The Filipino translation flows naturally and uses common phrasing. \"Hindi ako makakadalo sa meeting mamaya\" is a standard way to express inability to attend a meeting. \"Dahil masama ang pakiramdam ko\" is also a very natural way to state the reason. The score is not a perfect 5 because while fluent, it's a very direct and literal translation, and there might be slightly more idiomatic ways to express \"under the weather\" in certain contexts, though this is perfectly understandable and common."
+      },
+      "Coherence": {
+        "score": 4.2,
+        "justification": "The sentence is coherent and logically structured. The cause-and-effect relationship between not attending the meeting and feeling unwell is clearly established with \"dahil.\" The flow from the inability to attend to the reason is smooth and easy to follow."
+      },
+      "Cultural Appropriateness": {
+        "score": 5.0,
+        "justification": "The phrase \"masama ang pakiramdam ko\" is a universally understood and culturally appropriate way to express feeling unwell in Filipino. There are no cultural nuances that are lost or misrepresented in this translation."
+      },
+      "Completeness": {
+        "score": 4.8,
+        "justification": "The translation captures all the essential information from the English source: the inability to attend, the event (meeting), the timing (later), and the reason (feeling unwell). The slight deduction is minor and relates to the subtle difference in nuance between \"under the weather\" and \"masama ang pakiramdam,\" where \"under the weather\" can sometimes imply a more specific type of mild illness, but \"masama ang pakiramdam\" is a very close and acceptable equivalent."
+      }
+    },
+    "summary": "Score: 4.5\n\nSummary: The Filipino translation is excellent, accurately conveying the meaning of the English sentence with natural phrasing and clear coherence. It is culturally appropriate and captures all essential information, with only minor deductions for subtle nuances in the expression of \"under the weather.\"",
+    "human_score": 5,
+    "explanation1": "Accurate, Fluent, Coherent, Complete, and captures the meaning of the idiomatic expression.",
+    "explanation2": "Complete and grammatically correct"
+  },
+  {
+    "english": "Darkness is not heresy. It lies within us all.",
+    "filipino": "Hindi kasalanan ang kadiliman. Nagsisinungaling ito sa loob natin.",
+    "paraphrase_src": "Darkness is not a sin; it resides within everyone.",
+    "paraphrase_tr": "Darkness is not a sin; it lies within us.",
+    "back_translated": "Darkness is not sin. It lies within us.",
+    "scores_and_justifications": {
+      "Accuracy": {
+        "score": 4.5,
+        "justification": "The Filipino translation \"Hindi kasalanan ang kadiliman\" accurately captures the meaning of \"Darkness is not heresy.\" While \"kasalanan\" (sin) is a strong word, it conveys a similar sense of wrongdoing or something to be condemned, which aligns with the original intent. The second part, \"Nagsisinungaling ito sa loob natin,\" is a slight deviation from \"It lies within us all.\" \"Nagsisinungaling\" means \"it lies\" in the sense of telling a falsehood, whereas the English implies existence or presence. However, the back-translation \"It lies within us\" is still understandable in context."
+      },
+      "Fluency": {
+        "score": 4.0,
+        "justification": "The Filipino translation flows reasonably well. \"Hindi kasalanan ang kadiliman\" is a natural-sounding sentence. \"Nagsisinungaling ito sa loob natin\" is also grammatically correct, though the choice of \"nagsisinungaling\" might feel a bit less direct than a word implying mere presence."
+      },
+      "Coherence": {
+        "score": 4.2,
+        "justification": "The two parts of the translation are coherent and logically connected. The idea that darkness is not a sin and that it resides within us all makes sense as a unified thought. The slight ambiguity in the second part doesn't significantly disrupt the overall coherence."
+      },
+      "Cultural Appropriateness": {
+        "score": 5.0,
+        "justification": "The translation is culturally appropriate. The concept of \"kasalanan\" (sin) is deeply ingrained in Filipino culture, particularly due to its strong Catholic influence. Using this term makes the statement resonate well with a Filipino audience. The idea of something residing within oneself is also a universal concept that translates well."
+      },
+      "Completeness": {
+        "score": 4.8,
+        "justification": "The translation captures the core meaning of the English source. The nuance of \"heresy\" is well-represented by \"kasalanan\" in a way that is culturally relevant. The omission of \"all\" in \"It lies within us all\" is a minor point, as \"sa loob natin\" (within us) generally implies a collective sense in this context."
+      }
+    },
+    "summary": "Score: 4.5\n\nSummary: The Filipino translation is strong, accurately conveying the core message of the English source with good fluency and cultural resonance. While there's a slight nuance missed in the second part regarding the meaning of \"lies,\" the overall impact and understanding remain high.",
+    "human_score": 2,
+    "explanation1": "flawed translation takes \"lies\" as literal \"being untruthful\" or \"nagsisinungaling\"",
+    "explanation2": "nan"
+  },
+  {
+    "english": "This would be easier if blood came in more colours.",
+    "filipino": "Ito ay magiging mas madali kung ang dugo ay dumating sa mas maraming kulay.",
+    "paraphrase_src": "It would be simpler with a wider variety of blood colors.",
+    "paraphrase_tr": "It would be simpler if blood came in more colors.",
+    "back_translated": "This would be easier if the blood came in more colors.",
+    "scores_and_justifications": {
+      "Accuracy": {
+        "score": 4.5,
+        "justification": "The Filipino translation accurately conveys the meaning of the English source. The phrase \"dumating sa mas maraming kulay\" is a direct and correct translation of \"came in more colours.\" The slight deduction is because \"dumating\" can sometimes imply arrival, whereas \"available\" or \"had\" might be slightly more nuanced in this context, though \"dumating\" is perfectly understandable."
+      },
+      "Fluency": {
+        "score": 4.0,
+        "justification": "The sentence flows reasonably well in Filipino. \"Ito ay magiging mas madali kung ang dugo ay dumating sa mas maraming kulay\" is grammatically correct and understandable. However, a slightly more natural phrasing might be \"Mas madali sana ito kung ang dugo ay may mas maraming kulay\" or \"Mas madali sana kung ang dugo ay may iba't ibang kulay.\" The current phrasing is a bit literal."
+      },
+      "Coherence": {
+        "score": 4.2,
+        "justification": "The translation maintains the logical flow and meaning of the original sentence. The cause-and-effect relationship (easier if blood had more colors) is preserved. The sentence makes sense as a standalone statement."
+      },
+      "Cultural Appropriateness": {
+        "score": 5.0,
+        "justification": "The concept of blood and its color is universal and does not carry any specific cultural connotations that would make the translation inappropriate. The phrasing is neutral and respectful."
+      },
+      "Completeness": {
+        "score": 4.8,
+        "justification": "The translation captures all the essential elements of the English source. There are no missing ideas or nuances. The sentiment of wishing for more blood colors to simplify something is fully conveyed."
+      }
+    },
+    "summary": "Score: 4\n\nSummary: The Filipino translation is good, accurately conveying the meaning and maintaining coherence. While generally fluent, some minor phrasing adjustments could enhance naturalness. Cultural appropriateness and completeness are excellent.",
+    "human_score": 2,
+    "explanation1": "flawed translation takes \"came in more colors\" literally",
+    "explanation2": "nan"
+  },
+  {
+    "english": "This guy right here is Shadow, and he's kinda my biggest rival. He's also a real buzz-kill.",
+    "filipino": "Ang lalaking ito dito ay si Shadow, at siya ang aking pinakamalaking karibal. Isa rin siyang totoong buzz-kill.",
+    "paraphrase_src": "This is Shadow, my biggest rival and a real buzz-kill.",
+    "paraphrase_tr": "This man is Shadow, my greatest rival and a true buzz-kill.",
+    "back_translated": "This guy here is Shadow, and he's my biggest rival.",
+    "scores_and_justifications": {
+      "Accuracy": {
+        "score": 4.5,
+        "justification": "The translation accurately captures the core meaning of the source text, identifying Shadow as the speaker's biggest rival. However, the phrase \"kinda my biggest rival\" is slightly softened in the Filipino translation to \"aking pinakamalaking karibal,\" losing a touch of the informal \"kinda.\""
+      },
+      "Fluency": {
+        "score": 4.0,
+        "justification": "The Filipino translation is generally fluent and understandable. The sentence structure is natural. The use of \"totoong buzz-kill\" is a direct borrowing from English, which might slightly disrupt the flow for some Filipino speakers who prefer a fully Tagalized expression."
+      },
+      "Coherence": {
+        "score": 4.2,
+        "justification": "The translation maintains coherence by clearly stating the relationship between the speaker and Shadow and then adding the additional characteristic of Shadow being a \"buzz-kill.\" The two parts of the sentence connect logically."
+      },
+      "Cultural Appropriateness": {
+        "score": 5.0,
+        "justification": "The translation is culturally appropriate. The concept of a rival and someone being a \"buzz-kill\" are universally understood and don't require significant cultural adaptation. The direct use of \"buzz-kill\" is common in informal Filipino conversation, especially among younger generations."
+      },
+      "Completeness": {
+        "score": 4.8,
+        "justification": "The translation is very complete. It successfully conveys that Shadow is the speaker's biggest rival and also a \"buzz-kill.\" The only minor point is the slight loss of nuance in \"kinda\" as mentioned in the accuracy section."
+      }
+    },
+    "summary": "Score: 4\n\nSummary: The Filipino translation is very good, accurately conveying the core meaning and maintaining coherence and cultural appropriateness. While generally fluent, the direct borrowing of \"buzz-kill\" might slightly affect flow for some. The only minor point is a slight loss of nuance in the informal \"kinda.\"",
+    "human_score": 1,
+    "explanation1": "\"Ang lalaking ito dito\" should not have \"dito\"",
+    "explanation2": "buzz-kill is not translated. also \"totoong buzzkill\" is too litteral."
+  },
+  {
+    "english": "Stealth is not your thing. But it's adorable you're willing to try.",
+    "filipino": "Ang pagnanakaw ay hindi bagay sa iyo. Ngunit ito ay kaibig-ibig na handa kang subukan.",
+    "paraphrase_src": "You're not good at being sneaky, but it's cute that you're giving it a shot.",
+    "paraphrase_tr": "Stealing isn't your forte, but it's endearing that you're willing to attempt it.",
+    "back_translated": "Stealing is not your thing, but it is a lovely thing to be willing to try.",
+    "scores_and_justifications": {
+      "Accuracy": {
+        "score": 2.0,
+        "justification": "The Filipino translation uses \"pagnanakaw\" which means \"stealing\" or \"theft.\" The English source uses \"stealth,\" which refers to being secretive or moving without being noticed, not necessarily stealing. This is a significant mistranslation."
+      },
+      "Fluency": {
+        "score": 4.0,
+        "justification": "The Filipino sentence structure is grammatically correct and flows reasonably well. The phrase \"hindi bagay sa iyo\" is a natural way to express \"not your thing.\""
+      },
+      "Coherence": {
+        "score": 3.5,
+        "justification": "While the individual parts of the sentence are understandable, the mistranslation of \"stealth\" to \"stealing\" creates a disconnect in the overall meaning. The idea of someone being bad at stealing and it being adorable that they're willing to try is a bit jarring compared to the original sentiment of being bad at being stealthy."
+      },
+      "Cultural Appropriateness": {
+        "score": 5.0,
+        "justification": "The sentiment expressed in the Filipino translation is culturally appropriate. The idea of finding someone's attempt at something endearing, even if they're not good at it, is a universally understood and accepted sentiment."
+      },
+      "Completeness": {
+        "score": 4.0,
+        "justification": "The translation captures the two main ideas of the English source: that the person is not good at the action, and that their willingness to try is endearing. However, the inaccuracy in translating \"stealth\" affects the completeness of the *intended* meaning."
+      }
+    },
+    "summary": "Score: 2\nSummary: The translation is grammatically sound and culturally appropriate, but a significant mistranslation of \"stealth\" as \"stealing\" fundamentally alters the meaning and coherence of the sentence, making it a poor representation of the original English.",
+    "human_score": 1,
+    "explanation1": "\"sumubok\" might be better than \"subukan\" in this context",
+    "explanation2": "Changing adorable to \"nakakabilib\" (impressive) changes the tone for this line. Rouge calling Knuckles \"cute\" is meant to have immasculating undertones. In the incorrect translation, stealth is refering to the act of being stealthy/quiet/hidden. Pagnanakaw is theft. wrong translation entirely."
+  },
+  {
+    "english": "Cheddar cheese got its name from a village in what country?",
+    "filipino": "Ang nayon na pinagkuhanan ng pangalan ng cheddar cheese ay nasaang bansa?",
+    "paraphrase_src": "From which country's village did cheddar cheese get its name?",
+    "paraphrase_tr": "In what country is the village that cheddar cheese is named after located?",
+    "back_translated": "The village from which cheddar cheese gets its name is in what country?",
+    "scores_and_justifications": {
+      "Accuracy": {
+        "score": 4.5,
+        "justification": "The translation accurately conveys the core meaning of the English source. The phrase \"pinagkuhanan ng pangalan\" (from which the name was taken) is a good translation for \"got its name from.\" The only slight deduction is that \"nayon\" (village) is a bit more specific than \"village\" in the original, which could refer to a town or settlement."
+      },
+      "Fluency": {
+        "score": 4.0,
+        "justification": "The Filipino sentence flows reasonably well. \"Ang nayon na pinagkuhanan ng pangalan ng cheddar cheese ay nasaang bansa?\" is grammatically correct and understandable. However, a slightly more natural phrasing might be \"Saang bansa matatagpuan ang nayon kung saan nagmula ang pangalan ng cheddar cheese?\" which uses a more common sentence structure."
+      },
+      "Coherence": {
+        "score": 4.2,
+        "justification": "The translation is coherent and easy to understand. The relationship between the village, the name of the cheese, and the country is clearly established. The question is logically structured."
+      },
+      "Cultural Appropriateness": {
+        "score": 5.0,
+        "justification": "The translation is perfectly culturally appropriate. The use of \"nayon\" is a common and understandable term for a village in the Philippines. There are no cultural nuances that are lost or misrepresented."
+      },
+      "Completeness": {
+        "score": 4.8,
+        "justification": "The translation captures all the essential information from the English source. It asks about the origin of the name of cheddar cheese and the country where the village is located. The slight deduction is due to the subtle difference in specificity between \"village\" and \"nayon\" as mentioned in the accuracy section."
+      }
+    },
+    "summary": "Score: 4.5\n\nSummary: The Filipino translation is very good, accurately conveying the meaning and being largely fluent and coherent. While the use of \"nayon\" is slightly more specific than \"village,\" it doesn't detract significantly from the overall quality. The translation is culturally appropriate and complete, making it a strong rendition of the original English.",
+    "human_score": 3,
+    "explanation1": "Good translation, gramatically correct, but the word choice is quite formal and doesn't reflect everyday conversations the best.",
+    "explanation2": "Good translation that would be understood by native speakers, but still follows the English-centric sentence structure of subject, then verb rather than vice versa."
+  },
+  {
+    "english": "Which of the following tools is LEAST likely to be used in the process of creating a wood sculpture?",
+    "filipino": "Alin sa mga sumusunod ang PINAKABIHIRANG ginagamit sa paggawa ng eskulturang kahoy?",
+    "paraphrase_src": "Which tool is least likely for wood sculpting?",
+    "paraphrase_tr": "Which of the following is rarely used in making a wood sculpture?",
+    "back_translated": "Which of the following is the MOST commonly used in wood sculpture?",
+    "scores_and_justifications": {
+      "Accuracy": {
+        "score": 2.0,
+        "justification": "The back-translation clearly indicates a significant error in the Filipino translation. The source asks for the \"LEAST likely\" tool, while the Filipino translation uses \"PINAKABIHIRANG\" which means \"MOST RARELY\" or \"MOST UNCOMMON.\" This is the opposite of what was intended."
+      },
+      "Fluency": {
+        "score": 4.0,
+        "justification": "The Filipino translation itself is grammatically correct and flows well in the Filipino language. The issue lies in the meaning conveyed, not the linguistic construction."
+      },
+      "Coherence": {
+        "score": 3.5,
+        "justification": "While the sentence is coherent in Filipino, the inversion of \"least\" to \"most\" creates a logical disconnect with the intended meaning of the English source. Someone reading the Filipino translation would understand the question as asking for the most common tool, which is not the original intent."
+      },
+      "Cultural Appropriateness": {
+        "score": 5.0,
+        "justification": "The phrasing and vocabulary used in the Filipino translation are perfectly appropriate for the context of discussing tools and art. There are no cultural insensitivities or misunderstandings."
+      },
+      "Completeness": {
+        "score": 4.0,
+        "justification": "The translation captures the essence of the question about wood sculpture and tools. However, the critical error in conveying \"least likely\" versus \"most commonly\" makes it incomplete in terms of accurately representing the original question's intent."
+      }
+    },
+    "summary": "Score: 2\n\nSummary: The Filipino translation is grammatically sound and culturally appropriate, but it contains a critical error in meaning by inverting \"least likely\" to \"most rarely,\" fundamentally altering the question's intent and making it incomplete in conveying the original message.",
+    "human_score": 5,
+    "explanation1": "Perfect translation. Sounds natural as well for a native speaker.",
+    "explanation2": "Accurate translation that would be used in everyday conversations."
+  },
+  {
+    "english": "With what would you use a \"wah-wah pedal?",
+    "filipino": "Ano ang gagamitin mo ng \"wah-wah pedal?",
+    "paraphrase_src": "What would you use a wah-wah pedal for?",
+    "paraphrase_tr": "What would you use a wah-wah pedal for?",
+    "back_translated": "What would you use the \"wah-wah pedal\" for?",
+    "scores_and_justifications": {
+      "Accuracy": {
+        "score": 4.5,
+        "justification": "The Filipino translation \"Ano ang gagamitin mo ng 'wah-wah pedal?\" is very close to the original meaning. The back-translation confirms this. The slight deduction is because \"gagamitin mo ng\" can sometimes imply \"will use *by* you\" rather than \"will use *for* you,\" though in context, the intended meaning is clear."
+      },
+      "Fluency": {
+        "score": 4.0,
+        "justification": "The sentence is grammatically understandable in Filipino. However, a more natural phrasing would be \"Para saan mo gagamitin ang 'wah-wah pedal'?\" or \"Ano ang gamit ng 'wah-wah pedal'?\" The current phrasing feels a bit direct and less idiomatic."
+      },
+      "Coherence": {
+        "score": 4.2,
+        "justification": "The translation is coherent and understandable. The question is clear and directly asks about the use of the \"wah-wah pedal.\" The slight deduction is due to the minor fluency issue mentioned above, which can subtly affect the overall flow."
+      },
+      "Cultural Appropriateness": {
+        "score": 5.0,
+        "justification": "The term \"wah-wah pedal\" is a specific musical equipment term, and its use is not tied to any particular Filipino culture. The question itself is a straightforward inquiry about its function, which is culturally neutral."
+      },
+      "Completeness": {
+        "score": 4.8,
+        "justification": "The translation captures the essence of the original question. It asks about the use of the \"wah-wah pedal.\" The slight deduction is again related to the nuance of phrasing, where a more complete or idiomatic Filipino question might elicit a more detailed or contextually appropriate answer."
+      }
+    },
+    "summary": "Score: 4\n\nSummary: The Filipino translation is good and understandable, accurately conveying the original meaning. However, it could be more natural and idiomatic in its phrasing, with minor grammatical nuances that slightly affect fluency and completeness. Cultural appropriateness is excellent.",
+    "human_score": 1,
+    "explanation1": "Incoherent sentence due to trying to match english sentence word-per-word",
+    "explanation2": "Wrong verb-tense which makes the sentence sound like nonsense."
+  },
+  {
+    "english": "Which of the following dental topics is developmentally appropriate for toddlers?",
+    "filipino": "Alin sa mga sumusunod na paksa sa ngipin ang angkop sa pag-unlad para sa mga paslit?",
+    "paraphrase_src": "What dental topics are suitable for toddlers' development?",
+    "paraphrase_tr": "Which dental subjects are developmentally suitable for toddlers?",
+    "back_translated": "Which of the following dental topics is appropriate for the development of implants?",
+    "scores_and_justifications": {
+      "Accuracy": {
+        "score": 3.0,
+        "justification": "The back-translation reveals a significant inaccuracy. \"Developmentally appropriate\" was translated to \"angkop sa pag-unlad\" which is a good literal translation. However, the addition of \"para sa mga paslit\" (for toddlers) in the Filipino translation, while correct in context, was not fully captured in the back-translation which interpreted \"pag-unlad\" as \"development of implants.\" This suggests a potential ambiguity or misinterpretation in the translation process that led to a misleading back-translation."
+      },
+      "Fluency": {
+        "score": 4.5,
+        "justification": "The Filipino translation flows well and sounds natural. The phrasing \"Alin sa mga sumusunod na paksa sa ngipin ang angkop sa pag-unlad para sa mga paslit?\" is grammatically correct and easy to understand for a native speaker."
+      },
+      "Coherence": {
+        "score": 4.0,
+        "justification": "The Filipino translation is coherent and logically structured. It clearly asks which dental topics are suitable for toddlers' development. The connection between \"paksa sa ngipin\" (dental topics) and \"angkop sa pag-unlad para sa mga paslit\" (appropriate for the development of toddlers) is clear."
+      },
+      "Cultural Appropriateness": {
+        "score": 5.0,
+        "justification": "The Filipino translation uses appropriate terminology (\"paslit\" for toddlers) and the overall phrasing is culturally neutral and suitable for a general audience in the Philippines. There are no elements that would be considered inappropriate or offensive."
+      },
+      "Completeness": {
+        "score": 4.5,
+        "justification": "The Filipino translation captures the essence of the English source. It asks about developmentally appropriate dental topics for toddlers. The only slight deduction is due to the potential for misinterpretation highlighted in the accuracy score, which could lead to a misunderstanding of the intended scope."
+      }
+    },
+    "summary": "Score: 4\n\nSummary: The Filipino translation is generally good, with strong fluency, coherence, and cultural appropriateness. While it accurately conveys the meaning of the original English, there's a minor concern regarding potential ambiguity in the back-translation that could lead to misinterpretation of a specific phrase.",
+    "human_score": 2,
+    "explanation1": "Most of the translation is actually quite spot-on, but trying to directly translate \"dental\" to \"ngipin\" completely changes the sentence's meaning",
+    "explanation2": "No direct translation for dental in tagalog, so translation tries to find a related word in \"ngipin\" which means teeth. A code-switched version like \"paksang dental\" would be better."
+  },
+  {
+    "english": "The Bloons are back and better than ever! Get ready for a massive 3D tower defense game designed to give you hours and hours of the best strategy gaming available.",
+    "filipino": "Ang Bloons ay bumalik at mas mahusay kaysa dati! Maghanda para sa isang napakalaking 3D tower defense na laro na idinisenyo upang bigyan ka ng mga oras at oras ng pinakamahusay na diskarte sa paglalaro na magagamit.",
+    "paraphrase_src": "The Bloons have returned with an enhanced 3D tower defense experience offering extensive strategic gameplay.",
+    "paraphrase_tr": "The Bloons are back and better than ever, promising a huge 3D tower defense game with endless hours of top-tier strategy.",
+    "back_translated": "Get ready for a massive 3D tower defense game designed to give you hours and hours of the best gameplay available.",
+    "scores_and_justifications": {
+      "Accuracy": {
+        "score": 4.5,
+        "justification": "The translation accurately conveys the core message of the English source. \"Mas mahusay kaysa dati\" is a good translation for \"better than ever.\" The phrase \"pinakamahusay na diskarte sa paglalaro na magagamit\" is a close equivalent to \"best strategy gaming available.\" The only slight deduction is that \"strategy gaming\" is a bit more specific than \"diskarte sa paglalaro,\" which could also encompass general strategy."
+      },
+      "Fluency": {
+        "score": 4.0,
+        "justification": "The Filipino translation reads quite smoothly. The sentence structure is natural and easy to understand for a Filipino speaker. \"Maghanda para sa isang napakalaking 3D tower defense na laro\" flows well. The repetition of \"oras at oras\" is also natural in Filipino."
+      },
+      "Coherence": {
+        "score": 4.2,
+        "justification": "The translation maintains a logical flow and connects the ideas presented in the English source. The transition from announcing the return of Bloons to describing the game is clear. The purpose of the game (providing hours of strategy gaming) is also well-connected."
+      },
+      "Cultural Appropriateness": {
+        "score": 5.0,
+        "justification": "The translation is perfectly culturally appropriate. The language used is standard Filipino and does not contain any elements that would be considered offensive or out of place in a Filipino context. The concept of \"tower defense\" games is also understood within the gaming community in the Philippines."
+      },
+      "Completeness": {
+        "score": 4.8,
+        "justification": "The translation captures all the essential information from the English source. It mentions the return of Bloons, their improved state, the nature of the game (massive 3D tower defense), and the promise of hours of the best strategy gaming. The slight deduction is that \"strategy gaming\" is a very specific genre, and while \"diskarte sa paglalaro\" is good, it might not perfectly capture the nuance of \"strategy gaming\" as a distinct genre for those deeply familiar with gaming terminology. However, for a general audience, it's very complete."
+      }
+    },
+    "summary": "Score: 4\n\nSummary: The Filipino translation is very good, accurately conveying the message with natural-sounding language and maintaining coherence. It is culturally appropriate and captures most of the essential information. The only minor areas for improvement are the slight nuance in translating \"strategy gaming\" and ensuring absolute precision for a highly specialized gaming audience.",
+    "human_score": 3,
+    "explanation1": "\"mga oras at oras ng pinakamahusay na diskarte sa paglalaro na magagamit\" is a too literal translation, some parts would be better removed for improved clarity and flow",
+    "explanation2": "lexical error, “mas mahusay kaysa dati\", literal translation of \"better than ever\", lacks enthusiasm or punch."
+  },
+  {
+    "english": "Sea of Thieves is a smash-hit pirate adventure game, offering the quintessential pirate experience of plundering lost treasures, intense battles, vanquishing sea monsters and more. Dive in with this revised edition of the game, which includes access to digital bonus media.",
+    "filipino": "Ang Sea of Thieves ay isang smash-hit na pirate adventure game, na nag-aalok ng quintessential na karanasan sa pirata ng pagnanakaw sa mga nawawalang kayamanan, matinding labanan, pagtalo sa mga halimaw sa dagat at higit pa. Sumisid sa binagong edisyon ng larong ito, na kinabibilangan ng access sa digital bonus media.",
+    "paraphrase_src": "Sea of Thieves is a popular pirate game that delivers an authentic pirate adventure with treasure hunting, combat, and monster battles, now available in a revised edition with bonus digital content.",
+    "paraphrase_tr": "Sea of Thieves is a highly successful pirate adventure game, providing the ultimate pirate experience with treasure plundering, fierce battles, and sea monster vanquishing, and this updated edition includes bonus digital media.",
+    "back_translated": "Sea of Thieves is a smash-hit pirate adventure game, offering the quintessential pirate experience of stealing lost treasures, intense combat, battling sea monsters and more.",
+    "scores_and_justifications": {
+      "Accuracy": {
+        "score": 4.5,
+        "justification": "The translation is very close to the original meaning. \"Pagnanakaw sa mga nawawalang kayamanan\" is a good translation for \"plundering lost treasures,\" and \"pagtalo sa mga halimaw sa dagat\" accurately conveys \"vanquishing sea monsters.\" The only slight deviation is \"stealing\" in the back-translation, which is a bit less nuanced than \"plundering,\" but the Filipino translation itself is accurate."
+      },
+      "Fluency": {
+        "score": 4.0,
+        "justification": "The Filipino translation flows reasonably well. Phrases like \"na nag-aalok ng quintessential na karanasan sa pirata\" are grammatically correct and understandable. However, the repetition of \"na\" can make it slightly less fluid than a perfectly natural Filipino sentence."
+      },
+      "Coherence": {
+        "score": 4.2,
+        "justification": "The translation maintains the logical flow of the original English text. The sentences connect well, and the overall message about the game and its revised edition is clear and easy to follow."
+      },
+      "Cultural Appropriateness": {
+        "score": 5.0,
+        "justification": "The concepts of pirates, treasure hunting, battles, and sea monsters are universally understood and do not carry any specific negative or inappropriate connotations in Filipino culture. The language used is also standard and respectful."
+      },
+      "Completeness": {
+        "score": 4.8,
+        "justification": "The translation captures all the essential information from the English source. It mentions the game's genre, its core experiences, and the inclusion of bonus digital media in the revised edition. The slight difference in the back-translation of \"plundering\" to \"stealing\" doesn't detract from the overall completeness of the Filipino translation."
+      }
+    },
+    "summary": "Score: 4\n\nSummary: The Filipino translation is very good, accurately conveying the meaning of the original English text with only minor stylistic deviations. It is coherent, culturally appropriate, and complete, making it a high-quality translation.",
+    "human_score": 2,
+    "explanation1": "unnatural phrasing; \"quintessential na karanasan sa pirata\" sound overly literal and not idiomatic in Filipino.",
+    "explanation2": "stiff or overly formal tone, \"binagong edisyon\" and \"kinabibilangan ng access sa digital bonus media\" feel too formal and literal"
+  },
+  {
+    "english": "The Binding of Isaac: Rebirth is a randomly generated action RPG shooter with heavy Rogue-like elements. Following Isaac on his journey players will find bizarre treasures that change Isaac's form giving him super human abilities and enabling him to fight off droves of mysterious creatures, discover secrets and fight his way to safety.",
+    "filipino": "Ang The Binding of Isaac: Rebirth ay isang random na nabuong action RPG shooter na may mabibigat na elementong parang Rogue. Kasunod ni Isaac sa kanyang paglalakbay, ang mga manlalaro ay makakahanap ng mga kakaibang kayamanan na nagpabago sa anyo ni Isaac na nagbibigay sa kanya ng sobrang mga kakayahan ng tao at nagbibigay-daan sa kanya upang labanan ang napakaraming mga misteryosong nilalang, tumuklas ng mga lihim at labanan ang kanyang daan patungo sa kaligtasan.",
+    "paraphrase_src": "The Binding of Isaac: Rebirth is a procedurally generated action RPG shooter with significant rogue-like mechanics, where players guide Isaac through a journey of fighting monsters, uncovering secrets, and acquiring transformative treasures that grant him superhuman abilities.",
+    "paraphrase_tr": "The Binding of Isaac: Rebirth is a randomly generated action RPG shooter with strong rogue-like elements, where players follow Isaac's journey to find strange treasures that alter his form, granting him superhuman abilities to battle mysterious creatures, discover secrets, and fight for survival.",
+    "back_translated": "The Binding of Isaac: Rebirth is a randomly generated action RPG shooter with heavy Rogue-like elements. Following Isaac on his journey, players will find strange treasures that transform Isaac's form giving him superhuman abilities and allowing him to fight so many mysterious creatures, uncover secrets and fight his way to safety.",
+    "scores_and_justifications": {
+      "Accuracy": {
+        "score": 4.5,
+        "justification": "The translation is very close to the original meaning. The phrase \"heavy Rogue-like elements\" is translated as \"mabibigat na elementong parang Rogue,\" which captures the essence well. \"Droves of mysterious creatures\" is translated as \"napakaraming mga misteryosong nilalang,\" which is a good equivalent. The only slight deviation is \"super human abilities\" being translated as \"sobrang mga kakayahan ng tao\" which is a bit more literal than \"superhuman abilities\" but still conveys the meaning."
+      },
+      "Fluency": {
+        "score": 4.0,
+        "justification": "The Filipino translation flows reasonably well. Some phrases, like \"random na nabuong action RPG shooter,\" are a bit clunky due to the direct translation of English technical terms. \"Nagbibigay-daan sa kanya upang labanan ang napakaraming mga misteryosong nilalang\" is also a bit wordy. However, the overall sentence structure is understandable and readable."
+      },
+      "Coherence": {
+        "score": 4.2,
+        "justification": "The translation maintains the logical flow of the original English text. The sequence of events and descriptions is preserved, making it easy to follow Isaac's journey and the game's mechanics. The connection between finding treasures, gaining abilities, and fighting creatures is clear."
+      },
+      "Cultural Appropriateness": {
+        "score": 5.0,
+        "justification": "The translation uses standard Filipino vocabulary and grammar. There are no culturally insensitive or inappropriate terms used. The game's concepts are translated in a way that would be understood by a Filipino audience without any cultural disconnect."
+      },
+      "Completeness": {
+        "score": 4.8,
+        "justification": "The translation captures all the essential information from the English source. Every key element, from the game genre to the player's objective, is present in the Filipino version. The slight deduction is for the minor nuance lost in translating \"super human abilities\" to \"sobrang mga kakayahan ng tao,\" which is a very subtle point."
+      }
+    },
+    "summary": "Score: 4\nSummary: The Filipino translation is of high quality, accurately conveying the original meaning with good fluency and coherence. It effectively captures the game's genre and mechanics, and is culturally appropriate. Minor areas for improvement include slightly more natural phrasing for technical terms and a more concise sentence structure in a few instances.",
+    "human_score": 2,
+    "explanation1": "The translations are too literal; some of the terms could be preserved such as \"Rogue-like\"; super human abilities was incorrectly translated to \"sobrang mga kakayahan ng tao\", instead of \"higit sa karaniwang kakayahan ng tao\", or just \"makapangyarihang kakayahan\"",
+    "explanation2": "semantic errors and lexical errors, phrases like “labanan ang kanyang daan” and “random na nabuong” sound unnatural or awkward."
+  },
+  {
+    "english": "Welcome to a new world! In Monster Hunter: World, the latest installment in the series, you can enjoy the ultimate hunting experience, using everything at your disposal to hunt monsters in a new world teeming with surprises and excitement.",
+    "filipino": "Maligayang pagdating sa isang bagong mundo! Sa Monster Hunter: World, ang pinakabagong installment sa serye, masisiyahan ka sa pinakahuling karanasan sa pangangaso, gamit ang lahat ng iyong makakaya upang manghuli ng mga halimaw sa isang bagong mundo na puno ng mga sorpresa at kaguluhan.",
+    "paraphrase_src": "Embark on an ultimate hunting adventure in Monster Hunter: World, the newest game in the series, where you'll face exciting challenges and unexpected discoveries in a vibrant new environment.",
+    "paraphrase_tr": "Welcome to a new world! In Monster Hunter: World, the latest installment in the series, you can enjoy the ultimate hunting experience, using everything at your disposal to hunt monsters in a new world teeming with surprises and excitement.",
+    "back_translated": "Welcome to a new world! In Monster Hunter: World, the latest installment in the series, you'll enjoy the ultimate hunting experience, using all you can to hunt monsters in a new world full of surprises and chaos.",
+    "scores_and_justifications": {
+      "Accuracy": {
+        "score": 4.5,
+        "justification": "The translation is very accurate, capturing the essence of the original English. The only minor deviation is \"chaos\" in the back-translation for \"kaguluhan,\" which is a slightly stronger word than \"excitement\" but still conveys a similar sense of dynamic activity in the game world."
+      },
+      "Fluency": {
+        "score": 4.0,
+        "justification": "The Filipino translation flows well and sounds natural. The sentence structure is good, and the word choices are appropriate for a gaming context."
+      },
+      "Coherence": {
+        "score": 4.2,
+        "justification": "The translation maintains the logical flow of the original text. The ideas are presented in a clear and understandable order, making it easy for a Filipino speaker to grasp the message."
+      },
+      "Cultural Appropriateness": {
+        "score": 5.0,
+        "justification": "The language used is standard Filipino and is perfectly appropriate for introducing a video game. There are no cultural nuances that would be lost or misinterpreted."
+      },
+      "Completeness": {
+        "score": 4.8,
+        "justification": "The translation effectively conveys all the key information from the English source. The sentiment of excitement and the core gameplay loop are well-represented."
+      }
+    },
+    "summary": "Score: 4\n\nSummary: The Filipino translation is of high quality, demonstrating strong accuracy, fluency, and cultural appropriateness. It effectively conveys the original message with only minor semantic shifts in one instance. The translation is also complete and coherent, making it suitable for introducing a video game to a Filipino audience.",
+    "human_score": 4,
+    "explanation1": "\"installment\" could be replaced with an apt filipino word (e.g., parte, bahagi, kabanata)",
+    "explanation2": "semantic error “Kaguluhan” (for “excitement”)"
+  },
+  {
+    "english": "For so long, you and me been finding each other for so long.",
+    "filipino": "Matagal na, matagal na tayong dalawa naghahanap sa isa't isa.",
+    "paraphrase_src": "We've been searching for each other for a very long time.",
+    "paraphrase_tr": "We've been looking for each other for a long time.",
+    "back_translated": "We've been looking for each other for a long, long time.",
+    "scores_and_justifications": {
+      "Accuracy": {
+        "score": 4.5,
+        "justification": "The Filipino translation captures the essence of \"finding each other\" and \"for so long.\" The repetition of \"matagal na\" effectively conveys the duration. The slight deviation from a literal word-for-word translation is minor and doesn't detract from the overall meaning."
+      },
+      "Fluency": {
+        "score": 4.0,
+        "justification": "The sentence flows reasonably well in Filipino. \"Matagal na, matagal na tayong dalawa naghahanap sa isa't isa\" is grammatically correct and understandable. It sounds natural, though perhaps a slightly more concise phrasing could be considered for peak fluency."
+      },
+      "Coherence": {
+        "score": 4.2,
+        "justification": "The translation is coherent and easy to understand. The repetition of \"matagal na\" emphasizes the prolonged search, which aligns with the source. The phrase \"tayong dalawa\" clearly indicates \"you and me.\""
+      },
+      "Cultural Appropriateness": {
+        "score": 5.0,
+        "justification": "The sentiment of searching for someone for a long time is universally understood and expressed appropriately in Filipino culture. There are no cultural nuances that would make this translation inappropriate."
+      },
+      "Completeness": {
+        "score": 4.8,
+        "justification": "The translation effectively conveys the core message of the English source. The emphasis on the duration of the search is well-represented. The slight difference in the back-translation (\"We've been looking for each other for a long, long time\" vs. \"For so long, you and me been finding each other for so long\") is a matter of stylistic variation rather than a loss of meaning."
+      }
+    },
+    "summary": "Score: 4\n\nSummary: The Filipino translation is very good, accurately conveying the meaning and sentiment of the original English. It flows well and is culturally appropriate, with only minor room for stylistic improvement in conciseness.",
+    "human_score": 2,
+    "explanation1": "translates you and me into tayo and the translation of finding is awkward",
+    "explanation2": "You and me' was translated as 'tayo', which might not be the best fit, and the word 'finding' sounds a bit off in the translation."
+  },
+  {
+    "english": "I can't stop smiling when you're there",
+    "filipino": "Hindi ko mapigilang ngumiti tuwing andiyan ka",
+    "paraphrase_src": "Your presence makes me happy.",
+    "paraphrase_tr": "I can't help but smile whenever you're around.",
+    "back_translated": "I can't stop smiling every time you're away",
+    "scores_and_justifications": {
+      "Accuracy": {
+        "score": 2.0,
+        "justification": "The back-translation clearly indicates a significant error in the Filipino translation. \"Tuwing andiyan ka\" means \"every time you are here,\" while the back-translation states \"every time you're away.\" This is a direct contradiction and a major inaccuracy."
+      },
+      "Fluency": {
+        "score": 4.0,
+        "justification": "Despite the accuracy issue, the Filipino phrase \"Hindi ko mapigilang ngumiti tuwing andiyan ka\" is grammatically correct and flows naturally in Filipino. It sounds like a genuine expression."
+      },
+      "Coherence": {
+        "score": 3.5,
+        "justification": "The Filipino translation, as it stands, is coherent in itself. However, its coherence with the *intended* English meaning is severely compromised by the inaccuracy. If interpreted literally as translated, it makes sense, but it doesn't convey the original sentiment."
+      },
+      "Cultural Appropriateness": {
+        "score": 5.0,
+        "justification": "The sentiment of being unable to stop smiling when someone is present is a universal and positive emotion. The Filipino translation expresses this sentiment in a way that is culturally appropriate and commonly understood in the Philippines."
+      },
+      "Completeness": {
+        "score": 4.0,
+        "justification": "The Filipino translation captures the core idea of smiling uncontrollably when the person is present. However, the inaccuracy in the \"when you're there\" aspect means it doesn't fully and accurately complete the intended meaning of the source sentence."
+      }
+    },
+    "summary": "Score: 2\n\nSummary: The Filipino translation is grammatically fluent and culturally appropriate, expressing a positive sentiment. However, a significant inaccuracy in the back-translation, where \"every time you are here\" is rendered as \"every time you're away,\" severely compromises the overall accuracy and completeness of the translation, making it fail to convey the intended meaning.",
+    "human_score": 5,
+    "explanation1": "translation is accurate while sounding natural",
+    "explanation2": "The translation is correct and still sounds smooth and natural."
+  },
+  {
+    "english": "I just want to be your everything.",
+    "filipino": "Nais ko lang ay maging lahat para sa’yo",
+    "paraphrase_src": "I want to be all that you need.",
+    "paraphrase_tr": "I want to be everything to you.",
+    "back_translated": "I just want to be everything for you",
+    "scores_and_justifications": {
+      "Accuracy": {
+        "score": 4.5,
+        "justification": "The Filipino translation \"Nais ko lang ay maging lahat para sa’yo\" is a very close and accurate rendition of \"I just want to be your everything.\" The phrase \"maging lahat para sa'yo\" directly translates to \"to be everything for you,\" which captures the essence of the original English. The slight difference in nuance from \"your everything\" to \"everything for you\" is minimal and doesn't detract from the overall meaning."
+      },
+      "Fluency": {
+        "score": 4.0,
+        "justification": "The sentence flows well in Filipino. \"Nais ko lang ay maging lahat para sa'yo\" is grammatically correct and sounds natural. The use of \"nais ko lang\" (I just want) and \"para sa'yo\" (for you) are common and idiomatic expressions."
+      },
+      "Coherence": {
+        "score": 4.2,
+        "justification": "The translation is coherent and easy to understand. It clearly conveys the speaker's desire to be all-encompassing for the other person. The structure of the sentence is logical and maintains the sentiment of the original."
+      },
+      "Cultural Appropriateness": {
+        "score": 5.0,
+        "justification": "This sentiment is highly culturally appropriate in Filipino culture, where expressing deep devotion and a desire to be everything for a loved one is a common and valued expression of love and commitment. The phrasing used is a standard and heartfelt way to convey such a feeling."
+      },
+      "Completeness": {
+        "score": 4.8,
+        "justification": "The translation fully captures the meaning and emotional weight of the original English sentence. There are no significant omissions or additions. The slight difference in phrasing between \"your everything\" and \"everything for you\" is a very minor point and doesn't impact the completeness of the message."
+      }
+    },
+    "summary": "Score: 4.5\nSummary: The Filipino translation is highly accurate, fluent, and culturally appropriate, effectively conveying the sentiment of the original English. It is coherent and complete, with only a very minor nuance difference that does not detract from the overall quality.",
+    "human_score": 3,
+    "explanation1": "fairly accurate translation but structure of sentence is quite different from english meaning",
+    "explanation2": "the meaning is mostly right, but the way the sentence is put together is quite different from the English version."
+  },
+  {
+    "english": "If I give you all my life, would you still be mine?",
+    "filipino": "Kung ibibigay ko sa’yo ang buong buhay ko, akin ka pa rin ba?",
+    "paraphrase_src": "If I devoted my life to you, would you remain with me?",
+    "paraphrase_tr": "If I gave you my whole life, would you still be mine?",
+    "back_translated": "If I gave you my whole life, would you still be mine?",
+    "scores_and_justifications": {
+      "Accuracy": {
+        "score": 4.5,
+        "justification": "The Filipino translation accurately conveys the core meaning of the English source. The phrase \"buong buhay ko\" (my whole life) is a good equivalent for \"all my life.\" The question \"akin ka pa rin ba?\" (would you still be mine?) directly translates the sentiment. The slight difference in the back-translation (\"If I gave you\" vs. \"If I give you\") is minor and doesn't significantly alter the meaning."
+      },
+      "Fluency": {
+        "score": 4.0,
+        "justification": "The Filipino translation flows reasonably well. \"Kung ibibigay ko sa'yo ang buong buhay ko\" is a natural-sounding phrase. The question \"akin ka pa rin ba?\" is also grammatically correct and commonly used. It's not perfectly poetic, but it's understandable and flows well in conversation."
+      },
+      "Coherence": {
+        "score": 4.2,
+        "justification": "The translation maintains the logical flow of the original question. The conditional \"Kung\" (If) sets up the premise, and the subsequent question logically follows from that premise. The relationship between the two parts of the sentence is clear."
+      },
+      "Cultural Appropriateness": {
+        "score": 5.0,
+        "justification": "The sentiment expressed in the source and translation is universally understood and appropriate in Filipino culture. Expressing deep commitment and seeking reassurance in a relationship is a common theme. The language used is respectful and fitting for such a question."
+      },
+      "Completeness": {
+        "score": 4.8,
+        "justification": "The translation captures the essence and intent of the original English sentence. All the key components of the question – the conditional offer of a lifetime and the plea for continued possession – are present. The slight nuance of \"all my life\" versus \"my whole life\" is negligible in this context."
+      }
+    },
+    "summary": "Score: 4.5\n\nSummary: The Filipino translation is excellent, accurately conveying the meaning and sentiment of the original English. It flows naturally, maintains coherence, and is culturally appropriate. While not perfectly poetic, it effectively communicates the intended message of commitment and reassurance.",
+    "human_score": 4,
+    "explanation1": "\"sa akin\" would be the most proper translation but the overall translation is quite accurate",
+    "explanation2": "Sa akin' might be a better choice, but overall the translation still gets the meaning across well."
+  },
+  {
+    "english": "A stack overflow happens when there is too much memory used on the call stack.",
+    "filipino": "Nangyayari ang stack overflow kapag labis ang paggamit ng memorya sa call stack.",
+    "paraphrase_src": "A stack overflow occurs due to excessive call stack memory usage.",
+    "paraphrase_tr": "Stack overflow happens when call stack memory is overused.",
+    "back_translated": "Stack overflow occurs when too much memory is used in the call stack.",
+    "scores_and_justifications": {
+      "Accuracy": {
+        "score": 4.5,
+        "justification": "The translation accurately conveys the core meaning of the English source. \"Labis ang paggamit ng memorya\" is a good translation for \"too much memory used.\" The term \"stack overflow\" and \"call stack\" are technical terms that are often retained in their English form in Filipino technical contexts, which is appropriate."
+      },
+      "Fluency": {
+        "score": 4.0,
+        "justification": "The sentence flows reasonably well in Filipino. \"Nangyayari ang stack overflow kapag labis ang paggamit ng memorya sa call stack\" is grammatically correct and understandable. It could be slightly more fluid, but it's not awkward."
+      },
+      "Coherence": {
+        "score": 4.2,
+        "justification": "The Filipino translation maintains the logical connection between the cause (too much memory used) and the effect (stack overflow). The structure is clear and easy to follow."
+      },
+      "Cultural Appropriateness": {
+        "score": 5.0,
+        "justification": "The concept of \"stack overflow\" is a technical computer science term. In Filipino technical discussions, it is common and appropriate to retain such English terms. There are no cultural nuances that would require a different approach."
+      },
+      "Completeness": {
+        "score": 4.8,
+        "justification": "The translation captures all the essential information from the English source. It clearly explains what a stack overflow is and its cause. The slight deduction is because while \"labis ang paggamit ng memorya\" is accurate, a slightly more nuanced phrasing might exist, but this is a very minor point."
+      }
+    },
+    "summary": "Score: 4\n\nSummary: The Filipino translation is very good, accurately conveying the technical meaning of \"stack overflow\" and its cause. It is fluent, coherent, and culturally appropriate, with only a minor point for potential slight improvement in phrasing for completeness.",
+    "human_score": 4,
+    "explanation1": "gramatically correct and serves the original meaning well, using \"labis\" makes it feel more formal compared to alternatives (eg, \"sobrang\" in this context)",
+    "explanation2": "Too literal; lacks clarification of technical terms."
+  },
+  {
+    "english": "The database index speeds up data retrieval by reducing the number of disk accesses.",
+    "filipino": "Pinapabilis ng database index ang pagkuha ng data sa pamamagitan ng pagbawas sa pag-access sa disk.",
+    "paraphrase_src": "Database indexes accelerate data retrieval by minimizing disk reads.",
+    "paraphrase_tr": "Database indexes speed up data retrieval by reducing disk access.",
+    "back_translated": "The database index speeds up the retrieval of data by reducing disk access.",
+    "scores_and_justifications": {
+      "Accuracy": {
+        "score": 4.5,
+        "justification": "The translation accurately conveys the core meaning of the English source. \"Pagkuha ng data\" is a good translation for \"data retrieval,\" and \"pagbawas sa pag-access sa disk\" correctly captures \"reducing the number of disk accesses.\" The slight deduction is because \"pagbawas sa pag-access sa disk\" could be interpreted as reducing *any* disk access, rather than specifically *the number* of disk accesses, though the context makes the intended meaning clear."
+      },
+      "Fluency": {
+        "score": 4.0,
+        "justification": "The Filipino translation flows reasonably well. The sentence structure is natural for Filipino. However, \"pagkuha ng data\" is a bit more literal than a more idiomatic phrasing might be, and \"pag-access sa disk\" is a direct borrowing of the English term. While understandable, it could be slightly more fluid."
+      },
+      "Coherence": {
+        "score": 4.2,
+        "justification": "The translation is coherent and easy to understand. The relationship between the database index, speeding up data retrieval, and reducing disk access is clearly maintained. The sentence structure logically connects these elements."
+      },
+      "Cultural Appropriateness": {
+        "score": 5.0,
+        "justification": "The translation uses standard Filipino terminology and sentence structure. There are no cultural nuances that would make this translation inappropriate for a Filipino audience. The technical terms are handled in a way that is common in technical Filipino."
+      },
+      "Completeness": {
+        "score": 4.8,
+        "justification": "The translation captures all the essential information from the English source. The function of the database index and its mechanism for improvement are fully represented. The slight deduction is for the minor ambiguity mentioned in accuracy regarding \"the number of disk accesses.\""
+      }
+    },
+    "summary": "Score: 4\nSummary: The Filipino translation is very good, accurately conveying the technical meaning of the English source. It is coherent and culturally appropriate, with only minor areas for improvement in idiomatic phrasing and the precise nuance of \"number of disk accesses.\"",
+    "human_score": 3,
+    "explanation1": "the phrase \"pagkuha ng data\" could be rewritten to \"pagkuha ng impormasyon\", and the overall phrasing is awkward",
+    "explanation2": "Awkward phrasing; “pag-access sa disk” sounds unnatural."
+  },
+  {
+    "english": "The kernel handles low-level operations in the operating system.",
+    "filipino": "Pinangangasiwaan ng kernel ang mga low-level na operasyon sa operating system.",
+    "paraphrase_src": "The kernel manages the operating system's fundamental tasks.",
+    "paraphrase_tr": "The kernel oversees the operating system's basic functions.",
+    "back_translated": "The kernel handles the low-level operations in the operating system.",
+    "scores_and_justifications": {
+      "Accuracy": {
+        "score": 4.5,
+        "justification": "The translation is very accurate, capturing the core meaning of the English source. The term \"low-level\" is retained, which is common in technical Filipino contexts. A slightly higher score could be achieved if a more established Filipino term for \"low-level operations\" was used, but the current phrasing is understandable."
+      },
+      "Fluency": {
+        "score": 4.0,
+        "justification": "The sentence flows well in Filipino. The use of \"Pinangangasiwaan ng\" is grammatically correct and natural. The inclusion of \"low-level na operasyon\" is also common in technical Filipino, making it sound reasonably fluent."
+      },
+      "Coherence": {
+        "score": 4.2,
+        "justification": "The Filipino translation maintains the logical flow and meaning of the original sentence. The relationship between the kernel and its function of handling operations is clearly conveyed."
+      },
+      "Cultural Appropriateness": {
+        "score": 5.0,
+        "justification": "The translation is culturally appropriate. Technical terms like \"kernel\" and \"operating system\" are often borrowed directly into Filipino, especially in academic and professional settings. The phrasing used is standard for discussing such concepts."
+      },
+      "Completeness": {
+        "score": 4.8,
+        "justification": "The translation fully conveys the meaning of the English source. All essential components of the original sentence are present and accurately represented in the Filipino version."
+      }
+    },
+    "summary": "Score: 4\n\nSummary: The Filipino translation is very good, accurately conveying the technical meaning of the English source. It is fluent and coherent, with a strong cultural appropriateness for technical contexts. While a slightly more established Filipino term for \"low-level operations\" could enhance fluency further, the current translation is highly understandable and effective.",
+    "human_score": 2,
+    "explanation1": "A lot of English terms are retained, which is somewhat acceptable in tech-related Filipino, but results in many borrowed terms. \"low-level\" could probably be translated though.",
+    "explanation2": "Poor localization; relies too much on untranslated English."
+  },
+  {
+    "english": "The address bus carries memory addresses to the CPU.",
+    "filipino": "Dinadala ng address bus ang mga memory address papunta sa CPU.",
+    "paraphrase_src": "The address bus transmits memory locations to the CPU.",
+    "paraphrase_tr": "The address bus transports memory addresses to the CPU.",
+    "back_translated": "The address bus carries memory addresses to the CPU.",
+    "scores_and_justifications": {
+      "Accuracy": {
+        "score": 4.5,
+        "justification": "The translation accurately conveys the core meaning of the English source. \"Dinadala\" (carries) and \"papunta sa\" (to) are appropriate translations for the action and direction. The term \"memory address\" is directly translated as \"mga memory address,\" which is understandable in a technical context, though a more Filipino term might exist for a higher score."
+      },
+      "Fluency": {
+        "score": 4.0,
+        "justification": "The sentence flows reasonably well in Filipino. The word order is natural for a descriptive sentence. However, the direct use of \"memory address\" might feel slightly less fluid than if a more integrated Filipino term were used, if one were readily available and commonly understood in this context."
+      },
+      "Coherence": {
+        "score": 4.2,
+        "justification": "The sentence is coherent and easy to understand. The relationship between the address bus and the CPU is clearly established. The use of \"mga\" before \"memory address\" correctly indicates plurality."
+      },
+      "Cultural Appropriateness": {
+        "score": 5.0,
+        "justification": "The sentence is culturally appropriate. It deals with a technical concept, and the translation uses standard Filipino grammar and vocabulary. There are no cultural nuances that would make the translation inappropriate."
+      },
+      "Completeness": {
+        "score": 4.8,
+        "justification": "The translation captures all the essential information from the English source. It clearly states what the address bus does and where it directs the memory addresses. The slight deduction is for the potential for a more integrated Filipino term for \"memory address\" if one were widely adopted in technical Filipino."
+      }
+    },
+    "summary": "Score: 4\n\nSummary: The Filipino translation is very good, accurately conveying the technical meaning of the English source. It is fluent and coherent, with a slight room for improvement in the integration of technical terms for a more natural Filipino flow. Cultural appropriateness and completeness are excellent.",
+    "human_score": 3,
+    "explanation1": "straightforward and generally accurate, tech-based Filipino terms/translations could be argued (eg, \"memory address\" as \"address ng memorya\")",
+    "explanation2": "Word-for-word; no effort to adapt terms."
+  },
+  {
+    "english": "Jollibee is a famous fast food restaurant in the Philippines.",
+    "filipino": "Ang Jollibee ay isang sikat na kainan sa Pilipinas.",
+    "paraphrase_src": "Jollibee is a well-known fast food chain in the Philippines.",
+    "paraphrase_tr": "Jollibee is a popular eatery in the Philippines.",
+    "back_translated": "Jollibee is a popular food in the Philippines.",
+    "scores_and_justifications": {
+      "Accuracy": {
+        "score": 4.5,
+        "justification": "The Filipino translation \"Ang Jollibee ay isang sikat na kainan sa Pilipinas\" is very close to the original meaning. \"Kainan\" can mean \"eatery\" or \"place to eat,\" which is a good general term for a restaurant. However, the back-translation \"Jollibee is a popular food in the Philippines\" slightly misses the nuance of \"restaurant\" by focusing on \"food.\" While Jollibee *serves* food, it is primarily known as a *restaurant* or *fast food chain*."
+      },
+      "Fluency": {
+        "score": 4.0,
+        "justification": "The Filipino translation flows well and sounds natural. The sentence structure is grammatically correct and easy to understand for a native Filipino speaker."
+      },
+      "Coherence": {
+        "score": 4.2,
+        "justification": "The translation is coherent and logically connects the subject (Jollibee) with its description (a famous eatery in the Philippines). The meaning is clear and directly relates to the source."
+      },
+      "Cultural Appropriateness": {
+        "score": 5.0,
+        "justification": "Jollibee is an iconic and deeply ingrained part of Filipino culture. Referring to it as a \"sikat na kainan\" (famous eatery) is perfectly appropriate and resonates with how Filipinos perceive and interact with the brand."
+      },
+      "Completeness": {
+        "score": 4.8,
+        "justification": "The translation captures the essential information of the source sentence: Jollibee's fame and its location in the Philippines. The term \"kainan\" is a good general descriptor, though \"fast food restaurant\" is more specific. However, \"kainan\" is widely understood in this context."
+      }
+    },
+    "summary": "Score: 4.5\n\nSummary: The Filipino translation is very good, accurately conveying the meaning and sounding natural. While it slightly misses the specificity of \"restaurant\" by using a more general term, it remains culturally appropriate and complete for the context.",
+    "human_score": 4,
+    "explanation1": "Better to phrase it as “Ang Jollibee ay isa sa mga sikat na kainan sa Pilipinas”",
+    "explanation2": "- accurate translation\r\n- good grammar"
+  },
+  {
+    "english": "Filipinos visit their relatives during holidays.",
+    "filipino": "Tuwing bakasyon, binibisita ng mga Pilipino ang kani-kanilang mga pamilya",
+    "paraphrase_src": "Filipinos visit family during holidays.",
+    "paraphrase_tr": "Filipinos visit their families during vacations.",
+    "back_translated": "Every holiday, Filipinos visit their families",
+    "scores_and_justifications": {
+      "Accuracy": {
+        "score": 4.5,
+        "justification": "The translation is very close to the original meaning. \"Relatives\" is translated as \"pamilya\" (family), which is a reasonable generalization in this context, as visiting family often includes visiting extended relatives. The nuance of \"relatives\" versus \"family\" is minor."
+      },
+      "Fluency": {
+        "score": 4.0,
+        "justification": "The Filipino sentence flows well and sounds natural. The word order and choice of words are common and easily understood by native speakers."
+      },
+      "Coherence": {
+        "score": 4.2,
+        "justification": "The sentence is logically structured and easy to follow. The temporal phrase \"Tuwing bakasyon\" (Every holiday) clearly sets the context for the action."
+      },
+      "Cultural Appropriateness": {
+        "score": 5.0,
+        "justification": "Visiting relatives during holidays is a deeply ingrained and highly valued tradition in Filipino culture. The translation perfectly captures this cultural practice."
+      },
+      "Completeness": {
+        "score": 4.8,
+        "justification": "The translation conveys the core message of the English source. The slight difference between \"relatives\" and \"family\" is a minor omission in terms of specificity but doesn't detract significantly from the overall meaning."
+      }
+    },
+    "summary": "Score: 4\nSummary: The Filipino translation is very good, accurately conveying the meaning and cultural context of visiting family during holidays. While there's a slight generalization from \"relatives\" to \"family,\" the sentence flows naturally and is culturally appropriate.",
+    "human_score": 3,
+    "explanation1": "Better to use and phrase it as “Tuwing bakasyon, binibisita ng mga Filipino ang kani-kanilang mga mahal sa buhay.” Filipino not Pilipino, and also best to use mahal sa buhay for a more deeper and authentic translation rather than using the direct translation of family (pamilya).",
+    "explanation2": "- accurate translation\n- good grammar"
+  },
+  {
+    "english": "Filipinos often use the expression \"po\" and \"opo\" as a sign of respect to elders.",
+    "filipino": "Ginagamit ng mga Pilipino ang mga salitang “po” at “opo” bilang paggalang sa mga nakakatanda.",
+    "paraphrase_src": "Filipinos commonly use \"po\" and \"opo\" to show respect for elders.",
+    "paraphrase_tr": "Filipinos use \"po\" and \"opo\" to show respect to older people.",
+    "back_translated": "Filipinos use the words po and opo as a sign of respect for the elderly.",
+    "scores_and_justifications": {
+      "Accuracy": {
+        "score": 4.5,
+        "justification": "The translation accurately conveys the core meaning of the English source. The only minor point is that \"nakakatanda\" is a direct translation of \"elderly\" or \"older people,\" while \"elders\" in the English source can sometimes imply a more specific role or status within a family or community. However, in this context, it's a very close and understandable equivalent."
+      },
+      "Fluency": {
+        "score": 4.0,
+        "justification": "The Filipino translation flows well and sounds natural. The sentence structure is common and easy to understand for a native speaker."
+      },
+      "Coherence": {
+        "score": 4.2,
+        "justification": "The translation is coherent and logically connects the use of \"po\" and \"opo\" with the act of showing respect to elders. The relationship between the parts of the sentence is clear."
+      },
+      "Cultural Appropriateness": {
+        "score": 5.0,
+        "justification": "This is a perfect score because the Filipino translation directly addresses a deeply ingrained cultural practice in the Philippines. The use of \"po\" and \"opo\" is a fundamental aspect of showing respect, especially to elders, and the translation captures this perfectly."
+      },
+      "Completeness": {
+        "score": 4.8,
+        "justification": "The translation captures all the essential information from the English source. It mentions Filipinos, the specific words \"po\" and \"opo,\" and their purpose as a sign of respect to elders. The slight deduction is similar to the accuracy point, where \"elders\" could have a slightly broader or more nuanced meaning than \"nakakatanda\" in some very specific contexts, but for general understanding, it's very complete."
+      }
+    },
+    "summary": "Score: 4\nSummary: The Filipino translation is excellent, accurately conveying the meaning and demonstrating natural fluency. It is culturally appropriate and complete, effectively explaining the use of \"po\" and \"opo\" as signs of respect for elders. The minor deductions in accuracy and completeness are negligible for general understanding.",
+    "human_score": 4,
+    "explanation1": "Filipino not Pilipino. Change and take note of this.",
+    "explanation2": "- accurate translation\n- good grammar"
+  },
+  {
+    "english": "Adobo is one of the most popular dishes in the Philippines, made with soy sauce, vinegar, and garlic.",
+    "filipino": "Ang Adobo ay isa sa mga pinakasikat na ulam sa Pilipinas at ito ay gawa sa toyo, suka, at bawang.",
+    "paraphrase_src": "Adobo, a popular Filipino dish, features soy sauce, vinegar, and garlic.",
+    "paraphrase_tr": "Adobo, a very famous Filipino dish, is prepared with soy sauce, vinegar, and garlic.",
+    "back_translated": "Adobo is one of the most popular dishes in the Philippines and is made with soy, vinegar, and garlic.",
+    "scores_and_justifications": {
+      "Accuracy": {
+        "score": 4.5,
+        "justification": "The translation is very accurate, capturing all the key elements of the original sentence. The only minor point is that \"ulam\" is a more specific term for a dish eaten with rice, which is appropriate in this context, but \"dish\" is broader."
+      },
+      "Fluency": {
+        "score": 4.0,
+        "justification": "The Filipino sentence flows well and sounds natural. The use of \"at ito ay gawa sa\" is grammatically correct and common."
+      },
+      "Coherence": {
+        "score": 4.2,
+        "justification": "The sentence is well-structured and easy to understand. The connection between Adobo being popular and its ingredients is clear."
+      },
+      "Cultural Appropriateness": {
+        "score": 5.0,
+        "justification": "Adobo is indeed a quintessential Filipino dish, and the translation accurately reflects its cultural significance and common ingredients."
+      },
+      "Completeness": {
+        "score": 4.8,
+        "justification": "The translation includes all the essential information from the English source. The slight reduction in score is due to the nuance of \"ulam\" versus \"dish,\" but it's a very minor point."
+      }
+    },
+    "summary": "Score: 4.5\n\nSummary: The Filipino translation is excellent, accurately conveying the meaning and cultural significance of the original English sentence. It is fluent, coherent, and culturally appropriate, with only a very minor point regarding the specificity of \"ulam\" versus \"dish.\"",
+    "human_score": 5,
+    "explanation1": "Perfect translation.",
+    "explanation2": "- not sure if “sa” in “gawa sa” is the right word?? but if it’s conversational it’s fine\r\n- kung formal i’d probably say “gawa gamit ang”"
+  },
+  {
+    "english": "The hospitability of Filipinos are known worldwide",
+    "filipino": "Ang pagiging hospitable ng mga Pilipino ay kilala sa buong mundo",
+    "paraphrase_src": "Filipinos are globally recognized for their hospitality.",
+    "paraphrase_tr": "Filipinos are known worldwide for their hospitality.",
+    "back_translated": "The hospitality of the Filipinos is known worldwide",
+    "scores_and_justifications": {
+      "Accuracy": {
+        "score": 4.5,
+        "justification": "The Filipino translation accurately conveys the meaning of the English source. \"Pagiging hospitable\" directly translates to \"hospitability\" or \"being hospitable,\" and \"kilala sa buong mundo\" means \"known worldwide.\" The slight deduction is because \"hospitability\" is a less common word in English than \"hospitality,\" and the Filipino translation captures the \"being hospitable\" aspect more directly."
+      },
+      "Fluency": {
+        "score": 4.0,
+        "justification": "The Filipino translation is grammatically correct and flows well. \"Ang pagiging hospitable ng mga Pilipino ay kilala sa buong mundo\" is a natural-sounding sentence in Filipino. The phrasing is standard and easily understood."
+      },
+      "Coherence": {
+        "score": 4.2,
+        "justification": "The sentence is coherent and logically structured. It clearly states that the hospitality of Filipinos is recognized globally. The subject, predicate, and modifier are all in their appropriate places, making the meaning clear."
+      },
+      "Cultural Appropriateness": {
+        "score": 5.0,
+        "justification": "The Filipino translation is highly culturally appropriate. Hospitality is a deeply ingrained and celebrated value in Filipino culture, and the phrase \"kilala sa buong mundo\" accurately reflects this. The translation uses terms that resonate well within the Filipino context."
+      },
+      "Completeness": {
+        "score": 4.8,
+        "justification": "The translation captures all the essential information from the English source. It fully conveys the idea that Filipinos are known worldwide for their hospitality. The slight deduction is minor and relates to the nuance of \"hospitability\" versus \"hospitality\" as mentioned in accuracy."
+      }
+    },
+    "summary": "Score: 4.5\n\nSummary: The Filipino translation is excellent, accurately and fluently conveying the original meaning with strong cultural resonance. It is well-structured and complete, with only a very minor point of nuance preventing a perfect score.",
+    "human_score": 4,
+    "explanation1": "kilala could be replaced with alam which would make it sound more natural.",
+    "explanation2": "kilala could be replace with sikat"
+  },
+  {
+    "english": "We love to celebrate fiestas and gatherings with family and friends",
+    "filipino": "Mahal natin ang pagdidiwang ng piyesta and salo-salo kasama ang pamilya at mga kaibigan",
+    "paraphrase_src": "We enjoy celebrating holidays and get-togethers with loved ones.",
+    "paraphrase_tr": "We enjoy celebrating festivals and gatherings with family and friends.",
+    "back_translated": "We love celebrating and partying with family and friends",
+    "scores_and_justifications": {
+      "Accuracy": {
+        "score": 4.5,
+        "justification": "The Filipino translation accurately conveys the core meaning of the English source. \"Mahal natin ang pagdidiwang ng piyesta\" directly translates to \"We love celebrating fiestas.\" The inclusion of \"and salo-salo\" for \"gatherings\" is a good choice, as \"salo-salo\" is a common Filipino term for a gathering or get-together, often involving food. The back-translation, however, slightly simplifies \"fiestas and gatherings\" to \"celebrating and partying,\" which loses the specific mention of \"fiestas.\""
+      },
+      "Fluency": {
+        "score": 4.0,
+        "justification": "The Filipino translation flows reasonably well. \"Mahal natin ang pagdidiwang ng piyesta and salo-salo kasama ang pamilya at mga kaibigan\" is grammatically correct and understandable. The use of \"and\" between \"piyesta\" and \"salo-salo\" is a minor point of awkwardness; a more fluent phrasing might use \"at\" or rephrase slightly."
+      },
+      "Coherence": {
+        "score": 4.2,
+        "justification": "The translation is coherent and easy to understand. The sentence structure is logical, and the relationship between the different parts of the sentence is clear. The idea of celebrating with family and friends is well-maintained."
+      },
+      "Cultural Appropriateness": {
+        "score": 5.0,
+        "justification": "The translation is highly culturally appropriate. \"Piyesta\" (fiesta) and \"salo-salo\" are deeply ingrained in Filipino culture, representing important social and communal events. The phrase \"kasama ang pamilya at mga kaibigan\" (with family and friends) also reflects the strong emphasis on family and social connections in Filipino society."
+      },
+      "Completeness": {
+        "score": 4.8,
+        "justification": "The translation captures almost all the essential elements of the source. The only slight omission is the direct translation of \"gatherings\" as a separate concept from \"fiestas\" in the back-translation, which is a minor point. The Filipino translation itself is very complete in conveying the sentiment."
+      }
+    },
+    "summary": "Score: 4.5\n\nSummary: The Filipino translation is excellent, accurately conveying the meaning and cultural nuances of the original English. It is fluent and coherent, with only minor stylistic suggestions for improvement. The use of culturally relevant terms like \"piyesta\" and \"salo-salo\" makes it highly appropriate and complete.",
+    "human_score": 3,
+    "explanation1": "doesnt sound natural, could be better with Mahilig tayo magdiwang ng piyesta at salo-salo kasama ng ating pamilya at mga kaibigan",
+    "explanation2": "salo-salo could be replaced with pagtitipon for accurate translation"
+  },
+  {
+    "english": "Adobo and sinigang are just some of the delicious Filipino dishes that are truly craved.",
+    "filipino": "Ang adobo at sinigang ay ilan lamang sa masasarap na pagkaing Pilipino na talaga naman hinahanap-hanap",
+    "paraphrase_src": "Adobo and sinigang are among the highly sought-after Filipino dishes.",
+    "paraphrase_tr": "Adobo and sinigang are just a few of the delicious Filipino foods that are really missed.",
+    "back_translated": "Adobo and sinigang are just some of the Filipino delicacies that are really sought after",
+    "scores_and_justifications": {
+      "Accuracy": {
+        "score": 4.5,
+        "justification": "The translation accurately conveys the meaning of the source text. \"Craved\" is translated as \"hinahanap-hanap,\" which means \"sought after\" or \"longed for,\" capturing the essence of craving. The back-translation confirms this understanding."
+      },
+      "Fluency": {
+        "score": 4.0,
+        "justification": "The Filipino translation flows well and sounds natural. The sentence structure is grammatically correct and easy to read."
+      },
+      "Coherence": {
+        "score": 4.2,
+        "justification": "The sentence is coherent and logically structured. It clearly states that adobo and sinigang are examples of delicious Filipino dishes that are highly desired."
+      },
+      "Cultural Appropriateness": {
+        "score": 5.0,
+        "justification": "The translation is culturally appropriate. Adobo and sinigang are indeed iconic and beloved Filipino dishes, and the sentiment of them being \"craved\" is very relatable within Filipino culture."
+      },
+      "Completeness": {
+        "score": 4.8,
+        "justification": "The translation captures all the essential information from the source text. It mentions adobo and sinigang as examples of delicious Filipino dishes that are craved. The slight deduction is because \"truly craved\" might imply a slightly stronger intensity than \"talaga naman hinahanap-hanap,\" but it's a very minor nuance."
+      }
+    },
+    "summary": "Score: 4.5\n\nSummary: The Filipino translation is excellent, accurately conveying the meaning and cultural context of the original text. It flows naturally and is well-structured, with only a very minor nuance in intensity for \"truly craved\" preventing a perfect score.",
+    "human_score": 5,
+    "explanation1": "sounds natural, - is used properly for repeating worlds like hinahanap-hanap",
+    "explanation2": "accurate translation"
+  },
+  {
+    "english": "Eating rice with almost every meal is part of out culture",
+    "filipino": "Bahagi ng ating kultura ang pagkain ng kanin sa halos bawat pagkain",
+    "paraphrase_src": "Rice is a staple in our diet, eaten with most meals.",
+    "paraphrase_tr": "Consuming rice with nearly every meal is integral to our culture.",
+    "back_translated": "It is part of our culture to have food with almost every meal",
+    "scores_and_justifications": {
+      "Accuracy": {
+        "score": 4.5,
+        "justification": "The Filipino translation accurately conveys the core meaning of the English source. The only slight inaccuracy is in the back-translation, which uses \"food\" instead of \"rice,\" but the Filipino translation itself correctly specifies \"kanin\" (rice)."
+      },
+      "Fluency": {
+        "score": 4.0,
+        "justification": "The Filipino translation flows well and sounds natural. The sentence structure is common and easily understood by native speakers."
+      },
+      "Coherence": {
+        "score": 4.2,
+        "justification": "The translation is coherent and logically connects the ideas of eating rice and it being part of the culture. The phrasing is straightforward and easy to follow."
+      },
+      "Cultural Appropriateness": {
+        "score": 5.0,
+        "justification": "Eating rice with almost every meal is indeed a deeply ingrained aspect of Filipino culture, making the translation perfectly culturally appropriate."
+      },
+      "Completeness": {
+        "score": 4.8,
+        "justification": "The translation captures all the essential elements of the English source. The nuance of \"almost every meal\" is well-represented by \"halos bawat pagkain.\""
+      }
+    },
+    "summary": "Score: 4.5\n\nSummary: The Filipino translation is excellent, accurately conveying the meaning and cultural significance of the original English. It flows naturally, is coherent, and captures all essential elements, with only a minor point in the back-translation.",
+    "human_score": 3,
+    "explanation1": "doesnt sound natural and can be ambiguous.",
+    "explanation2": "gramatically correct but doesn't sound natural"
+  },
+  {
+    "english": "The nurse inserted the IV incorrectly, causing bruising.",
+    "filipino": "Ang nurse ay pinasok ang IV ng mali, kaya nagka-pasa.",
+    "paraphrase_src": "The nurse's improper IV insertion resulted in bruising.",
+    "paraphrase_tr": "The nurse inserted the IV improperly, leading to bruising.",
+    "back_translated": "The nurse had entered the IV wrong, so it failed.",
+    "scores_and_justifications": {
+      "Accuracy": {
+        "score": 4.5,
+        "justification": "The Filipino translation accurately conveys the core meaning of the English source. \"Pinasok ang IV ng mali\" directly translates to \"inserted the IV incorrectly.\" The phrase \"kaya nagka-pasa\" correctly translates to \"causing bruising.\" The back-translation's \"so it failed\" is a slight misinterpretation of \"nagka-pasa,\" which specifically refers to bruising rather than a general failure."
+      },
+      "Fluency": {
+        "score": 4.0,
+        "justification": "The Filipino translation is generally fluent and natural-sounding. The sentence structure is common in Filipino. \"Ang nurse ay pinasok ang IV ng mali, kaya nagka-pasa\" flows well."
+      },
+      "Coherence": {
+        "score": 4.2,
+        "justification": "The translation is coherent. The cause-and-effect relationship between the incorrect insertion and the bruising is clearly established with \"kaya\" (so/therefore)."
+      },
+      "Cultural Appropriateness": {
+        "score": 5.0,
+        "justification": "The translation is culturally appropriate. The term \"nurse\" is commonly understood and used in the Philippines, and the medical context of inserting an IV and the resulting bruising are universally understood."
+      },
+      "Completeness": {
+        "score": 4.8,
+        "justification": "The translation captures all the essential information from the English source. It clearly states who performed the action (the nurse), the action itself (inserted the IV), the manner of the action (incorrectly), and the consequence (causing bruising)."
+      }
+    },
+    "summary": "Score: 4\n\nSummary: The Filipino translation is very good, accurately conveying the meaning and maintaining fluency and coherence. While it captures most of the original information, a minor point of improvement could be in the precise translation of \"causing bruising\" to avoid any ambiguity that might lead to a back-translation of \"failed.\"",
+    "human_score": 2,
+    "explanation1": "translation feels too direct and it ended up having awkward phrasing",
+    "explanation2": "Direct translation. There could've been a better term."
+  },
+  {
+    "english": "The patient was given penicillin to prevent infection.",
+    "filipino": "Ang pasyente ay binigyan ng penicillin upang maiwasan ang impeksyon.",
+    "paraphrase_src": "Penicillin was administered to the patient to ward off infection.",
+    "paraphrase_tr": "The patient received penicillin as a preventative measure against infection.",
+    "back_translated": "The patient was given penicillin to prevent infection.",
+    "scores_and_justifications": {
+      "Accuracy": {
+        "score": 5.0,
+        "justification": "The Filipino translation perfectly captures the meaning of the English source. \"Binigyan ng penicillin\" accurately translates to \"given penicillin,\" and \"upang maiwasan ang impeksyon\" is a direct and correct translation of \"to prevent infection.\""
+      },
+      "Fluency": {
+        "score": 4.5,
+        "justification": "The sentence flows well in Filipino. The word order and grammatical structure are natural and easy to understand for a native speaker."
+      },
+      "Coherence": {
+        "score": 4.5,
+        "justification": "The translation is coherent and logically connects the action (giving penicillin) with its purpose (preventing infection)."
+      },
+      "Cultural Appropriateness": {
+        "score": 5.0,
+        "justification": "The translation is culturally appropriate. The terms used are standard medical terminology in the Philippines, and the sentence structure is common in everyday conversation."
+      },
+      "Completeness": {
+        "score": 5.0,
+        "justification": "The translation includes all the essential information from the English source. There are no omissions or additions that alter the original meaning."
+      }
+    },
+    "summary": "Score: 5\nSummary: The Filipino translation is excellent, accurately conveying the original meaning with natural flow and appropriate terminology. It is complete and culturally fitting.",
+    "human_score": 5,
+    "explanation1": "its clear, fluent, formal, and natural, it conveys the clinical intent without making the translation sound forced",
+    "explanation2": "Correct translation, and it is not awkward to read as it can be comprehended easily."
+  },
+  {
+    "english": "To be able to start fasting, you have to stop eating and drinking anything except water at least 8 hours before your test.",
+    "filipino": "Para makapagsimula ng fasting, tigilan ang pagkain at pag-inom 8 oras bago ang test, tubig lang pwede.",
+    "paraphrase_src": "You must abstain from all food and drink, except water, for at least 8 hours prior to your test to begin fasting.",
+    "paraphrase_tr": "To start fasting, cease eating and drinking 8 hours before your test, with only water permitted.",
+    "back_translated": "To start the fast, stop eating and drinking for 8 hours before the test, only water is allowed.",
+    "scores_and_justifications": {
+      "Accuracy": {
+        "score": 4.5,
+        "justification": "The translation accurately conveys the core message of stopping food and drink intake before a test, with the exception of water. The slight deviation in phrasing \"tigilan ang pagkain at pag-inom\" (stop eating and drinking) versus \"stop eating and drinking anything\" is minor and doesn't obscure the meaning."
+      },
+      "Fluency": {
+        "score": 4.0,
+        "justification": "The Filipino translation is generally fluent and understandable. \"Para makapagsimula ng fasting\" is a natural way to start the sentence. \"Tigilan ang pagkain at pag-inom 8 oras bago ang test, tubig lang pwede\" flows well, though the placement of \"tubig lang pwede\" at the end is a common conversational style."
+      },
+      "Coherence": {
+        "score": 4.2,
+        "justification": "The translation maintains a logical flow. It clearly states the condition for starting fasting and then the requirements. The connection between stopping food/drink and allowing only water is clear."
+      },
+      "Cultural Appropriateness": {
+        "score": 5.0,
+        "justification": "The translation is culturally appropriate. The phrasing and the concept of fasting before a medical test are understood within Filipino culture. The use of \"tigilan\" and \"tubig lang pwede\" are common and natural expressions."
+      },
+      "Completeness": {
+        "score": 4.8,
+        "justification": "The translation captures all essential information. It specifies the action (stop eating and drinking), the duration (8 hours before), and the exception (water only). The omission of \"anything except water\" in the initial part of the sentence is compensated by the clear statement \"tubig lang pwede\" at the end."
+      }
+    },
+    "summary": "Score: 4.5\n\nSummary: The Filipino translation is excellent, accurately conveying the essential information about fasting before a test with natural and culturally appropriate phrasing. Minor stylistic choices do not detract from its overall clarity and completeness.",
+    "human_score": 3,
+    "explanation1": "\"tigilan\" is awkward in the context making the phrasing weird and casual, and \"pwede\" makes the instruction sound optional when it should be strict.",
+    "explanation2": "The whole sentence sounds awkward, and the number 8 could've been translated into its word form."
+  },
+  {
+    "english": "After being checked up, you have to be admitted to the hospital for observation and treatment.",
+    "filipino": "Pagkatapos ng check-up, kailangang ma-admit ka sa ospital para ma-obserbahan at gamutan.",
+    "paraphrase_src": "Following your examination, hospital admission for monitoring and care is required.",
+    "paraphrase_tr": "After your check-up, you need to be admitted to the hospital for observation and treatment.",
+    "back_translated": "After the check-up, you will need to be admitted to the hospital for observation and treatment.",
+    "scores_and_justifications": {
+      "Accuracy": {
+        "score": 4.5,
+        "justification": "The translation is very close to the original meaning. \"Check-up\" is a commonly understood loanword in Filipino, and \"gamutan\" is a good translation for \"treatment.\" The only slight deduction is that \"gamutan\" can sometimes imply a more general sense of care rather than specific medical treatment, but in this context, it's perfectly understandable."
+      },
+      "Fluency": {
+        "score": 4.0,
+        "justification": "The sentence flows reasonably well in Filipino. The use of \"ma-admit\" and \"ma-obserbahan\" are common and natural-sounding constructions. The phrasing is generally smooth, though perhaps a slightly more formal or varied vocabulary could elevate it further."
+      },
+      "Coherence": {
+        "score": 4.2,
+        "justification": "The Filipino translation maintains the logical flow of the English source. The cause-and-effect relationship between the check-up and the subsequent admission for observation and treatment is clearly conveyed."
+      },
+      "Cultural Appropriateness": {
+        "score": 5.0,
+        "justification": "The translation is highly culturally appropriate. The concepts of check-ups, hospital admissions, observation, and treatment are universally understood and the Filipino terms used are standard and respectful within a medical context."
+      },
+      "Completeness": {
+        "score": 4.8,
+        "justification": "The translation captures all the essential information from the English source. The meaning is fully conveyed, and no crucial elements are missing. The slight deduction is similar to the accuracy point, where \"gamutan\" could be slightly more specific, but it doesn't detract from the overall completeness."
+      }
+    },
+    "summary": "Score: 4\nSummary: The Filipino translation is very good, accurately conveying the original meaning with natural-sounding language and maintaining logical flow. It is culturally appropriate and complete, with only minor points for potential refinement in vocabulary specificity.",
+    "human_score": 3,
+    "explanation1": "translation became to literal, \"ma-admit\", \"ma-oberserbahan\", and \"check-up\" are mixed Fil-Eng and sound awkward in formal medical writing.",
+    "explanation2": "The sentence is a bit awkward, especially some parts of the sentence were not translated properly into its corresponding translation (code switching)."
+  },
+  {
+    "english": "I always make it a priority to set aside time for my hobbies.",
+    "filipino": "Lagi ko sinisigurado na maglaan ng oras para sa aking mga libangan.",
+    "paraphrase_src": "I prioritize time for my hobbies.",
+    "paraphrase_tr": "I always ensure I have time for my hobbies.",
+    "back_translated": "I always made sure to set aside time for my hobbies.",
+    "scores_and_justifications": {
+      "Accuracy": {
+        "score": 4.5,
+        "justification": "The Filipino translation \"Lagi ko sinisigurado na maglaan ng oras para sa aking mga libangan\" is very close to the original meaning. The back-translation \"I always made sure to set aside time for my hobbies\" is almost identical, with only a slight shift in tense (\"make it a priority\" vs. \"made sure\"). The core message is preserved."
+      },
+      "Fluency": {
+        "score": 4.0,
+        "justification": "The sentence flows well in Filipino. \"Lagi ko sinisigurado\" is a common and natural way to express \"I always make sure.\" \"Maglaan ng oras\" is also a standard phrase for \"to set aside time.\" The overall construction is grammatically sound and easy to understand for a native speaker."
+      },
+      "Coherence": {
+        "score": 4.2,
+        "justification": "The translation maintains the logical flow of the original sentence. It clearly conveys the idea of prioritizing time for hobbies. There are no abrupt shifts or confusing connections between the parts of the sentence."
+      },
+      "Cultural Appropriateness": {
+        "score": 5.0,
+        "justification": "The concept of prioritizing time for hobbies is universally understood and culturally appropriate in the Philippines. The language used is respectful and common, making it suitable for most contexts."
+      },
+      "Completeness": {
+        "score": 4.8,
+        "justification": "The translation captures all the essential elements of the English source. It conveys the idea of consistent prioritization (\"always\") and the specific action of allocating time for personal interests (\"set aside time for my hobbies\"). The slight difference in tense in the back-translation doesn't detract from the completeness of the meaning."
+      }
+    },
+    "summary": "Score: 4.5\n\nSummary: The Filipino translation is excellent, accurately conveying the original meaning with natural-sounding language and maintaining cultural appropriateness. It is a complete and coherent rendition of the source text.",
+    "human_score": 4,
+    "explanation1": "translation overall has the same meaning but uses different words like sinisigurado",
+    "explanation2": "translation of sentence is \"I ensure...\" rather than \"I always prioritize...\""
+  },
+  {
+    "english": "One of the purposes of life is to help others without expecting anything in return.",
+    "filipino": "Isa sa layunin ng buhay ay ang tumulong sa kapwa nang walang kapalit",
+    "paraphrase_src": "A life purpose is to help others selflessly.",
+    "paraphrase_tr": "A life purpose is to help others without expecting anything in return.",
+    "back_translated": "One of the purposes of life is to help one's fellow man without any reward",
+    "scores_and_justifications": {
+      "Accuracy": {
+        "score": 4.5,
+        "justification": "The Filipino translation accurately conveys the core meaning of the English source. \"Layunin ng buhay\" is a good translation for \"purpose of life,\" and \"tumulong sa kapwa nang walang kapalit\" perfectly captures \"help others without expecting anything in return.\" The slight deduction is because \"kapwa\" can sometimes imply a closer relationship than \"others,\" but in this context, it's a very minor nuance."
+      },
+      "Fluency": {
+        "score": 4.0,
+        "justification": "The Filipino translation flows well and sounds natural. The sentence structure is common and easy to understand for a native speaker. The phrasing \"Isa sa layunin ng buhay ay ang tumulong sa kapwa nang walang kapalit\" is grammatically correct and idiomatic."
+      },
+      "Coherence": {
+        "score": 4.2,
+        "justification": "The translation is coherent and logically connects the ideas presented in the source. The relationship between the purpose of life and helping others without expectation is clearly maintained. The sentence is easy to follow and understand."
+      },
+      "Cultural Appropriateness": {
+        "score": 5.0,
+        "justification": "The concept of helping others without expecting anything in return is highly valued and deeply ingrained in Filipino culture. The use of \"kapwa\" (fellow human beings, one's fellow man) further emphasizes this communal and altruistic aspect, making the translation culturally resonant and appropriate."
+      },
+      "Completeness": {
+        "score": 4.8,
+        "justification": "The translation captures all the essential elements of the English source. The idea of \"purpose of life,\" \"helping others,\" and \"without expecting anything in return\" are all present and clearly expressed. The back-translation confirms that the meaning is fully preserved."
+      }
+    },
+    "summary": "Score: 4.5\n\nSummary: The Filipino translation is excellent, accurately and fluently conveying the meaning of the English source. It is culturally appropriate, resonating with Filipino values of altruism, and captures all essential elements of the original message. The slight deduction is for a minor nuance in the word \"kapwa.\"",
+    "human_score": 5,
+    "explanation1": "translation is natural and meaning is well conveyed",
+    "explanation2": "correct and natural sounding translation"
+  },
+  {
+    "english": "I exclusively use Spotify to listen to music such as OPM.",
+    "filipino": "Sa Spotify lang ako nakikinig ng music katulad ng OPM.",
+    "paraphrase_src": "I only listen to music, including OPM, on Spotify.",
+    "paraphrase_tr": "I only listen to music like OPM on Spotify.",
+    "back_translated": "I only listen to music like OPM on Spotify.",
+    "scores_and_justifications": {
+      "Accuracy": {
+        "score": 4.5,
+        "justification": "The translation accurately conveys the core meaning of the source sentence. The use of \"lang\" (only/exclusively) and \"Sa Spotify lang ako nakikinig\" (I only listen on Spotify) captures the exclusivity. The phrase \"katulad ng OPM\" (like OPM) is a good equivalent for \"such as OPM.\" The slight deduction is because \"exclusively\" can sometimes imply a stronger, more absolute statement than \"lang\" might fully capture in all contexts, though it's very close."
+      },
+      "Fluency": {
+        "score": 4.0,
+        "justification": "The Filipino sentence flows naturally and sounds like something a native speaker would say. The word order and choice of words are common and idiomatic."
+      },
+      "Coherence": {
+        "score": 4.2,
+        "justification": "The sentence is logically structured and easy to understand. The relationship between listening to music and the platform (Spotify) is clear."
+      },
+      "Cultural Appropriateness": {
+        "score": 5.0,
+        "justification": "The translation is perfectly culturally appropriate. Mentioning OPM (Original Pilipino Music) is highly relevant and common in Filipino culture when discussing music preferences. The phrasing is natural for a Filipino speaker."
+      },
+      "Completeness": {
+        "score": 4.8,
+        "justification": "The translation captures all the essential information from the source sentence. The exclusivity of using Spotify, the act of listening to music, and the example of OPM are all present. The slight deduction is similar to the accuracy point, where \"exclusively\" might have a nuance that \"lang\" doesn't perfectly mirror, but it's a very minor difference."
+      }
+    },
+    "summary": "Score: 4\nSummary: The Filipino translation is excellent, accurately and fluently conveying the original meaning with perfect cultural appropriateness. Minor nuances in the exclusivity of \"exclusively\" versus \"lang\" are the only slight detractions.",
+    "human_score": 4,
+    "explanation1": "decent translation but awkward wording",
+    "explanation2": "awkard phrasing"
+  },
+  {
+    "english": "I have a large collection of non-fiction books that's always well-organized and clean.",
+    "filipino": "Meron akong koleksyon ng mga non-fiction na libro na palagi ko sinisigurado na organisado at malinis.",
+    "paraphrase_src": "My extensive non-fiction book collection is consistently neat and orderly.",
+    "paraphrase_tr": "I maintain an organized and clean collection of non-fiction books.",
+    "back_translated": "I have a collection of nonfiction books that I always make sure are organized and clean.",
+    "scores_and_justifications": {
+      "Accuracy": {
+        "score": 4.5,
+        "justification": "The translation is very close to the original meaning. The only slight deviation is the omission of \"large\" from \"large collection,\" which is a minor detail."
+      },
+      "Fluency": {
+        "score": 4.0,
+        "justification": "The Filipino sentence flows well and sounds natural. The phrasing \"palagi ko sinisigurado na\" is a common and idiomatic way to express \"always make sure.\""
+      },
+      "Coherence": {
+        "score": 4.2,
+        "justification": "The sentence is logically structured and easy to understand. The relationship between the collection and its organized/clean state is clear."
+      },
+      "Cultural Appropriateness": {
+        "score": 5.0,
+        "justification": "The sentiment of having an organized and clean collection of books is universally understood and culturally appropriate in the Philippines. There are no elements that would be considered out of place."
+      },
+      "Completeness": {
+        "score": 4.8,
+        "justification": "The translation captures all the essential information from the source. The omission of \"large\" is a minor point that doesn't significantly detract from the overall completeness."
+      }
+    },
+    "summary": "Score: 4\n\nSummary: The Filipino translation is very good, accurately conveying the original meaning with natural phrasing. While a minor detail (\"large\") was omitted, it doesn't significantly impact the overall quality or completeness of the translation.",
+    "human_score": 3,
+    "explanation1": "translation is understandable but phrasing and wording can be improved on",
+    "explanation2": "did not translate \"large\" and awkward translation of \"well-organized\""
+  },
+  {
+    "english": "Taking crazy things seriously is a serious waste of time.",
+    "filipino": "Ang pagseseryoso ng mga bagay na baliw ay isang seryosong pag-aaksaya ng oras.",
+    "paraphrase_src": "Treating absurdities with gravity is a significant waste of time.",
+    "paraphrase_tr": "Taking foolish matters seriously is a serious waste of time.",
+    "back_translated": "Taking things seriously that are crazy is a serious waste of time.",
+    "scores_and_justifications": {
+      "Accuracy": {
+        "score": 4.5,
+        "justification": "The translation accurately conveys the core meaning of the English source. The phrase \"mga bagay na baliw\" (things that are crazy) is a good rendition of \"crazy things.\" The only slight deduction is that \"baliw\" can sometimes imply a more severe mental state than \"crazy\" in English, but in this context, it works well."
+      },
+      "Fluency": {
+        "score": 4.0,
+        "justification": "The Filipino sentence flows reasonably well. \"Ang pagseseryoso ng mga bagay na baliw ay isang seryosong pag-aaksaya ng oras\" is grammatically correct and understandable. However, it feels a little more literal and less idiomatic than a native speaker might phrase it. A slightly more natural phrasing might be \"Ang pagseseryoso sa mga bagay na hindi makatuwiran ay malaking pag-aaksaya ng oras.\""
+      },
+      "Coherence": {
+        "score": 4.2,
+        "justification": "The translation is coherent and the relationship between the clauses is clear. The cause-and-effect (taking crazy things seriously leads to wasting time) is maintained. The slight awkwardness in fluency also impacts coherence minimally."
+      },
+      "Cultural Appropriateness": {
+        "score": 5.0,
+        "justification": "The sentiment expressed is universally understood and doesn't rely on specific cultural nuances that might be lost in translation. The concept of not wasting time on frivolous matters is a common value."
+      },
+      "Completeness": {
+        "score": 4.8,
+        "justification": "The translation captures all the essential elements of the English source. The meaning is fully conveyed, and no significant information is omitted. The slight nuance difference in \"baliw\" is very minor and doesn't detract from the overall completeness."
+      }
+    },
+    "summary": "Score: 4\n\nSummary: The Filipino translation is good, accurately conveying the meaning of the English source. It is grammatically correct and understandable, though a slightly more idiomatic phrasing could enhance its naturalness. The translation is coherent, culturally appropriate, and complete, with only minor nuances in word choice preventing a perfect score.",
+    "human_score": 5,
+    "explanation1": "Captures tone and meaning well, using native-sounding phrasing without sounding forced or literal.",
+    "explanation2": "It uses words that flow naturally and matches the tone accurately."
+  },
+  {
+    "english": "Things outside you are projections of what’s inside you, and what’s inside you is a projection of what’s outside.",
+    "filipino": "Ang mga bagay sa labas mo ay salamin ng nasa loob mo, at ang nasa loob mo ay salamin ng nasa labas.",
+    "paraphrase_src": "Your external reality reflects your internal state, and vice versa.",
+    "paraphrase_tr": "Your inner world is mirrored by your outer world, and your outer world is mirrored by your inner world.",
+    "back_translated": "What is on the outside is a mirror of what is on the inside, and what is on the inside is a mirror of what is on the outside.",
+    "scores_and_justifications": {
+      "Accuracy": {
+        "score": 4.5,
+        "justification": "The translation accurately captures the core meaning of the source text, using \"salamin\" (mirror) as a strong metaphor for \"projection.\" The slight reduction in score is because \"projection\" can imply a more active or intentional creation, whereas \"salamin\" suggests a more passive reflection. However, in the context of the reciprocal relationship described, \"salamin\" works very well."
+      },
+      "Fluency": {
+        "score": 4.0,
+        "justification": "The Filipino translation flows naturally and uses common phrasing. The repetition of \"salamin ng nasa loob mo\" and \"salamin ng nasa labas\" creates a pleasing rhythm. The score is slightly reduced because while fluent, it's not as concise as it could be, but this is a minor point."
+      },
+      "Coherence": {
+        "score": 4.2,
+        "justification": "The translation maintains the logical connection between the two clauses, mirroring the reciprocal nature of the original statement. The use of \"at\" (and) effectively links the two parts of the sentence, ensuring the overall message is understood. The slight reduction is due to the subtle nuance of \"projection\" versus \"reflection\" which, while minor, can slightly impact the absolute coherence of the intended meaning."
+      },
+      "Cultural Appropriateness": {
+        "score": 5.0,
+        "justification": "The concept of \"salamin\" (mirror) is a universally understood metaphor and is culturally appropriate in Filipino context. There are no elements in the translation that would be considered inappropriate or offensive."
+      },
+      "Completeness": {
+        "score": 4.8,
+        "justification": "The translation successfully conveys all the essential information and the philosophical sentiment of the original English source. The reciprocal relationship between the internal and external is clearly communicated. The minor reduction is due to the aforementioned subtle difference between \"projection\" and \"reflection,\" where \"projection\" might carry a slightly broader implication of active creation that isn't fully captured by \"salamin.\""
+      }
+    },
+    "summary": "Score: 4\nSummary: The Filipino translation is very good, accurately conveying the meaning with a strong and culturally appropriate metaphor. It flows naturally and maintains coherence, though there's a slight nuance lost from the original \"projection\" to \"reflection.\"",
+    "human_score": 3,
+    "explanation1": "Accurate and clear, though some of the poetic impact is slightly reduced.",
+    "explanation2": "The translation replaces a complex phrase with a simpler metaphor."
+  },
+  {
+    "english": "Some men are born mediocre, some men achieve mediocrity, and some men have mediocrity thrust upon them.",
+    "filipino": "May ilang lalaking ipinanganak na katamtaman, may ilang nakakamit ang pagiging karaniwan, at may ilan na ipinipilit na lamang sa kanila ang pagiging ganoon.",
+    "paraphrase_src": "Mediocrity can be innate, earned, or imposed.",
+    "paraphrase_tr": "Some men are naturally average, some strive for averageness, and others have it forced upon them.",
+    "back_translated": "Some men are born average, some achieve mediocrity, and some are forced to become so.",
+    "scores_and_justifications": {
+      "Accuracy": {
+        "score": 4.5,
+        "justification": "The translation captures the essence of the original sentence, particularly the idea of being born, achieving, and being forced into mediocrity. \"Katamtaman\" and \"karaniwan\" are good translations for \"mediocre\" and \"mediocrity\" respectively, though \"mediocre\" can sometimes carry a slightly more negative connotation than \"katamtaman\" (average). The phrase \"ipinipilit na lamang sa kanila ang pagiging ganoon\" effectively conveys the idea of mediocrity being \"thrust upon them.\""
+      },
+      "Fluency": {
+        "score": 4.0,
+        "justification": "The Filipino translation reads quite naturally. The sentence structure flows well, and the word choices are common and easily understood. There are no awkward phrases or grammatical errors that hinder the reading experience."
+      },
+      "Coherence": {
+        "score": 4.2,
+        "justification": "The translation maintains the logical progression of the original sentence. The three distinct clauses, each describing a different way mediocrity is encountered, are clearly delineated and connected. The use of \"may ilang\" at the beginning of each clause helps to maintain this coherence."
+      },
+      "Cultural Appropriateness": {
+        "score": 5.0,
+        "justification": "The concepts of being born with certain traits, striving for achievements, and facing circumstances beyond one's control are universal and translate well into Filipino culture. There are no cultural nuances that would make this translation inappropriate or misunderstood."
+      },
+      "Completeness": {
+        "score": 4.8,
+        "justification": "The translation successfully conveys all the key ideas from the English source. The three distinct scenarios presented in the original are all represented in the Filipino translation. The slight reduction in score is due to the subtle difference in connotation between \"mediocre\" and \"katamtaman\" as mentioned in accuracy, which might slightly alter the full impact of the original's word choice."
+      }
+    },
+    "summary": "Score: 4.5\n\nSummary: The Filipino translation is very good, accurately conveying the meaning of the original sentence with natural-sounding language and clear coherence. While the word choice for \"mediocre\" is appropriate, it might slightly soften the negative connotation present in the English. Overall, it's a complete and culturally fitting translation.",
+    "human_score": 4,
+    "explanation1": "It mimics the original text's rhythm until the last part, where it reads too literal.",
+    "explanation2": "Preserves the structure and meaning well, though katamtaman and ganoon are odd word choices."
+  },
+  {
+    "english": "Mother died today. Or maybe yesterday; I can't be sure.",
+    "filipino": "Sumakabilang-buhay si Inay ngayong araw. O baka kahapon; medyo nalilito na ako.",
+    "paraphrase_src": "My mother passed away today, or possibly yesterday; I'm uncertain.",
+    "paraphrase_tr": "My mother passed away today, or perhaps yesterday; I'm a bit confused.",
+    "back_translated": "Mother was alive today. Or maybe yesterday; I'm a little confused.",
+    "scores_and_justifications": {
+      "Accuracy": {
+        "score": 3.0,
+        "justification": "The Filipino translation \"Sumakabilang-buhay si Inay ngayong araw\" literally means \"Mother passed away today.\" However, the back-translation \"Mother was alive today\" indicates a significant mistranslation of the core meaning. The phrase \"Sumakabilang-buhay\" is a respectful way to say someone has died, and the back-translation completely reverses this. The second part, \"O baka kahapon; medyo nalilito na ako\" (Or maybe yesterday; I'm a little confused), is accurately translated."
+      },
+      "Fluency": {
+        "score": 4.0,
+        "justification": "The Filipino translation flows well and sounds natural in the language. The phrasing \"Sumakabilang-buhay si Inay\" is a common and respectful way to refer to a mother's passing. The second part of the sentence is also grammatically correct and fluent."
+      },
+      "Coherence": {
+        "score": 4.0,
+        "justification": "The Filipino translation maintains the overall sense of the original English sentence, conveying the uncertainty about the exact day of the mother's death. The two parts of the sentence are logically connected."
+      },
+      "Cultural Appropriateness": {
+        "score": 5.0,
+        "justification": "The use of \"Inay\" for \"Mother\" is a common and affectionate term. \"Sumakabilang-buhay\" is a culturally appropriate and respectful way to refer to death in Filipino culture, avoiding bluntness."
+      },
+      "Completeness": {
+        "score": 4.5,
+        "justification": "The translation captures the essence of the original sentence, including the uncertainty about the timing of the mother's death. The only slight detraction is the mistranslation of \"died\" in the first part, which, if accurately translated, would have made it a perfect score."
+      }
+    },
+    "summary": "Score: 3\n\nSummary: The Filipino translation is fluent and culturally appropriate, effectively conveying the uncertainty of the mother's passing. However, a significant mistranslation of \"passed away\" to \"was alive\" in the back-translation severely impacts the accuracy and completeness of the translation.",
+    "human_score": 2,
+    "explanation1": "The tone in the translated text feels too colloquial.",
+    "explanation2": "Doesn't feel natural. Too literal."
+  },
+  {
+    "english": "The wave returns to the ocean, where it came from, and where it's supposed to be.",
+    "filipino": "Bumabalik ang alon sa karagatan, kung saan ito nanggaling, at kung saan ito dapat nasa.",
+    "paraphrase_src": "The wave goes back to its origin in the ocean.",
+    "paraphrase_tr": "The wave returns to the sea, its origin and rightful place.",
+    "back_translated": "The wave returns to the ocean, where it came from, and where it should be.",
+    "scores_and_justifications": {
+      "Accuracy": {
+        "score": 4.5,
+        "justification": "The translation is very close to the original meaning. The phrase \"kung saan ito dapat nasa\" is a bit literal and could be slightly more natural, but it accurately conveys the idea of \"where it's supposed to be.\""
+      },
+      "Fluency": {
+        "score": 4.0,
+        "justification": "The sentence flows reasonably well in Filipino. \"Kung saan ito dapat nasa\" is grammatically correct but feels a little clunky compared to more idiomatic phrasing."
+      },
+      "Coherence": {
+        "score": 4.2,
+        "justification": "The Filipino translation maintains the logical flow of the English source. The connection between the wave returning to the ocean and its origin/destination is clear."
+      },
+      "Cultural Appropriateness": {
+        "score": 5.0,
+        "justification": "The concept of a wave returning to the ocean is universal and requires no specific cultural adaptation. The Filipino words used are standard and appropriate."
+      },
+      "Completeness": {
+        "score": 4.8,
+        "justification": "All the essential elements of the English source are present in the Filipino translation. The meaning is fully conveyed."
+      }
+    },
+    "summary": "Score: 4\n\nSummary: The Filipino translation is very good, accurately conveying the meaning and maintaining coherence. While the phrasing \"kung saan ito dapat nasa\" is a bit literal and could be more natural, the overall fluency is good, and the translation is complete and culturally appropriate.",
+    "human_score": 2,
+    "explanation1": "The wording feels awkward and unnatural.",
+    "explanation2": "Extremely unnatural wording, especially on \"kung saan ito dapat nasa.\" Despite that, it still conveys the rough meaning of the original text."
+  },
+  {
+    "english": "Sick of tea?! That's like being sick of breathing!",
+    "filipino": "Ayaw mo na ng tsaa?! Parang sinabi mo na ring sawa ka nang huminga!",
+    "paraphrase_src": "You can't be tired of tea; it's as essential as air.",
+    "paraphrase_tr": "You're tired of tea?! That's like saying you're tired of breathing!",
+    "back_translated": "You don't want tea anymore?! It's like you said you're breathing too!",
+    "scores_and_justifications": {
+      "Accuracy": {
+        "score": 4.5,
+        "justification": "The translation captures the essence of the original statement, conveying the idea that disliking tea is as absurd as disliking breathing. However, the back-translation \"It's like you said you're breathing too!\" slightly misses the nuance of \"sick of breathing,\" which implies a negative feeling towards it, not just the act itself."
+      },
+      "Fluency": {
+        "score": 4.0,
+        "justification": "The Filipino translation flows reasonably well. \"Ayaw mo na ng tsaa?!\" is a natural way to express \"Sick of tea?!\" and \"Parang sinabi mo na ring sawa ka nang huminga!\" is also grammatically sound and understandable. The slight awkwardness in the back-translation might stem from the directness of \"sawa ka nang huminga\" which, while correct, could be phrased slightly differently for even greater naturalness in some contexts."
+      },
+      "Coherence": {
+        "score": 4.2,
+        "justification": "The connection between disliking tea and disliking breathing is maintained. The use of \"Parang sinabi mo na ring\" (It's like you also said) effectively links the two ideas, creating a coherent comparison. The slight disconnect in the back-translation's phrasing of the second part of the comparison slightly impacts the overall coherence."
+      },
+      "Cultural Appropriateness": {
+        "score": 5.0,
+        "justification": "The expression \"sawa ka nang huminga\" (you're tired of breathing) is a culturally appropriate way to express extreme aversion or disbelief in Filipino. The comparison itself, while hyperbolic, is understandable and doesn't rely on specific cultural references that would be lost in translation."
+      },
+      "Completeness": {
+        "score": 4.8,
+        "justification": "The translation successfully conveys the core message and the hyperbolic nature of the original statement. The comparison is clear, and the emotional weight of being \"sick of\" something is adequately represented by \"ayaw mo na\" and \"sawa ka na.\" The minor loss in nuance in the back-translation prevents a perfect score."
+      }
+    },
+    "summary": "Score: 4\n\nSummary: The Filipino translation effectively conveys the core message of the original statement, comparing disliking tea to disliking breathing. It is generally fluent and culturally appropriate. However, a slight nuance is lost in the back-translation regarding the negative feeling towards breathing, which prevents a perfect score.",
+    "human_score": 5,
+    "explanation1": "Wording is natural and uses appropriate that properly conveys the emotion in the sentence.",
+    "explanation2": "Exceptionally natural translation. Even conveying the emotional surprise and colloquial tone of the original text."
+  },
+  {
+    "english": "I wanted to invite my youngest to go get some ice cream, if he’ll let me.",
+    "filipino": "Gusto ko imbitahin yung pinakabata kong anak para kumuha ng ice cream, kung papayagan niya ako.",
+    "paraphrase_src": "I'd like to take my youngest for ice cream, if he agrees.",
+    "paraphrase_tr": "I want to invite my youngest child for ice cream, if he'll allow me.",
+    "back_translated": "I would like to invite my youngest son to come and get some ice cream, if he would let me.",
+    "scores_and_justifications": {
+      "Accuracy": {
+        "score": 4.5,
+        "justification": "The translation accurately conveys the core meaning of inviting the youngest child for ice cream and the condition of being allowed. The slight difference in \"son\" versus the more general \"anak\" in the back-translation is a minor nuance, as \"anak\" can refer to either gender."
+      },
+      "Fluency": {
+        "score": 4.0,
+        "justification": "The Filipino translation flows reasonably well. \"Gusto ko imbitahin yung pinakabata kong anak para kumuha ng ice cream\" is a natural phrasing. \"Kung papayagan niya ako\" is also grammatically correct and understandable."
+      },
+      "Coherence": {
+        "score": 4.2,
+        "justification": "The sentence is coherent and easy to understand. The cause-and-effect relationship between the invitation and the condition is clear."
+      },
+      "Cultural Appropriateness": {
+        "score": 5.0,
+        "justification": "Inviting a child for ice cream is a common and culturally appropriate activity in the Philippines. The phrasing used is respectful and reflects typical family interactions."
+      },
+      "Completeness": {
+        "score": 4.8,
+        "justification": "The translation captures all the essential elements of the original English sentence. The nuance of \"youngest\" is well-represented by \"pinakabata.\" The conditional aspect (\"if he'll let me\") is also fully translated."
+      }
+    },
+    "summary": "Score: 4.5\n\nSummary: The Filipino translation is excellent, accurately conveying the meaning of inviting the youngest child for ice cream with the condition of parental permission. It is fluent, coherent, culturally appropriate, and complete, with only a very minor nuance in the gender of \"child\" in the back-translation.",
+    "human_score": 3,
+    "explanation1": "Not the best translation while its mostly correct its not natural, for more casual contexts yayain is more commonly used, additionally youngest child has a word in tagalog called \"bunso\" that would be more appropriate here.",
+    "explanation2": "Although the meaning of the original sentence is there, the delivery is very stinted, especially on its word usage (pinakabata and imbitahin)."
+  },
+  {
+    "english": "That person has no more respect or love for you, leave them.",
+    "filipino": "Wala nang respeto at pagmamahal yung tao para sa'yo, iwan mo na.",
+    "paraphrase_src": "They no longer respect or love you, so you should leave.",
+    "paraphrase_tr": "They have no respect or love for you anymore, so leave them.",
+    "back_translated": "That person no longer has any respect or affection for you, so leave him.",
+    "scores_and_justifications": {
+      "Accuracy": {
+        "score": 4.5,
+        "justification": "The Filipino translation accurately conveys the core meaning of the English source. \"Wala nang respeto at pagmamahal\" directly translates to \"no more respect and love.\" The back-translation confirms this. The slight deduction is because \"yung tao\" is a bit more informal than \"that person\" and could be interpreted as \"that person\" or \"the person,\" but in context, it's very close."
+      },
+      "Fluency": {
+        "score": 4.0,
+        "justification": "The Filipino translation flows well and sounds natural. \"Wala nang respeto at pagmamahal yung tao para sa'yo, iwan mo na\" is a common and easily understood sentence structure in everyday Filipino conversation. The use of \"yung tao\" and \"iwan mo na\" contributes to its natural flow."
+      },
+      "Coherence": {
+        "score": 4.2,
+        "justification": "The translation is coherent and the message is clear. The cause-and-effect relationship between the lack of respect/love and the advice to leave is well-maintained. The sentence structure logically connects the two parts of the original statement."
+      },
+      "Cultural Appropriateness": {
+        "score": 5.0,
+        "justification": "The sentiment expressed and the advice given are highly culturally appropriate in the Philippines. Relationships and respect are valued, and the advice to leave a situation where these are absent is a common and accepted piece of advice. The language used is also common and not offensive."
+      },
+      "Completeness": {
+        "score": 4.8,
+        "justification": "The translation captures all the essential elements of the English source. It conveys the absence of respect and love, and the imperative to leave. The slight deduction is due to the subtle nuance of \"that person\" versus \"yung tao\" which, while minor, could be seen as a very slight loss of specificity in a highly technical context, but for practical purposes, it's complete."
+      }
+    },
+    "summary": "Score: 4\nSummary: The Filipino translation is very good, accurately conveying the meaning and sounding natural. It's culturally appropriate and captures most of the original message, with only minor deductions for slight informality and potential nuance in specificity.",
+    "human_score": 5,
+    "explanation1": "The sentence flows very well and uses more informal words used in conversation like sa'yo.",
+    "explanation2": "Sounds very natural, capturing the sentiment carried by the original sentence."
+  }
+]

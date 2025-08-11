@@ -1,0 +1,1726 @@
+{
+  "results": [
+    {
+      "row_index": 0,
+      "source": "The children laughed and played under the afternoon sun.",
+      "translation": "Ang mga bata ay nagtawanan at naglaro sa ilalim ng hapon na araw.",
+      "llm_score": 4,
+      "final_text": "Score: 4\nLabel: good\nReasoning:\nAccuracy: The translation accurately conveys the meaning of the source sentence.\nFluency: The sentence is generally fluent, but removing the extra 'na' improves naturalness.\nCoherence: The translation maintains the coherence of the original sentence.\nCultural Appropriateness: The translation is culturally appropriate.\nGuideline Adherence: The translation follows the guidelines.\nCompleteness: The translation accurately conveys the meaning of the source sentence.\nConfidence: 100\n```json\n{\n  \"per_criteria_points\": {\n    \"accuracy\": 1,\n    \"fluency\": 1,\n    \"cultural\": 1,\n    \"completeness\": 1\n  },\n  \"total_points\": 4,\n  \"normalised_score\": 4.0\n}\n```"
+    },
+    {
+      "row_index": 1,
+      "source": "She took a break to gather her thoughts.",
+      "translation": "Nagpahinga siya para mag-isip-isip.",
+      "llm_score": 0,
+      "final_text": "Score: 3\nLabel: poor\nReasoning:\nAccuracy: The translation omits the idea of organizing thoughts, focusing solely on reflection or contemplation. The nuance of 'mag-isip-isip' (to think deeply or ponder) might not fully capture the original's intention of simply organizing thoughts.\nFluency: The sentence is grammatically correct and sounds natural.\nCoherence: The translation maintains a logical flow, but the omission impacts the overall coherence with the original meaning.\nCultural Appropriateness: The translation is culturally appropriate and sensitive.\nGuideline Adherence: The translation fails to accurately convey the original meaning by omitting key information.\nCompleteness: The translation conveys the core meaning of the source text but misses a key element.\nConfidence: 100\n```json\n{\n  \"per_criteria_points\": {\n    \"accuracy\": 0,\n    \"fluency\": 1,\n    \"cultural\": 1,\n    \"completeness\": 1\n  },\n  \"total_points\": 3,\n  \"normalised_score\": 0.75\n}\n```"
+    },
+    {
+      "row_index": 2,
+      "source": "The algorithm efficiently identifies patterns in large datasets.",
+      "translation": "Mabisang kinikilala ng algoritmo ang mga pattern sa malalaking dataset.",
+      "llm_score": 2,
+      "final_text": "Score: 2\nLabel: poor\nReasoning:\nAccuracy: The translation accurately reflects the meaning of the source summary.\nFluency: The translation contains redundant words, unnatural word choices, and awkward word order.\nCoherence: The issues in fluency impact the overall coherence of the translation.\nCultural Appropriateness: The translation is appropriate and doesn't present any cultural insensitivity issues.\nGuideline Adherence: The translation fails to adhere to fluency guidelines due to grammatical errors and unnatural phrasing.\nCompleteness: The translation accurately conveys the meaning of the source sentence.\nConfidence: 100\n```json\n{\n  \"per_criteria_points\": {\n    \"accuracy\": 1,\n    \"fluency\": 0,\n    \"cultural\": 0,\n    \"completeness\": 1\n  },\n  \"total_points\": 2,\n  \"normalised_score\": 2\n}\n```"
+    },
+    {
+      "row_index": 3,
+      "source": "Data normalization helps improve model performance.",
+      "translation": "Tumutulong sa pagpabuti ng model ang normalisasyon ng datos",
+      "llm_score": null,
+      "final_text": ""
+    },
+    {
+      "row_index": 4,
+      "source": "alam mo ma'am masaya naman topics natin sa philosophy inaantok lang talaga ko kasi ikaw nagdidiscuss",
+      "translation": "You know, ma'am, we have a lot of fun philosophy topics. I'm just really sleepy in what you're discussing.",
+      "llm_score": 1,
+      "final_text": "Score: 1\nLabel: poor\nReasoning:\nAccuracy: The translation introduces information not present in the source and misrepresents the cause of sleepiness.\nFluency: The translation contains grammatical and phrasing issues that affect the naturalness of the sentence.\nCoherence: The sentence structure feels disjointed.\nCultural Appropriateness: The translation is more culturally sensitive by being less direct.\nGuideline Adherence: The translation fails to accurately and completely convey the information in the source summary.\nCompleteness: The translation omits the information that the teacher is the one discussing.\nConfidence: 100\n\n```json\n{\n  \"per_criteria_points\": {\n    \"accuracy\": 0,\n    \"fluency\": 0,\n    \"cultural\": 1,\n    \"completeness\": 0\n  },\n  \"total_points\": 1,\n  \"normalised_score\": 1\n}\n```"
+    },
+    {
+      "row_index": 5,
+      "source": "It's raining cats and dogs.",
+      "translation": "Umuulan ng pusa at aso.",
+      "llm_score": null,
+      "final_text": ""
+    },
+    {
+      "row_index": 6,
+      "source": "The party of the first part shall not be held liable for any unforeseen damages.",
+      "translation": "Ang partido ng unang bahagi ay hindi mananagot para sa anumang hindi inaasahang pinsala.",
+      "llm_score": 0,
+      "final_text": "Score: 3\nLabel: poor\nReasoning:\nAccuracy: The translation accurately conveys the meaning of the source summary.\nFluency: The translation contains minor grammatical errors and could be more concise, with redundant use of \"ng\" and wordy phrasing.\nCoherence: The coherence is slightly affected by the fluency issues.\nCultural Appropriateness: The translation is culturally appropriate and uses neutral language.\nGuideline Adherence: The translation has some issues with fluency.\nCompleteness: The translation accurately conveys the meaning of the source sentence without any omissions or additions.\nConfidence: 100\n```json\n{\n  \"per_criteria_points\": {\n    \"accuracy\": 1,\n    \"fluency\": 0,\n    \"cultural\": 1,\n    \"completeness\": 1\n  },\n  \"total_points\": 3,\n  \"normalised_score\": 0.75\n}\n```"
+    },
+    {
+      "row_index": 7,
+      "source": "Thank you for coming to the event.",
+      "translation": "Salamat sa pagpunta sa kaganapan.",
+      "llm_score": 5,
+      "final_text": "Score: 5\nLabel: excellent\nReasoning:\nAccuracy: The translation accurately conveys the meaning of the source summary.\nFluency: The sentence is grammatically correct and fluent.\nCoherence: The translation is coherent and maintains the original meaning.\nCultural Appropriateness: The translation is culturally appropriate and conveys the same meaning as the source.\nGuideline Adherence: The translation adheres to all guidelines.\nCompleteness: The translation accurately conveys the meaning of the source sentence.\nConfidence: 100\n```json\n{\n  \"per_criteria_points\": {\n    \"accuracy\": 1,\n    \"fluency\": 1,\n    \"cultural\": 1,\n    \"completeness\": 1\n  },\n  \"total_points\": 4,\n  \"normalised_score\": 5.0\n}\n```"
+    },
+    {
+      "row_index": 8,
+      "source": "Despite her exhaustion, she finished the report before the deadline.",
+      "translation": "Sa kabila ng kanyang pagod, natapos niya ang ulat bago ang deadline.",
+      "llm_score": 5,
+      "final_text": "Score: 5\nLabel: excellent\nReasoning:\nAccuracy: The translation accurately conveys the meaning of the source summary.\nFluency: The sentence is grammatically correct and uses natural phrasing.\nCoherence: The translation maintains a coherent flow of information.\nCultural Appropriateness: The translation is culturally appropriate and sensitive.\nGuideline Adherence: The translation adheres to all guidelines.\nCompleteness: The translation accurately conveys the meaning of the source sentence.\nConfidence: 100\n```json\n{\n  \"per_criteria_points\": {\n    \"accuracy\": 1,\n    \"fluency\": 1,\n    \"cultural\": 1,\n    \"completeness\": 1\n  },\n  \"total_points\": 4,\n  \"normalised_score\": 5.0\n}\n```"
+    },
+    {
+      "row_index": 9,
+      "source": "That designer bag costs an arm and a leg.",
+      "translation": "Napakamahal ng designer bag na 'yan.",
+      "llm_score": 5,
+      "final_text": "Score: 5\nLabel: excellent\nReasoning:\nAccuracy: The translation accurately conveys the meaning of the source summary.\nFluency: The sentence is natural and fluent in Filipino.\nCoherence: The translation maintains the coherence of the original text.\nCultural Appropriateness: The translation is culturally appropriate and accurately conveys the high cost of the designer bag.\nGuideline Adherence: All guidelines were followed.\nCompleteness: The translation accurately conveys the meaning of the source sentence.\nConfidence: 100\n```json\n{\n  \"per_criteria_points\": {\n    \"accuracy\": 1,\n    \"fluency\": 1,\n    \"cultural\": 1,\n    \"completeness\": 1\n  },\n  \"total_points\": 4,\n  \"normalised_score\": 5.0\n}\n```"
+    },
+    {
+      "row_index": 10,
+      "source": "I didn’t want to go to the dentist, but I had to bite the bullet and get it over with.",
+      "translation": "Ayoko sanang pumunta sa dentista, pero kailangan kong tiisin ito para matapos na.",
+      "llm_score": null,
+      "final_text": ""
+    },
+    {
+      "row_index": 11,
+      "source": "Mark accidentally let the cat out of the bag about the surprise trip.",
+      "translation": "Hindi sinasadyang nailabas ni Mark ang pusa mula sa maleta tungkol sa surprise trip.",
+      "llm_score": 1,
+      "final_text": "Score: 1\nLabel: poor\nReasoning:\nAccuracy: The translation contains a literal translation of an idiom and introduces extraneous information.\nFluency: The sentence contains awkward phrasing and a redundant prepositional phrase, affecting its natural flow.\nCoherence: The literal translation of the idiom and the addition of extraneous information disrupt the coherence of the translated sentence.\nCultural Appropriateness: The translation contains a literal rendering of an idiom that does not translate well into Filipino, affecting naturalness.\nGuideline Adherence: The translation fails to adhere to guidelines regarding idiomatic expressions and the introduction of extraneous information.\nCompleteness: The translation accurately conveys the information in the source sentence, but introduces errors.\nConfidence: 100\n```json\n{\n  \"per_criteria_points\": {\n    \"accuracy\": 0,\n    \"fluency\": 0,\n    \"cultural\": 0,\n    \"completeness\": 1\n  },\n  \"total_points\": 1,\n  \"normalised_score\": 1.0\n}\n```"
+    },
+    {
+      "row_index": 12,
+      "source": "I won’t be able to attend the meeting later because I’m feeling under the weather.",
+      "translation": "Hindi ako makakadalo sa meeting mamaya dahil masama ang pakiramdam ko.",
+      "llm_score": 5,
+      "final_text": "Score: 5\nLabel: excellent\nReasoning:\nAccuracy: The translation accurately conveys the meaning of the source summary.\nFluency: The sentence is grammatically correct and flows naturally.\nCoherence: The translation is coherent and easy to understand.\nCultural Appropriateness: The translation is culturally appropriate and uses common Filipino phrasing for expressing illness.\nGuideline Adherence: Not applicable.\nCompleteness: The translation accurately conveys the meaning of the source sentence, indicating absence from the meeting due to illness.\nConfidence: 100\n\n```json\n{\n  \"per_criteria_points\": {\n    \"accuracy\": 1,\n    \"fluency\": 1,\n    \"cultural\": 1,\n    \"completeness\": 1\n  },\n  \"total_points\": 4,\n  \"normalised_score\": 5.0\n}\n```"
+    },
+    {
+      "row_index": 13,
+      "source": "Darkness is not heresy. It lies within us all.",
+      "translation": "Hindi kasalanan ang kadiliman. Nagsisinungaling ito sa loob natin.",
+      "llm_score": 1,
+      "final_text": "Score: 1\nLabel: poor\nReasoning:\nAccuracy: The translation introduces interpretations not directly present in the source summary, leading to meaning shifts. The translation of \"Darkness is not heresy\" as \"Hindi kasalanan ang kadiliman\" shifts the meaning slightly.\nFluency: The sentence is grammatically correct but could be more fluent with minor adjustments. Redundant pronoun \"ito\" after \"kadiliman\".\nCoherence: The paraphrase introduces the idea that 'Darkness itself is not the problem,' which is a different interpretation than the source summary's statement that darkness is an inherent part of human nature.\nCultural Appropriateness: The translation of \"It lies within us all\" to \"Nagsisinungaling ito sa loob natin\" is inaccurate. \"Nagsisinungaling\" means \"lying\" or \"telling lies,\" which doesn't capture the original meaning of inherent darkness or potential for evil within people.\nGuideline Adherence: The translation significantly deviates from the source text's meaning and introduces inaccurate interpretations.\nCompleteness: The translation omits the subject 'Darkness' in the second sentence, changing the meaning.\nConfidence: 100\n```json\n{\n  \"per_criteria_points\": {\n    \"accuracy\": 0,\n    \"fluency\": 0,\n    \"cultural\": 0,\n    \"completeness\": 0\n  },\n  \"total_points\": 0,\n  \"normalised_score\": 1.0\n}\n```"
+    },
+    {
+      "row_index": 14,
+      "source": "This would be easier if blood came in more colours.",
+      "translation": "Ito ay magiging mas madali kung ang dugo ay dumating sa mas maraming kulay.",
+      "llm_score": 2,
+      "final_text": "Score: 2\nLabel: poor\nReasoning:\nAccuracy: The translation accurately conveys the core meaning of the source summary.\nFluency: The original sentence contains grammatical awkwardness and unnatural phrasing, including a redundant 'ay' and an awkward phrase.\nCoherence: The translation maintains coherence with the original text.\nCultural Appropriateness: The translation is culturally appropriate and accurately conveys the meaning without any sensitive elements.\nGuideline Adherence: The translation fails to adhere to fluency guidelines due to awkward phrasing.\nCompleteness: The translation accurately conveys the core meaning of the source sentence without any omissions or additions.\nConfidence: 100\n```json\n{\n  \"per_criteria_points\": {\n    \"accuracy\": 1,\n    \"fluency\": 0,\n    \"cultural\": 1,\n    \"completeness\": 1\n  },\n  \"total_points\": 3,\n  \"normalised_score\": 2\n}\n```"
+    },
+    {
+      "row_index": 15,
+      "source": "This guy right here is Shadow, and he's kinda my biggest rival. He's also a real buzz-kill.",
+      "translation": "Ang lalaking ito dito ay si Shadow, at siya ang aking pinakamalaking karibal. Isa rin siyang totoong buzz-kill.",
+      "llm_score": null,
+      "final_text": ""
+    },
+    {
+      "row_index": 16,
+      "source": "Stealth is not your thing. But it's adorable you're willing to try.",
+      "translation": "Ang pagnanakaw ay hindi bagay sa iyo. Ngunit ito ay kaibig-ibig na handa kang subukan.",
+      "llm_score": null,
+      "final_text": ""
+    },
+    {
+      "row_index": 17,
+      "source": "Cheddar cheese got its name from a village in what country?",
+      "translation": "Ang nayon na pinagkuhanan ng pangalan ng cheddar cheese ay nasaang bansa?",
+      "llm_score": null,
+      "final_text": ""
+    },
+    {
+      "row_index": 18,
+      "source": "Which of the following tools is LEAST likely to be used in the process of creating a wood sculpture?",
+      "translation": "Alin sa mga sumusunod ang PINAKABIHIRANG ginagamit sa paggawa ng eskulturang kahoy?",
+      "llm_score": null,
+      "final_text": ""
+    },
+    {
+      "row_index": 19,
+      "source": "With what would you use a \"wah-wah pedal?",
+      "translation": "Ano ang gagamitin mo ng \"wah-wah pedal?",
+      "llm_score": null,
+      "final_text": ""
+    },
+    {
+      "row_index": 20,
+      "source": "Which of the following dental topics is developmentally appropriate for toddlers?",
+      "translation": "Alin sa mga sumusunod na paksa sa ngipin ang angkop sa pag-unlad para sa mga paslit?",
+      "llm_score": null,
+      "final_text": ""
+    },
+    {
+      "row_index": 21,
+      "source": "The Bloons are back and better than ever! Get ready for a massive 3D tower defense game designed to give you hours and hours of the best strategy gaming available.",
+      "translation": "Ang Bloons ay bumalik at mas mahusay kaysa dati! Maghanda para sa isang napakalaking 3D tower defense na laro na idinisenyo upang bigyan ka ng mga oras at oras ng pinakamahusay na diskarte sa paglalaro na magagamit.",
+      "llm_score": null,
+      "final_text": ""
+    },
+    {
+      "row_index": 22,
+      "source": "Sea of Thieves is a smash-hit pirate adventure game, offering the quintessential pirate experience of plundering lost treasures, intense battles, vanquishing sea monsters and more. Dive in with this revised edition of the game, which includes access to digital bonus media.",
+      "translation": "Ang Sea of Thieves ay isang smash-hit na pirate adventure game, na nag-aalok ng quintessential na karanasan sa pirata ng pagnanakaw sa mga nawawalang kayamanan, matinding labanan, pagtalo sa mga halimaw sa dagat at higit pa. Sumisid sa binagong edisyon ng larong ito, na kinabibilangan ng access sa digital bonus media.",
+      "llm_score": null,
+      "final_text": ""
+    },
+    {
+      "row_index": 23,
+      "source": "The Binding of Isaac: Rebirth is a randomly generated action RPG shooter with heavy Rogue-like elements. Following Isaac on his journey players will find bizarre treasures that change Isaac's form giving him super human abilities and enabling him to fight off droves of mysterious creatures, discover secrets and fight his way to safety.",
+      "translation": "Ang The Binding of Isaac: Rebirth ay isang random na nabuong action RPG shooter na may mabibigat na elementong parang Rogue. Kasunod ni Isaac sa kanyang paglalakbay, ang mga manlalaro ay makakahanap ng mga kakaibang kayamanan na nagpabago sa anyo ni Isaac na nagbibigay sa kanya ng sobrang mga kakayahan ng tao at nagbibigay-daan sa kanya upang labanan ang napakaraming mga misteryosong nilalang, tumuklas ng mga lihim at labanan ang kanyang daan patungo sa kaligtasan.",
+      "llm_score": null,
+      "final_text": ""
+    },
+    {
+      "row_index": 24,
+      "source": "Welcome to a new world! In Monster Hunter: World, the latest installment in the series, you can enjoy the ultimate hunting experience, using everything at your disposal to hunt monsters in a new world teeming with surprises and excitement.",
+      "translation": "Maligayang pagdating sa isang bagong mundo! Sa Monster Hunter: World, ang pinakabagong installment sa serye, masisiyahan ka sa pinakahuling karanasan sa pangangaso, gamit ang lahat ng iyong makakaya upang manghuli ng mga halimaw sa isang bagong mundo na puno ng mga sorpresa at kaguluhan.",
+      "llm_score": null,
+      "final_text": ""
+    },
+    {
+      "row_index": 25,
+      "source": "For so long, you and me been finding each other for so long.",
+      "translation": "Matagal na, matagal na tayong dalawa naghahanap sa isa't isa.",
+      "llm_score": null,
+      "final_text": ""
+    },
+    {
+      "row_index": 26,
+      "source": "I can't stop smiling when you're there",
+      "translation": "Hindi ko mapigilang ngumiti tuwing andiyan ka",
+      "llm_score": null,
+      "final_text": ""
+    },
+    {
+      "row_index": 27,
+      "source": "I just want to be your everything.",
+      "translation": "Nais ko lang ay maging lahat para sa’yo",
+      "llm_score": null,
+      "final_text": ""
+    },
+    {
+      "row_index": 28,
+      "source": "If I give you all my life, would you still be mine?",
+      "translation": "Kung ibibigay ko sa’yo ang buong buhay ko, akin ka pa rin ba?",
+      "llm_score": null,
+      "final_text": ""
+    },
+    {
+      "row_index": 29,
+      "source": "A stack overflow happens when there is too much memory used on the call stack.",
+      "translation": "Nangyayari ang stack overflow kapag labis ang paggamit ng memorya sa call stack.",
+      "llm_score": null,
+      "final_text": ""
+    },
+    {
+      "row_index": 30,
+      "source": "The database index speeds up data retrieval by reducing the number of disk accesses.",
+      "translation": "Pinapabilis ng database index ang pagkuha ng data sa pamamagitan ng pagbawas sa pag-access sa disk.",
+      "llm_score": null,
+      "final_text": ""
+    },
+    {
+      "row_index": 31,
+      "source": "The kernel handles low-level operations in the operating system.",
+      "translation": "Pinangangasiwaan ng kernel ang mga low-level na operasyon sa operating system.",
+      "llm_score": null,
+      "final_text": ""
+    },
+    {
+      "row_index": 32,
+      "source": "The address bus carries memory addresses to the CPU.",
+      "translation": "Dinadala ng address bus ang mga memory address papunta sa CPU.",
+      "llm_score": null,
+      "final_text": ""
+    },
+    {
+      "row_index": 33,
+      "source": "Jollibee is a famous fast food restaurant in the Philippines.",
+      "translation": "Ang Jollibee ay isang sikat na kainan sa Pilipinas.",
+      "llm_score": null,
+      "final_text": ""
+    },
+    {
+      "row_index": 34,
+      "source": "Filipinos visit their relatives during holidays.",
+      "translation": "Tuwing bakasyon, binibisita ng mga Pilipino ang kani-kanilang mga pamilya",
+      "llm_score": null,
+      "final_text": ""
+    },
+    {
+      "row_index": 35,
+      "source": "Filipinos often use the expression \"po\" and \"opo\" as a sign of respect to elders.",
+      "translation": "Ginagamit ng mga Pilipino ang mga salitang “po” at “opo” bilang paggalang sa mga nakakatanda. ",
+      "llm_score": null,
+      "final_text": ""
+    },
+    {
+      "row_index": 36,
+      "source": "Adobo is one of the most popular dishes in the Philippines, made with soy sauce, vinegar, and garlic.",
+      "translation": "Ang Adobo ay isa sa mga pinakasikat na ulam sa Pilipinas at ito ay gawa sa toyo, suka, at bawang. ",
+      "llm_score": null,
+      "final_text": ""
+    },
+    {
+      "row_index": 37,
+      "source": "The hospitability of Filipinos are known worldwide",
+      "translation": "Ang pagiging hospitable ng mga Pilipino ay kilala sa buong mundo",
+      "llm_score": null,
+      "final_text": ""
+    },
+    {
+      "row_index": 38,
+      "source": "We love to celebrate fiestas and gatherings with family and friends",
+      "translation": "Mahal natin ang pagdidiwang ng piyesta and salo-salo kasama ang pamilya at mga kaibigan",
+      "llm_score": null,
+      "final_text": ""
+    },
+    {
+      "row_index": 39,
+      "source": "Adobo and sinigang are just some of the delicious Filipino dishes that are truly craved.",
+      "translation": "Ang adobo at sinigang ay ilan lamang sa masasarap na pagkaing Pilipino na talaga naman hinahanap-hanap",
+      "llm_score": null,
+      "final_text": ""
+    },
+    {
+      "row_index": 40,
+      "source": "Eating rice with almost every meal is part of out culture",
+      "translation": "Bahagi ng ating kultura ang pagkain ng kanin sa halos bawat pagkain",
+      "llm_score": null,
+      "final_text": ""
+    },
+    {
+      "row_index": 41,
+      "source": "The nurse inserted the IV incorrectly, causing bruising.",
+      "translation": "Ang nurse ay pinasok ang IV ng mali, kaya nagka-pasa.",
+      "llm_score": null,
+      "final_text": ""
+    },
+    {
+      "row_index": 42,
+      "source": "The patient was given penicillin to prevent infection.",
+      "translation": "Ang pasyente ay binigyan ng penicillin upang maiwasan ang impeksyon.",
+      "llm_score": null,
+      "final_text": ""
+    },
+    {
+      "row_index": 43,
+      "source": "To be able to start fasting, you have to stop eating and drinking anything except water at least 8 hours before your test.",
+      "translation": "Para makapagsimula ng fasting, tigilan ang pagkain at pag-inom 8 oras bago ang test, tubig lang pwede.",
+      "llm_score": null,
+      "final_text": ""
+    },
+    {
+      "row_index": 44,
+      "source": "After being checked up, you have to be admitted to the hospital for observation and treatment.",
+      "translation": "Pagkatapos ng check-up, kailangang ma-admit ka sa ospital para ma-obserbahan at gamutan.",
+      "llm_score": null,
+      "final_text": ""
+    },
+    {
+      "row_index": 45,
+      "source": "I always make it a priority to set aside time for my hobbies.",
+      "translation": "Lagi ko sinisigurado na maglaan ng oras para sa aking mga libangan.",
+      "llm_score": null,
+      "final_text": ""
+    },
+    {
+      "row_index": 46,
+      "source": "One of the purposes of life is to help others without expecting anything in return.",
+      "translation": "Isa sa layunin ng buhay ay ang tumulong sa kapwa nang walang kapalit",
+      "llm_score": null,
+      "final_text": ""
+    },
+    {
+      "row_index": 47,
+      "source": "I exclusively use Spotify to listen to music such as OPM.",
+      "translation": "Sa Spotify lang ako nakikinig ng music katulad ng OPM.",
+      "llm_score": null,
+      "final_text": ""
+    },
+    {
+      "row_index": 48,
+      "source": "I have a large collection of non-fiction books that's always well-organized and clean.",
+      "translation": "Meron akong koleksyon ng mga non-fiction na libro na palagi ko sinisigurado na organisado at malinis.",
+      "llm_score": null,
+      "final_text": ""
+    },
+    {
+      "row_index": 49,
+      "source": "Taking crazy things seriously is a serious waste of time.",
+      "translation": "Ang pagseseryoso ng mga bagay na baliw ay isang seryosong pag-aaksaya ng oras.",
+      "llm_score": null,
+      "final_text": ""
+    },
+    {
+      "row_index": 50,
+      "source": "Things outside you are projections of what’s inside you, and what’s inside you is a projection of what’s outside.",
+      "translation": "Ang mga bagay sa labas mo ay salamin ng nasa loob mo, at ang nasa loob mo ay salamin ng nasa labas.",
+      "llm_score": null,
+      "final_text": ""
+    },
+    {
+      "row_index": 51,
+      "source": "Some men are born mediocre, some men achieve mediocrity, and some men have mediocrity thrust upon them.",
+      "translation": "May ilang lalaking ipinanganak na katamtaman, may ilang nakakamit ang pagiging karaniwan, at may ilan na ipinipilit na lamang sa kanila ang pagiging ganoon.",
+      "llm_score": null,
+      "final_text": ""
+    },
+    {
+      "row_index": 52,
+      "source": "Mother died today. Or maybe yesterday; I can't be sure.",
+      "translation": "Sumakabilang-buhay si Inay ngayong araw. O baka kahapon; medyo nalilito na ako.",
+      "llm_score": null,
+      "final_text": ""
+    },
+    {
+      "row_index": 53,
+      "source": "The wave returns to the ocean, where it came from, and where it's supposed to be.",
+      "translation": "Bumabalik ang alon sa karagatan, kung saan ito nanggaling, at kung saan ito dapat nasa.",
+      "llm_score": null,
+      "final_text": ""
+    },
+    {
+      "row_index": 54,
+      "source": "Sick of tea?! That's like being sick of breathing!",
+      "translation": "Ayaw mo na ng tsaa?! Parang sinabi mo na ring sawa ka nang huminga!",
+      "llm_score": null,
+      "final_text": ""
+    },
+    {
+      "row_index": 55,
+      "source": "I wanted to invite my youngest to go get some ice cream, if he’ll let me.",
+      "translation": "Gusto ko imbitahin yung pinakabata kong anak para kumuha ng ice cream, kung papayagan niya ako.",
+      "llm_score": null,
+      "final_text": ""
+    },
+    {
+      "row_index": 56,
+      "source": "That person has no more respect or love for you, leave them.",
+      "translation": "Wala nang respeto at pagmamahal yung tao para sa'yo, iwan mo na.",
+      "llm_score": null,
+      "final_text": ""
+    }
+  ],
+  "traces": {
+    "0": {
+      "source": "The children laughed and played under the afternoon sun.",
+      "translation": "Ang mga bata ay nagtawanan at naglaro sa ilalim ng hapon na araw.",
+      "reference": null,
+      "steps": [
+        {
+          "step": "summarize_source",
+          "raw": "```json\n{\"summary_en\": \"The sentence describes children enjoying themselves in the sunlight.\"}\n```",
+          "json": {
+            "summary_en": "The sentence describes children enjoying themselves in the sunlight."
+          }
+        },
+        {
+          "step": "paraphrase_translation",
+          "raw": "{\"paraphrase_en\": \"The children laughed and played under the afternoon sun.\"}",
+          "json": {
+            "paraphrase_en": "The children laughed and played under the afternoon sun."
+          }
+        },
+        {
+          "step": "accuracy",
+          "raw": "```json\n{\"issues\": [], \"accuracy_point\": 1, \"note\": \"The translation accurately conveys the meaning of the source sentence.\"}\n```",
+          "json": {
+            "issues": [],
+            "accuracy_point": 1,
+            "note": "The translation accurately conveys the meaning of the source sentence."
+          }
+        },
+        {
+          "step": "fluency",
+          "raw": "```json\n{\"issues\": [\"Redundant 'na' in 'hapon na araw'\"], \"suggestion\": \"Omit 'na': 'sa ilalim ng hapon araw'.\", \"fluency_point\": 1, \"note\": \"The sentence is generally fluent, but removing the extra 'na' improves naturalness.\"}\n```",
+          "json": {
+            "issues": [
+              "Redundant 'na' in 'hapon na araw'"
+            ],
+            "suggestion": "Omit 'na': 'sa ilalim ng hapon araw'.",
+            "fluency_point": 1,
+            "note": "The sentence is generally fluent, but removing the extra 'na' improves naturalness."
+          }
+        },
+        {
+          "step": "cultural",
+          "raw": "```json\n{\"issues\": [], \"cultural_point\": 1, \"note\": \"The translation is culturally appropriate and accurately conveys the meaning of the source sentence.\"}\n```",
+          "json": {
+            "issues": [],
+            "cultural_point": 1,
+            "note": "The translation is culturally appropriate and accurately conveys the meaning of the source sentence."
+          }
+        },
+        {
+          "step": "completeness",
+          "raw": "```json\n{\"omissions\": [], \"additions\": [], \"completeness_point\": 1, \"note\": \"The translation accurately conveys the meaning of the source sentence.\"}\n```",
+          "json": {
+            "omissions": [],
+            "additions": [],
+            "completeness_point": 1,
+            "note": "The translation accurately conveys the meaning of the source sentence."
+          }
+        },
+        {
+          "step": "self_critic",
+          "raw": "```json\n{\"ok\": true, \"rerun\": [], \"comment\": \"The translation is accurate, complete, and culturally appropriate, with a minor fluency issue identified.\"}\n```",
+          "json": {
+            "ok": true,
+            "rerun": [],
+            "comment": "The translation is accurate, complete, and culturally appropriate, with a minor fluency issue identified."
+          }
+        },
+        {
+          "step": "synthesizer_raw",
+          "raw": "Score: 4\nLabel: good\nReasoning:\nAccuracy: The translation accurately conveys the meaning of the source sentence.\nFluency: The sentence is generally fluent, but removing the extra 'na' improves naturalness.\nCoherence: The translation maintains the coherence of the original sentence.\nCultural Appropriateness: The translation is culturally appropriate.\nGuideline Adherence: The translation follows the guidelines.\nCompleteness: The translation accurately conveys the meaning of the source sentence.\nConfidence: 100\n```json\n{\n  \"per_criteria_points\": {\n    \"accuracy\": 1,\n    \"fluency\": 1,\n    \"cultural\": 1,\n    \"completeness\": 1\n  },\n  \"total_points\": 4,\n  \"normalised_score\": 4.0\n}\n```"
+        }
+      ],
+      "final": {
+        "text": "Score: 4\nLabel: good\nReasoning:\nAccuracy: The translation accurately conveys the meaning of the source sentence.\nFluency: The sentence is generally fluent, but removing the extra 'na' improves naturalness.\nCoherence: The translation maintains the coherence of the original sentence.\nCultural Appropriateness: The translation is culturally appropriate.\nGuideline Adherence: The translation follows the guidelines.\nCompleteness: The translation accurately conveys the meaning of the source sentence.\nConfidence: 100\n```json\n{\n  \"per_criteria_points\": {\n    \"accuracy\": 1,\n    \"fluency\": 1,\n    \"cultural\": 1,\n    \"completeness\": 1\n  },\n  \"total_points\": 4,\n  \"normalised_score\": 4.0\n}\n```",
+        "json": {
+          "per_criteria_points": {
+            "accuracy": 1,
+            "fluency": 1,
+            "cultural": 1,
+            "completeness": 1
+          },
+          "total_points": 4,
+          "normalised_score": 4.0
+        }
+      }
+    },
+    "1": {
+      "source": "She took a break to gather her thoughts.",
+      "translation": "Nagpahinga siya para mag-isip-isip.",
+      "reference": null,
+      "steps": [
+        {
+          "step": "summarize_source",
+          "raw": "```json\n{\"summary_en\": \"She paused to reflect and organize her thoughts.\"}\n```",
+          "json": {
+            "summary_en": "She paused to reflect and organize her thoughts."
+          }
+        },
+        {
+          "step": "paraphrase_translation",
+          "raw": "{\"paraphrase_en\": \"She rested to reflect or contemplate.\"}",
+          "json": {
+            "paraphrase_en": "She rested to reflect or contemplate."
+          }
+        },
+        {
+          "step": "accuracy",
+          "raw": "```json\n{\"issues\": [\"The translation misses the nuance of organizing thoughts, focusing solely on reflection or contemplation.\", \"The original sentence implies a deliberate pause for mental clarity, while the translation suggests a more general rest.\", \"The translation omits the purpose of organizing thoughts.\"], \"accuracy_point\": 0, \"note\": \"The translation loses the specific action of organizing thoughts, simplifying the meaning to general reflection during a rest.\"}\n```",
+          "json": {
+            "issues": [
+              "The translation misses the nuance of organizing thoughts, focusing solely on reflection or contemplation.",
+              "The original sentence implies a deliberate pause for mental clarity, while the translation suggests a more general rest.",
+              "The translation omits the purpose of organizing thoughts."
+            ],
+            "accuracy_point": 0,
+            "note": "The translation loses the specific action of organizing thoughts, simplifying the meaning to general reflection during a rest."
+          }
+        },
+        {
+          "step": "fluency",
+          "raw": "```json\n{\"issues\": [], \"suggestion\": \"The sentence is fine as is.\", \"fluency_point\": 1, \"note\": \"The sentence is grammatically correct and sounds natural.\"}\n```",
+          "json": {
+            "issues": [],
+            "suggestion": "The sentence is fine as is.",
+            "fluency_point": 1,
+            "note": "The sentence is grammatically correct and sounds natural."
+          }
+        },
+        {
+          "step": "cultural",
+          "raw": "```json\n{\"issues\": [], \"cultural_point\": 1, \"note\": \"The translation is culturally appropriate and sensitive.\"}\n```",
+          "json": {
+            "issues": [],
+            "cultural_point": 1,
+            "note": "The translation is culturally appropriate and sensitive."
+          }
+        },
+        {
+          "step": "completeness",
+          "raw": "```json\n{\"omissions\": [], \"additions\": [], \"completeness_point\": 1, \"note\": \"The translation conveys the core meaning of the source text without any significant omissions or additions.\"}\n```",
+          "json": {
+            "omissions": [],
+            "additions": [],
+            "completeness_point": 1,
+            "note": "The translation conveys the core meaning of the source text without any significant omissions or additions."
+          }
+        },
+        {
+          "step": "self_critic",
+          "raw": "```json\n{\"ok\": false, \"rerun\": [\"accuracy\"], \"comment\": \"The accuracy subagent identified significant issues with the translation that need to be addressed.\"}\n```",
+          "json": {
+            "ok": false,
+            "rerun": [
+              "accuracy"
+            ],
+            "comment": "The accuracy subagent identified significant issues with the translation that need to be addressed."
+          }
+        },
+        {
+          "step": "rerun_accuracy",
+          "raw": "```json\n{\"issues\": [\"The translation omits the idea of organizing thoughts, focusing solely on reflection or contemplation.\", \"The nuance of 'mag-isip-isip' (to think deeply or ponder) might not fully capture the original's intention of simply organizing thoughts.\"], \"accuracy_point\": 0, \"note\": \"The translation misses the 'organize' aspect of the original summary.\"}\n```",
+          "json": {
+            "issues": [
+              "The translation omits the idea of organizing thoughts, focusing solely on reflection or contemplation.",
+              "The nuance of 'mag-isip-isip' (to think deeply or ponder) might not fully capture the original's intention of simply organizing thoughts."
+            ],
+            "accuracy_point": 0,
+            "note": "The translation misses the 'organize' aspect of the original summary."
+          }
+        },
+        {
+          "step": "synthesizer_raw",
+          "raw": "Score: 3\nLabel: poor\nReasoning:\nAccuracy: The translation omits the idea of organizing thoughts, focusing solely on reflection or contemplation. The nuance of 'mag-isip-isip' (to think deeply or ponder) might not fully capture the original's intention of simply organizing thoughts.\nFluency: The sentence is grammatically correct and sounds natural.\nCoherence: The translation maintains a logical flow, but the omission impacts the overall coherence with the original meaning.\nCultural Appropriateness: The translation is culturally appropriate and sensitive.\nGuideline Adherence: The translation fails to accurately convey the original meaning by omitting key information.\nCompleteness: The translation conveys the core meaning of the source text but misses a key element.\nConfidence: 100\n```json\n{\n  \"per_criteria_points\": {\n    \"accuracy\": 0,\n    \"fluency\": 1,\n    \"cultural\": 1,\n    \"completeness\": 1\n  },\n  \"total_points\": 3,\n  \"normalised_score\": 0.75\n}\n```"
+        }
+      ],
+      "final": {
+        "text": "Score: 3\nLabel: poor\nReasoning:\nAccuracy: The translation omits the idea of organizing thoughts, focusing solely on reflection or contemplation. The nuance of 'mag-isip-isip' (to think deeply or ponder) might not fully capture the original's intention of simply organizing thoughts.\nFluency: The sentence is grammatically correct and sounds natural.\nCoherence: The translation maintains a logical flow, but the omission impacts the overall coherence with the original meaning.\nCultural Appropriateness: The translation is culturally appropriate and sensitive.\nGuideline Adherence: The translation fails to accurately convey the original meaning by omitting key information.\nCompleteness: The translation conveys the core meaning of the source text but misses a key element.\nConfidence: 100\n```json\n{\n  \"per_criteria_points\": {\n    \"accuracy\": 0,\n    \"fluency\": 1,\n    \"cultural\": 1,\n    \"completeness\": 1\n  },\n  \"total_points\": 3,\n  \"normalised_score\": 0.75\n}\n```",
+        "json": {
+          "per_criteria_points": {
+            "accuracy": 0,
+            "fluency": 1,
+            "cultural": 1,
+            "completeness": 1
+          },
+          "total_points": 3,
+          "normalised_score": 0.75
+        }
+      }
+    },
+    "2": {
+      "source": "The algorithm efficiently identifies patterns in large datasets.",
+      "translation": "Mabisang kinikilala ng algoritmo ang mga pattern sa malalaking dataset.",
+      "reference": null,
+      "steps": [
+        {
+          "step": "summarize_source",
+          "raw": "```json\n{\"summary_en\": \"The algorithm is designed to effectively discover patterns within extensive datasets.\"}\n```",
+          "json": {
+            "summary_en": "The algorithm is designed to effectively discover patterns within extensive datasets."
+          }
+        },
+        {
+          "step": "paraphrase_translation",
+          "raw": "{\"paraphrase_en\": \"The algorithm effectively identifies patterns in large datasets.\"}",
+          "json": {
+            "paraphrase_en": "The algorithm effectively identifies patterns in large datasets."
+          }
+        },
+        {
+          "step": "accuracy",
+          "raw": "```json\n{\"issues\": [], \"accuracy_point\": 1, \"note\": \"The translation accurately reflects the meaning of the source summary.\"}\n```",
+          "json": {
+            "issues": [],
+            "accuracy_point": 1,
+            "note": "The translation accurately reflects the meaning of the source summary."
+          }
+        },
+        {
+          "step": "fluency",
+          "raw": "```json\n{\"issues\": [\"Redundant word 'Mabisang'\", \"Word choice: 'kinikilala' is too formal.\", \"Word order: 'dataset' should be closer to 'malalaking'\"], \"suggestion\": \"Nakikilala ng algoritmo ang mga pattern sa malalaking dataset.\", \"fluency_point\": 0, \"note\": \"The original sentence is grammatically correct but sounds unnatural.\"}\n```",
+          "json": {
+            "issues": [
+              "Redundant word 'Mabisang'",
+              "Word choice: 'kinikilala' is too formal.",
+              "Word order: 'dataset' should be closer to 'malalaking'"
+            ],
+            "suggestion": "Nakikilala ng algoritmo ang mga pattern sa malalaking dataset.",
+            "fluency_point": 0,
+            "note": "The original sentence is grammatically correct but sounds unnatural."
+          }
+        },
+        {
+          "step": "cultural",
+          "raw": "```json\n{\"issues\": [], \"cultural_point\": 0, \"note\": \"The translation is appropriate and doesn't present any cultural insensitivity issues.\"}\n```",
+          "json": {
+            "issues": [],
+            "cultural_point": 0,
+            "note": "The translation is appropriate and doesn't present any cultural insensitivity issues."
+          }
+        },
+        {
+          "step": "completeness",
+          "raw": "```json\n{\"omissions\": [], \"additions\": [], \"completeness_point\": 1, \"note\": \"The translation accurately conveys the meaning of the source sentence.\"}\n```",
+          "json": {
+            "omissions": [],
+            "additions": [],
+            "completeness_point": 1,
+            "note": "The translation accurately conveys the meaning of the source sentence."
+          }
+        },
+        {
+          "step": "self_critic",
+          "raw": "```json\n{\"ok\": false, \"rerun\": [\"fluency\"], \"comment\": \"The fluency subagent identified multiple issues, suggesting a need for revision.\"}\n```",
+          "json": {
+            "ok": false,
+            "rerun": [
+              "fluency"
+            ],
+            "comment": "The fluency subagent identified multiple issues, suggesting a need for revision."
+          }
+        },
+        {
+          "step": "rerun_fluency",
+          "raw": "```json\n{\"issues\": [\"Redundant word 'Mabisang'\", \"Word choice: 'kinikilala' is too formal.\", \"Word order: 'dataset' should be closer to 'malalaking'\"], \"suggestion\": \"Nakikilala ng algoritmo ang mga pattern sa malalaking dataset.\", \"fluency_point\": 0, \"note\": \"The original sentence is grammatically correct but sounds unnatural.\"}\n```",
+          "json": {
+            "issues": [
+              "Redundant word 'Mabisang'",
+              "Word choice: 'kinikilala' is too formal.",
+              "Word order: 'dataset' should be closer to 'malalaking'"
+            ],
+            "suggestion": "Nakikilala ng algoritmo ang mga pattern sa malalaking dataset.",
+            "fluency_point": 0,
+            "note": "The original sentence is grammatically correct but sounds unnatural."
+          }
+        },
+        {
+          "step": "synthesizer_raw",
+          "raw": "Score: 2\nLabel: poor\nReasoning:\nAccuracy: The translation accurately reflects the meaning of the source summary.\nFluency: The translation contains redundant words, unnatural word choices, and awkward word order.\nCoherence: The issues in fluency impact the overall coherence of the translation.\nCultural Appropriateness: The translation is appropriate and doesn't present any cultural insensitivity issues.\nGuideline Adherence: The translation fails to adhere to fluency guidelines due to grammatical errors and unnatural phrasing.\nCompleteness: The translation accurately conveys the meaning of the source sentence.\nConfidence: 100\n```json\n{\n  \"per_criteria_points\": {\n    \"accuracy\": 1,\n    \"fluency\": 0,\n    \"cultural\": 0,\n    \"completeness\": 1\n  },\n  \"total_points\": 2,\n  \"normalised_score\": 2\n}\n```"
+        }
+      ],
+      "final": {
+        "text": "Score: 2\nLabel: poor\nReasoning:\nAccuracy: The translation accurately reflects the meaning of the source summary.\nFluency: The translation contains redundant words, unnatural word choices, and awkward word order.\nCoherence: The issues in fluency impact the overall coherence of the translation.\nCultural Appropriateness: The translation is appropriate and doesn't present any cultural insensitivity issues.\nGuideline Adherence: The translation fails to adhere to fluency guidelines due to grammatical errors and unnatural phrasing.\nCompleteness: The translation accurately conveys the meaning of the source sentence.\nConfidence: 100\n```json\n{\n  \"per_criteria_points\": {\n    \"accuracy\": 1,\n    \"fluency\": 0,\n    \"cultural\": 0,\n    \"completeness\": 1\n  },\n  \"total_points\": 2,\n  \"normalised_score\": 2\n}\n```",
+        "json": {
+          "per_criteria_points": {
+            "accuracy": 1,
+            "fluency": 0,
+            "cultural": 0,
+            "completeness": 1
+          },
+          "total_points": 2,
+          "normalised_score": 2
+        }
+      }
+    },
+    "3": {
+      "error": "call_gemini failed after retries"
+    },
+    "4": {
+      "source": "alam mo ma'am masaya naman topics natin sa philosophy inaantok lang talaga ko kasi ikaw nagdidiscuss",
+      "translation": "You know, ma'am, we have a lot of fun philosophy topics. I'm just really sleepy in what you're discussing.",
+      "reference": null,
+      "steps": [
+        {
+          "step": "summarize_source",
+          "raw": "{\"summary_en\": \"The speaker enjoys the philosophy topics but gets sleepy because the teacher is the one discussing.\"}",
+          "json": {
+            "summary_en": "The speaker enjoys the philosophy topics but gets sleepy because the teacher is the one discussing."
+          }
+        },
+        {
+          "step": "paraphrase_translation",
+          "raw": "{\"paraphrase_en\": \"The speaker acknowledges the interesting philosophical topics but admits to feeling sleepy and disengaged during the current discussion.\"}",
+          "json": {
+            "paraphrase_en": "The speaker acknowledges the interesting philosophical topics but admits to feeling sleepy and disengaged during the current discussion."
+          }
+        },
+        {
+          "step": "accuracy",
+          "raw": "```json\n{\"issues\": [\"The translation paraphrase does not explicitly mention the teacher as the one discussing, which is a key detail in the original summary.\", \"The paraphrase uses 'disengaged' which is not explicitly mentioned in the source summary.\"], \"accuracy_point\": 0, \"note\": \"The paraphrase misses a key detail and adds an interpretation not directly stated in the source summary.\"}\n```",
+          "json": {
+            "issues": [
+              "The translation paraphrase does not explicitly mention the teacher as the one discussing, which is a key detail in the original summary.",
+              "The paraphrase uses 'disengaged' which is not explicitly mentioned in the source summary."
+            ],
+            "accuracy_point": 0,
+            "note": "The paraphrase misses a key detail and adds an interpretation not directly stated in the source summary."
+          }
+        },
+        {
+          "step": "fluency",
+          "raw": "```json\n{\"issues\": [\"Redundant pronoun usage: 'sa kung ano' can be simplified.\", \"Word choice: 'tinatalakay' is slightly formal; consider 'sinasabi'.\", \"Sentence structure: The sentence feels disjointed; consider rephrasing for flow.\"], \"suggestion\": \"Palitan ang 'sa kung ano' ng 'ang' at 'tinatalakay' ng 'sinasabi'.\", \"fluency_point\": 0, \"note\": \"The translation contains minor grammatical and phrasing issues that affect the naturalness of the sentence.\"}\n```",
+          "json": {
+            "issues": [
+              "Redundant pronoun usage: 'sa kung ano' can be simplified.",
+              "Word choice: 'tinatalakay' is slightly formal; consider 'sinasabi'.",
+              "Sentence structure: The sentence feels disjointed; consider rephrasing for flow."
+            ],
+            "suggestion": "Palitan ang 'sa kung ano' ng 'ang' at 'tinatalakay' ng 'sinasabi'.",
+            "fluency_point": 0,
+            "note": "The translation contains minor grammatical and phrasing issues that affect the naturalness of the sentence."
+          }
+        },
+        {
+          "step": "cultural",
+          "raw": "```json\n{\"issues\": [\"The translation softens the original's directness, which might be perceived as less polite in Filipino culture. The original directly states the speaker gets sleepy because the teacher is discussing, while the translation uses 'in what you're discussing,' which is less direct.\"], \"cultural_point\": 1, \"note\": \"The translation is more culturally sensitive by being less direct in its criticism.\"}\n```",
+          "json": {
+            "issues": [
+              "The translation softens the original's directness, which might be perceived as less polite in Filipino culture. The original directly states the speaker gets sleepy because the teacher is discussing, while the translation uses 'in what you're discussing,' which is less direct."
+            ],
+            "cultural_point": 1,
+            "note": "The translation is more culturally sensitive by being less direct in its criticism."
+          }
+        },
+        {
+          "step": "completeness",
+          "raw": "```json\n{\"omissions\": [\"teacher\"], \"additions\": [], \"completeness_point\": 0, \"note\": \"The translation omits the information that the teacher is the one discussing.\"}\n```",
+          "json": {
+            "omissions": [
+              "teacher"
+            ],
+            "additions": [],
+            "completeness_point": 0,
+            "note": "The translation omits the information that the teacher is the one discussing."
+          }
+        },
+        {
+          "step": "self_critic",
+          "raw": "```json\n{\"ok\": false, \"rerun\": [\"accuracy\", \"completeness\"], \"comment\": \"The accuracy and completeness scores indicate significant issues, particularly the omission of 'teacher,' necessitating a rerun of those subagents.\"}\n```",
+          "json": {
+            "ok": false,
+            "rerun": [
+              "accuracy",
+              "completeness"
+            ],
+            "comment": "The accuracy and completeness scores indicate significant issues, particularly the omission of 'teacher,' necessitating a rerun of those subagents."
+          }
+        },
+        {
+          "step": "rerun_accuracy",
+          "raw": "```json\n{\"issues\": [\"The translation paraphrase implies a general feeling of disengagement, while the source summary specifies the teacher's discussion as the cause of sleepiness.\", \"The translation paraphrase uses 'admits to feeling sleepy' which is not present in the source summary.\"], \"accuracy_point\": 0, \"note\": \"The translation paraphrase introduces a sense of disengagement not explicitly stated in the source summary, and adds 'admits to feeling sleepy' which is not present in the source summary.\"}\n```",
+          "json": {
+            "issues": [
+              "The translation paraphrase implies a general feeling of disengagement, while the source summary specifies the teacher's discussion as the cause of sleepiness.",
+              "The translation paraphrase uses 'admits to feeling sleepy' which is not present in the source summary."
+            ],
+            "accuracy_point": 0,
+            "note": "The translation paraphrase introduces a sense of disengagement not explicitly stated in the source summary, and adds 'admits to feeling sleepy' which is not present in the source summary."
+          }
+        },
+        {
+          "step": "synthesizer_raw",
+          "raw": "Score: 1\nLabel: poor\nReasoning:\nAccuracy: The translation introduces information not present in the source and misrepresents the cause of sleepiness.\nFluency: The translation contains grammatical and phrasing issues that affect the naturalness of the sentence.\nCoherence: The sentence structure feels disjointed.\nCultural Appropriateness: The translation is more culturally sensitive by being less direct.\nGuideline Adherence: The translation fails to accurately and completely convey the information in the source summary.\nCompleteness: The translation omits the information that the teacher is the one discussing.\nConfidence: 100\n\n```json\n{\n  \"per_criteria_points\": {\n    \"accuracy\": 0,\n    \"fluency\": 0,\n    \"cultural\": 1,\n    \"completeness\": 0\n  },\n  \"total_points\": 1,\n  \"normalised_score\": 1\n}\n```"
+        }
+      ],
+      "final": {
+        "text": "Score: 1\nLabel: poor\nReasoning:\nAccuracy: The translation introduces information not present in the source and misrepresents the cause of sleepiness.\nFluency: The translation contains grammatical and phrasing issues that affect the naturalness of the sentence.\nCoherence: The sentence structure feels disjointed.\nCultural Appropriateness: The translation is more culturally sensitive by being less direct.\nGuideline Adherence: The translation fails to accurately and completely convey the information in the source summary.\nCompleteness: The translation omits the information that the teacher is the one discussing.\nConfidence: 100\n\n```json\n{\n  \"per_criteria_points\": {\n    \"accuracy\": 0,\n    \"fluency\": 0,\n    \"cultural\": 1,\n    \"completeness\": 0\n  },\n  \"total_points\": 1,\n  \"normalised_score\": 1\n}\n```",
+        "json": {
+          "per_criteria_points": {
+            "accuracy": 0,
+            "fluency": 0,
+            "cultural": 1,
+            "completeness": 0
+          },
+          "total_points": 1,
+          "normalised_score": 1
+        }
+      }
+    },
+    "5": {
+      "error": "call_gemini failed after retries"
+    },
+    "6": {
+      "source": "The party of the first part shall not be held liable for any unforeseen damages.",
+      "translation": "Ang partido ng unang bahagi ay hindi mananagot para sa anumang hindi inaasahang pinsala.",
+      "reference": null,
+      "steps": [
+        {
+          "step": "summarize_source",
+          "raw": "{\"summary_en\": \"This clause absolves the first party from responsibility for unexpected damages.\"}",
+          "json": {
+            "summary_en": "This clause absolves the first party from responsibility for unexpected damages."
+          }
+        },
+        {
+          "step": "paraphrase_translation",
+          "raw": "```json\n{\"paraphrase_en\": \"The first party is not liable for any incidental damages.\"}\n```",
+          "json": {
+            "paraphrase_en": "The first party is not liable for any incidental damages."
+          }
+        },
+        {
+          "step": "accuracy",
+          "raw": "```json\n{\"issues\": [], \"accuracy_point\": 1, \"note\": \"The translation accurately conveys the meaning of the source summary.\"}\n```",
+          "json": {
+            "issues": [],
+            "accuracy_point": 1,
+            "note": "The translation accurately conveys the meaning of the source summary."
+          }
+        },
+        {
+          "step": "fluency",
+          "raw": "```json\n{\"issues\": [\"Redundant 'ng' after 'partido'\", \"Wordy phrasing\"], \"suggestion\": \"Palitan ang 'partido ng unang bahagi' sa 'unang partido'.\", \"fluency_point\": 0, \"note\": \"The translation contains minor grammatical errors and could be more concise.\"}\n```",
+          "json": {
+            "issues": [
+              "Redundant 'ng' after 'partido'",
+              "Wordy phrasing"
+            ],
+            "suggestion": "Palitan ang 'partido ng unang bahagi' sa 'unang partido'.",
+            "fluency_point": 0,
+            "note": "The translation contains minor grammatical errors and could be more concise."
+          }
+        },
+        {
+          "step": "cultural",
+          "raw": "```json\n{\"issues\": [], \"cultural_point\": 1, \"note\": \"The translation is culturally appropriate and uses neutral language.\"}\n```",
+          "json": {
+            "issues": [],
+            "cultural_point": 1,
+            "note": "The translation is culturally appropriate and uses neutral language."
+          }
+        },
+        {
+          "step": "completeness",
+          "raw": "```json\n{\"omissions\": [], \"additions\": [], \"completeness_point\": 1, \"note\": \"The translation accurately conveys the meaning of the source sentence without any omissions or additions.\"}\n```",
+          "json": {
+            "omissions": [],
+            "additions": [],
+            "completeness_point": 1,
+            "note": "The translation accurately conveys the meaning of the source sentence without any omissions or additions."
+          }
+        },
+        {
+          "step": "self_critic",
+          "raw": "```json\n{\"ok\": true, \"rerun\": [\"fluency\"], \"comment\": \"Fluency subagent should be rerun to address the grammatical errors and improve conciseness.\"}\n```",
+          "json": {
+            "ok": true,
+            "rerun": [
+              "fluency"
+            ],
+            "comment": "Fluency subagent should be rerun to address the grammatical errors and improve conciseness."
+          }
+        },
+        {
+          "step": "synthesizer_raw",
+          "raw": "Score: 3\nLabel: poor\nReasoning:\nAccuracy: The translation accurately conveys the meaning of the source summary.\nFluency: The translation contains minor grammatical errors and could be more concise, with redundant use of \"ng\" and wordy phrasing.\nCoherence: The coherence is slightly affected by the fluency issues.\nCultural Appropriateness: The translation is culturally appropriate and uses neutral language.\nGuideline Adherence: The translation has some issues with fluency.\nCompleteness: The translation accurately conveys the meaning of the source sentence without any omissions or additions.\nConfidence: 100\n```json\n{\n  \"per_criteria_points\": {\n    \"accuracy\": 1,\n    \"fluency\": 0,\n    \"cultural\": 1,\n    \"completeness\": 1\n  },\n  \"total_points\": 3,\n  \"normalised_score\": 0.75\n}\n```"
+        }
+      ],
+      "final": {
+        "text": "Score: 3\nLabel: poor\nReasoning:\nAccuracy: The translation accurately conveys the meaning of the source summary.\nFluency: The translation contains minor grammatical errors and could be more concise, with redundant use of \"ng\" and wordy phrasing.\nCoherence: The coherence is slightly affected by the fluency issues.\nCultural Appropriateness: The translation is culturally appropriate and uses neutral language.\nGuideline Adherence: The translation has some issues with fluency.\nCompleteness: The translation accurately conveys the meaning of the source sentence without any omissions or additions.\nConfidence: 100\n```json\n{\n  \"per_criteria_points\": {\n    \"accuracy\": 1,\n    \"fluency\": 0,\n    \"cultural\": 1,\n    \"completeness\": 1\n  },\n  \"total_points\": 3,\n  \"normalised_score\": 0.75\n}\n```",
+        "json": {
+          "per_criteria_points": {
+            "accuracy": 1,
+            "fluency": 0,
+            "cultural": 1,
+            "completeness": 1
+          },
+          "total_points": 3,
+          "normalised_score": 0.75
+        }
+      }
+    },
+    "7": {
+      "source": "Thank you for coming to the event.",
+      "translation": "Salamat sa pagpunta sa kaganapan.",
+      "reference": null,
+      "steps": [
+        {
+          "step": "summarize_source",
+          "raw": "```json\n{\"summary_en\": \"Expresses gratitude to attendees for their presence at the event.\"}\n```",
+          "json": {
+            "summary_en": "Expresses gratitude to attendees for their presence at the event."
+          }
+        },
+        {
+          "step": "paraphrase_translation",
+          "raw": "{\"paraphrase_en\": \"Thank you for attending the event.\"}",
+          "json": {
+            "paraphrase_en": "Thank you for attending the event."
+          }
+        },
+        {
+          "step": "accuracy",
+          "raw": "```json\n{\"issues\": [], \"accuracy_point\": 1, \"note\": \"The translation accurately conveys the meaning of the source summary.\"}\n```",
+          "json": {
+            "issues": [],
+            "accuracy_point": 1,
+            "note": "The translation accurately conveys the meaning of the source summary."
+          }
+        },
+        {
+          "step": "fluency",
+          "raw": "```json\n{\"issues\": [], \"suggestion\": \"N/A\", \"fluency_point\": 1, \"note\": \"The sentence is grammatically correct and fluent.\"}\n```",
+          "json": {
+            "issues": [],
+            "suggestion": "N/A",
+            "fluency_point": 1,
+            "note": "The sentence is grammatically correct and fluent."
+          }
+        },
+        {
+          "step": "cultural",
+          "raw": "```json\n{\"issues\": [], \"cultural_point\": 1, \"note\": \"The translation is culturally appropriate and conveys the same meaning as the source.\"}\n```",
+          "json": {
+            "issues": [],
+            "cultural_point": 1,
+            "note": "The translation is culturally appropriate and conveys the same meaning as the source."
+          }
+        },
+        {
+          "step": "completeness",
+          "raw": "```json\n{\"omissions\":[], \"additions\":[], \"completeness_point\": 1, \"note\": \"The translation accurately conveys the meaning of the source sentence.\"}\n```",
+          "json": {
+            "omissions": [],
+            "additions": [],
+            "completeness_point": 1,
+            "note": "The translation accurately conveys the meaning of the source sentence."
+          }
+        },
+        {
+          "step": "self_critic",
+          "raw": "```json\n{\"ok\": true, \"rerun\": [], \"comment\": \"All subagents agree and no issues were found.\"}\n```",
+          "json": {
+            "ok": true,
+            "rerun": [],
+            "comment": "All subagents agree and no issues were found."
+          }
+        },
+        {
+          "step": "synthesizer_raw",
+          "raw": "Score: 5\nLabel: excellent\nReasoning:\nAccuracy: The translation accurately conveys the meaning of the source summary.\nFluency: The sentence is grammatically correct and fluent.\nCoherence: The translation is coherent and maintains the original meaning.\nCultural Appropriateness: The translation is culturally appropriate and conveys the same meaning as the source.\nGuideline Adherence: The translation adheres to all guidelines.\nCompleteness: The translation accurately conveys the meaning of the source sentence.\nConfidence: 100\n```json\n{\n  \"per_criteria_points\": {\n    \"accuracy\": 1,\n    \"fluency\": 1,\n    \"cultural\": 1,\n    \"completeness\": 1\n  },\n  \"total_points\": 4,\n  \"normalised_score\": 5.0\n}\n```"
+        }
+      ],
+      "final": {
+        "text": "Score: 5\nLabel: excellent\nReasoning:\nAccuracy: The translation accurately conveys the meaning of the source summary.\nFluency: The sentence is grammatically correct and fluent.\nCoherence: The translation is coherent and maintains the original meaning.\nCultural Appropriateness: The translation is culturally appropriate and conveys the same meaning as the source.\nGuideline Adherence: The translation adheres to all guidelines.\nCompleteness: The translation accurately conveys the meaning of the source sentence.\nConfidence: 100\n```json\n{\n  \"per_criteria_points\": {\n    \"accuracy\": 1,\n    \"fluency\": 1,\n    \"cultural\": 1,\n    \"completeness\": 1\n  },\n  \"total_points\": 4,\n  \"normalised_score\": 5.0\n}\n```",
+        "json": {
+          "per_criteria_points": {
+            "accuracy": 1,
+            "fluency": 1,
+            "cultural": 1,
+            "completeness": 1
+          },
+          "total_points": 4,
+          "normalised_score": 5.0
+        }
+      }
+    },
+    "8": {
+      "source": "Despite her exhaustion, she finished the report before the deadline.",
+      "translation": "Sa kabila ng kanyang pagod, natapos niya ang ulat bago ang deadline.",
+      "reference": null,
+      "steps": [
+        {
+          "step": "summarize_source",
+          "raw": "```json\n{\"summary_en\": \"She completed the report on time despite being tired.\"}\n```",
+          "json": {
+            "summary_en": "She completed the report on time despite being tired."
+          }
+        },
+        {
+          "step": "paraphrase_translation",
+          "raw": "{\"paraphrase_en\": \"Despite being tired, she finished the report before the deadline.\"}",
+          "json": {
+            "paraphrase_en": "Despite being tired, she finished the report before the deadline."
+          }
+        },
+        {
+          "step": "accuracy",
+          "raw": "```json\n{\"issues\": [], \"accuracy_point\": 1, \"note\": \"The translation accurately conveys the meaning of the source summary.\"}\n```",
+          "json": {
+            "issues": [],
+            "accuracy_point": 1,
+            "note": "The translation accurately conveys the meaning of the source summary."
+          }
+        },
+        {
+          "step": "fluency",
+          "raw": "```json\n{\"issues\":[], \"suggestion\": \"No changes needed; the sentence is already fluent.\", \"fluency_point\": 1, \"note\": \"The sentence is grammatically correct and uses natural phrasing.\"}\n```",
+          "json": {
+            "issues": [],
+            "suggestion": "No changes needed; the sentence is already fluent.",
+            "fluency_point": 1,
+            "note": "The sentence is grammatically correct and uses natural phrasing."
+          }
+        },
+        {
+          "step": "cultural",
+          "raw": "```json\n{\"issues\": [], \"cultural_point\": 1, \"note\": \"The translation is culturally appropriate and sensitive, with no register or honorific issues.\"}\n```",
+          "json": {
+            "issues": [],
+            "cultural_point": 1,
+            "note": "The translation is culturally appropriate and sensitive, with no register or honorific issues."
+          }
+        },
+        {
+          "step": "completeness",
+          "raw": "```json\n{\"omissions\": [], \"additions\": [], \"completeness_point\": 1, \"note\": \"The translation accurately conveys the meaning of the source sentence.\"}\n```",
+          "json": {
+            "omissions": [],
+            "additions": [],
+            "completeness_point": 1,
+            "note": "The translation accurately conveys the meaning of the source sentence."
+          }
+        },
+        {
+          "step": "self_critic",
+          "raw": "```json\n{\"ok\": true, \"rerun\": [], \"comment\": \"All subagents agree and no issues were found.\"}\n```",
+          "json": {
+            "ok": true,
+            "rerun": [],
+            "comment": "All subagents agree and no issues were found."
+          }
+        },
+        {
+          "step": "synthesizer_raw",
+          "raw": "Score: 5\nLabel: excellent\nReasoning:\nAccuracy: The translation accurately conveys the meaning of the source summary.\nFluency: The sentence is grammatically correct and uses natural phrasing.\nCoherence: The translation maintains a coherent flow of information.\nCultural Appropriateness: The translation is culturally appropriate and sensitive.\nGuideline Adherence: The translation adheres to all guidelines.\nCompleteness: The translation accurately conveys the meaning of the source sentence.\nConfidence: 100\n```json\n{\n  \"per_criteria_points\": {\n    \"accuracy\": 1,\n    \"fluency\": 1,\n    \"cultural\": 1,\n    \"completeness\": 1\n  },\n  \"total_points\": 4,\n  \"normalised_score\": 5.0\n}\n```"
+        }
+      ],
+      "final": {
+        "text": "Score: 5\nLabel: excellent\nReasoning:\nAccuracy: The translation accurately conveys the meaning of the source summary.\nFluency: The sentence is grammatically correct and uses natural phrasing.\nCoherence: The translation maintains a coherent flow of information.\nCultural Appropriateness: The translation is culturally appropriate and sensitive.\nGuideline Adherence: The translation adheres to all guidelines.\nCompleteness: The translation accurately conveys the meaning of the source sentence.\nConfidence: 100\n```json\n{\n  \"per_criteria_points\": {\n    \"accuracy\": 1,\n    \"fluency\": 1,\n    \"cultural\": 1,\n    \"completeness\": 1\n  },\n  \"total_points\": 4,\n  \"normalised_score\": 5.0\n}\n```",
+        "json": {
+          "per_criteria_points": {
+            "accuracy": 1,
+            "fluency": 1,
+            "cultural": 1,
+            "completeness": 1
+          },
+          "total_points": 4,
+          "normalised_score": 5.0
+        }
+      }
+    },
+    "9": {
+      "source": "That designer bag costs an arm and a leg.",
+      "translation": "Napakamahal ng designer bag na 'yan.",
+      "reference": null,
+      "steps": [
+        {
+          "step": "summarize_source",
+          "raw": "{\"summary_en\": \"The designer bag is very expensive.\"}",
+          "json": {
+            "summary_en": "The designer bag is very expensive."
+          }
+        },
+        {
+          "step": "paraphrase_translation",
+          "raw": "{\"paraphrase_en\": \"That designer bag is very expensive.\"}",
+          "json": {
+            "paraphrase_en": "That designer bag is very expensive."
+          }
+        },
+        {
+          "step": "accuracy",
+          "raw": "```json\n{\"issues\": [], \"accuracy_point\": 1, \"note\": \"The translation accurately conveys the meaning of the source summary.\"}\n```",
+          "json": {
+            "issues": [],
+            "accuracy_point": 1,
+            "note": "The translation accurately conveys the meaning of the source summary."
+          }
+        },
+        {
+          "step": "fluency",
+          "raw": "```json\n{\"issues\":[], \"suggestion\": \"No changes needed; the sentence is grammatically sound.\", \"fluency_point\": 1, \"note\": \"The sentence is natural and fluent in Filipino.\"}\n```",
+          "json": {
+            "issues": [],
+            "suggestion": "No changes needed; the sentence is grammatically sound.",
+            "fluency_point": 1,
+            "note": "The sentence is natural and fluent in Filipino."
+          }
+        },
+        {
+          "step": "cultural",
+          "raw": "```json\n{\"issues\": [], \"cultural_point\": 1, \"note\": \"The translation is culturally appropriate and accurately conveys the high cost of the designer bag.\"}\n```",
+          "json": {
+            "issues": [],
+            "cultural_point": 1,
+            "note": "The translation is culturally appropriate and accurately conveys the high cost of the designer bag."
+          }
+        },
+        {
+          "step": "completeness",
+          "raw": "```json\n{\"omissions\": [], \"additions\": [], \"completeness_point\": 1, \"note\": \"The translation accurately conveys the meaning of the source sentence.\"}\n```",
+          "json": {
+            "omissions": [],
+            "additions": [],
+            "completeness_point": 1,
+            "note": "The translation accurately conveys the meaning of the source sentence."
+          }
+        },
+        {
+          "step": "self_critic",
+          "raw": "```json\n{\"ok\": true, \"rerun\": [], \"comment\": \"All subagents agree and no issues were found.\"}\n```",
+          "json": {
+            "ok": true,
+            "rerun": [],
+            "comment": "All subagents agree and no issues were found."
+          }
+        },
+        {
+          "step": "synthesizer_raw",
+          "raw": "Score: 5\nLabel: excellent\nReasoning:\nAccuracy: The translation accurately conveys the meaning of the source summary.\nFluency: The sentence is natural and fluent in Filipino.\nCoherence: The translation maintains the coherence of the original text.\nCultural Appropriateness: The translation is culturally appropriate and accurately conveys the high cost of the designer bag.\nGuideline Adherence: All guidelines were followed.\nCompleteness: The translation accurately conveys the meaning of the source sentence.\nConfidence: 100\n```json\n{\n  \"per_criteria_points\": {\n    \"accuracy\": 1,\n    \"fluency\": 1,\n    \"cultural\": 1,\n    \"completeness\": 1\n  },\n  \"total_points\": 4,\n  \"normalised_score\": 5.0\n}\n```"
+        }
+      ],
+      "final": {
+        "text": "Score: 5\nLabel: excellent\nReasoning:\nAccuracy: The translation accurately conveys the meaning of the source summary.\nFluency: The sentence is natural and fluent in Filipino.\nCoherence: The translation maintains the coherence of the original text.\nCultural Appropriateness: The translation is culturally appropriate and accurately conveys the high cost of the designer bag.\nGuideline Adherence: All guidelines were followed.\nCompleteness: The translation accurately conveys the meaning of the source sentence.\nConfidence: 100\n```json\n{\n  \"per_criteria_points\": {\n    \"accuracy\": 1,\n    \"fluency\": 1,\n    \"cultural\": 1,\n    \"completeness\": 1\n  },\n  \"total_points\": 4,\n  \"normalised_score\": 5.0\n}\n```",
+        "json": {
+          "per_criteria_points": {
+            "accuracy": 1,
+            "fluency": 1,
+            "cultural": 1,
+            "completeness": 1
+          },
+          "total_points": 4,
+          "normalised_score": 5.0
+        }
+      }
+    },
+    "10": {
+      "error": "call_gemini failed after retries"
+    },
+    "11": {
+      "source": "Mark accidentally let the cat out of the bag about the surprise trip.",
+      "translation": "Hindi sinasadyang nailabas ni Mark ang pusa mula sa maleta tungkol sa surprise trip.",
+      "reference": null,
+      "steps": [
+        {
+          "step": "summarize_source",
+          "raw": "{\"summary_en\": \"Mark unintentionally revealed the secret surprise trip.\"}",
+          "json": {
+            "summary_en": "Mark unintentionally revealed the secret surprise trip."
+          }
+        },
+        {
+          "step": "paraphrase_translation",
+          "raw": "{\"paraphrase_en\": \"Mark accidentally revealed the surprise trip by letting the cat out of the bag.\"}",
+          "json": {
+            "paraphrase_en": "Mark accidentally revealed the surprise trip by letting the cat out of the bag."
+          }
+        },
+        {
+          "step": "accuracy",
+          "raw": "```json\n{\"issues\": [\"The translation literally translates the idiom \\\"let the cat out of the bag\\\" which doesn't make sense in Filipino.\", \"The translation mentions a \\\"maleta\\\" (suitcase) which is not present in the source or summary.\"], \"accuracy_point\": 0, \"note\": \"The translation contains a literal translation of an idiom and introduces extraneous information.\"}\n```",
+          "json": {
+            "issues": [
+              "The translation literally translates the idiom \"let the cat out of the bag\" which doesn't make sense in Filipino.",
+              "The translation mentions a \"maleta\" (suitcase) which is not present in the source or summary."
+            ],
+            "accuracy_point": 0,
+            "note": "The translation contains a literal translation of an idiom and introduces extraneous information."
+          }
+        },
+        {
+          "step": "fluency",
+          "raw": "```json\n{\"issues\": [\"Redundant prepositional phrase \\\"tungkol sa surprise trip\\\".\", \"Word order is slightly awkward.\"], \"suggestion\": \"Baguhin sa: Hindi sinasadyang nailabas ni Mark ang pusa mula sa maleta para sa sorpresa.\", \"fluency_point\": 0, \"note\": \"The sentence contains awkward phrasing and a redundant prepositional phrase, affecting its natural flow.\"}\n```",
+          "json": {
+            "issues": [
+              "Redundant prepositional phrase \"tungkol sa surprise trip\".",
+              "Word order is slightly awkward."
+            ],
+            "suggestion": "Baguhin sa: Hindi sinasadyang nailabas ni Mark ang pusa mula sa maleta para sa sorpresa.",
+            "fluency_point": 0,
+            "note": "The sentence contains awkward phrasing and a redundant prepositional phrase, affecting its natural flow."
+          }
+        },
+        {
+          "step": "cultural",
+          "raw": "{\"issues\": [\"The idiom 'let the cat out of the bag' has been translated literally, which doesn't make sense in Filipino. A more natural translation would use a Filipino idiom or rephrase the sentence to convey the meaning of revealing a secret.\"], \"cultural_point\": 0, \"note\": \"The translation contains a literal rendering of an idiom that does not translate well into Filipino, affecting naturalness.\"}",
+          "json": {
+            "issues": [
+              "The idiom 'let the cat out of the bag' has been translated literally, which doesn't make sense in Filipino. A more natural translation would use a Filipino idiom or rephrase the sentence to convey the meaning of revealing a secret."
+            ],
+            "cultural_point": 0,
+            "note": "The translation contains a literal rendering of an idiom that does not translate well into Filipino, affecting naturalness."
+          }
+        },
+        {
+          "step": "completeness",
+          "raw": "```json\n{\"omissions\": [], \"additions\": [], \"completeness_point\": 1, \"note\": \"The translation accurately conveys the information in the source sentence.\"}\n```",
+          "json": {
+            "omissions": [],
+            "additions": [],
+            "completeness_point": 1,
+            "note": "The translation accurately conveys the information in the source sentence."
+          }
+        },
+        {
+          "step": "self_critic",
+          "raw": "```json\n{\"ok\": false, \"rerun\": [\"accuracy\", \"fluency\", \"cultural\"], \"comment\": \"All subagents except completeness identified issues, indicating a need to revise the translation.\"}\n```",
+          "json": {
+            "ok": false,
+            "rerun": [
+              "accuracy",
+              "fluency",
+              "cultural"
+            ],
+            "comment": "All subagents except completeness identified issues, indicating a need to revise the translation."
+          }
+        },
+        {
+          "step": "rerun_accuracy",
+          "raw": "```json\n{\"issues\": [\"The translation literally translates the idiom \\\"let the cat out of the bag\\\" which doesn't make sense in Filipino.\", \"The translation mentions a \\\"maleta\\\" (suitcase) which is not present in the source or summary.\"], \"accuracy_point\": 0, \"note\": \"The translation contains a literal translation of an idiom and introduces extraneous information.\"}\n```",
+          "json": {
+            "issues": [
+              "The translation literally translates the idiom \"let the cat out of the bag\" which doesn't make sense in Filipino.",
+              "The translation mentions a \"maleta\" (suitcase) which is not present in the source or summary."
+            ],
+            "accuracy_point": 0,
+            "note": "The translation contains a literal translation of an idiom and introduces extraneous information."
+          }
+        },
+        {
+          "step": "rerun_fluency",
+          "raw": "```json\n{\"issues\": [\"Redundant prepositional phrase \\\"tungkol sa surprise trip\\\".\", \"Word order is slightly awkward.\"], \"suggestion\": \"Baguhin sa: Hindi sinasadyang nailabas ni Mark ang pusa mula sa maleta para sa sorpresa.\", \"fluency_point\": 0, \"note\": \"The sentence contains awkward phrasing and a redundant prepositional phrase, affecting its natural flow.\"}\n```",
+          "json": {
+            "issues": [
+              "Redundant prepositional phrase \"tungkol sa surprise trip\".",
+              "Word order is slightly awkward."
+            ],
+            "suggestion": "Baguhin sa: Hindi sinasadyang nailabas ni Mark ang pusa mula sa maleta para sa sorpresa.",
+            "fluency_point": 0,
+            "note": "The sentence contains awkward phrasing and a redundant prepositional phrase, affecting its natural flow."
+          }
+        },
+        {
+          "step": "synthesizer_raw",
+          "raw": "Score: 1\nLabel: poor\nReasoning:\nAccuracy: The translation contains a literal translation of an idiom and introduces extraneous information.\nFluency: The sentence contains awkward phrasing and a redundant prepositional phrase, affecting its natural flow.\nCoherence: The literal translation of the idiom and the addition of extraneous information disrupt the coherence of the translated sentence.\nCultural Appropriateness: The translation contains a literal rendering of an idiom that does not translate well into Filipino, affecting naturalness.\nGuideline Adherence: The translation fails to adhere to guidelines regarding idiomatic expressions and the introduction of extraneous information.\nCompleteness: The translation accurately conveys the information in the source sentence, but introduces errors.\nConfidence: 100\n```json\n{\n  \"per_criteria_points\": {\n    \"accuracy\": 0,\n    \"fluency\": 0,\n    \"cultural\": 0,\n    \"completeness\": 1\n  },\n  \"total_points\": 1,\n  \"normalised_score\": 1.0\n}\n```"
+        }
+      ],
+      "final": {
+        "text": "Score: 1\nLabel: poor\nReasoning:\nAccuracy: The translation contains a literal translation of an idiom and introduces extraneous information.\nFluency: The sentence contains awkward phrasing and a redundant prepositional phrase, affecting its natural flow.\nCoherence: The literal translation of the idiom and the addition of extraneous information disrupt the coherence of the translated sentence.\nCultural Appropriateness: The translation contains a literal rendering of an idiom that does not translate well into Filipino, affecting naturalness.\nGuideline Adherence: The translation fails to adhere to guidelines regarding idiomatic expressions and the introduction of extraneous information.\nCompleteness: The translation accurately conveys the information in the source sentence, but introduces errors.\nConfidence: 100\n```json\n{\n  \"per_criteria_points\": {\n    \"accuracy\": 0,\n    \"fluency\": 0,\n    \"cultural\": 0,\n    \"completeness\": 1\n  },\n  \"total_points\": 1,\n  \"normalised_score\": 1.0\n}\n```",
+        "json": {
+          "per_criteria_points": {
+            "accuracy": 0,
+            "fluency": 0,
+            "cultural": 0,
+            "completeness": 1
+          },
+          "total_points": 1,
+          "normalised_score": 1.0
+        }
+      }
+    },
+    "12": {
+      "source": "I won’t be able to attend the meeting later because I’m feeling under the weather.",
+      "translation": "Hindi ako makakadalo sa meeting mamaya dahil masama ang pakiramdam ko.",
+      "reference": null,
+      "steps": [
+        {
+          "step": "summarize_source",
+          "raw": "```json\n{\"summary_en\": \"The speaker is informing the recipient that they will be absent from the meeting due to illness.\"}\n```",
+          "json": {
+            "summary_en": "The speaker is informing the recipient that they will be absent from the meeting due to illness."
+          }
+        },
+        {
+          "step": "paraphrase_translation",
+          "raw": "{\"paraphrase_en\": \"I cannot attend the meeting later because I am feeling unwell.\"}",
+          "json": {
+            "paraphrase_en": "I cannot attend the meeting later because I am feeling unwell."
+          }
+        },
+        {
+          "step": "accuracy",
+          "raw": "```json\n{\"issues\": [], \"accuracy_point\": 1, \"note\": \"The translation accurately conveys the meaning of the source summary.\"}\n```",
+          "json": {
+            "issues": [],
+            "accuracy_point": 1,
+            "note": "The translation accurately conveys the meaning of the source summary."
+          }
+        },
+        {
+          "step": "fluency",
+          "raw": "```json\n{\"issues\":[], \"suggestion\": \"No changes needed.\", \"fluency_point\": 1, \"note\": \"The sentence is grammatically correct and flows naturally.\"}\n```",
+          "json": {
+            "issues": [],
+            "suggestion": "No changes needed.",
+            "fluency_point": 1,
+            "note": "The sentence is grammatically correct and flows naturally."
+          }
+        },
+        {
+          "step": "cultural",
+          "raw": "```json\n{\"issues\": [], \"cultural_point\": 1, \"note\": \"The translation is culturally appropriate and uses common Filipino phrasing for expressing illness.\"}\n```",
+          "json": {
+            "issues": [],
+            "cultural_point": 1,
+            "note": "The translation is culturally appropriate and uses common Filipino phrasing for expressing illness."
+          }
+        },
+        {
+          "step": "completeness",
+          "raw": "```json\n{\"omissions\": [], \"additions\": [], \"completeness_point\": 1, \"note\": \"The translation accurately conveys the meaning of the source sentence, indicating absence from the meeting due to illness.\"}\n```",
+          "json": {
+            "omissions": [],
+            "additions": [],
+            "completeness_point": 1,
+            "note": "The translation accurately conveys the meaning of the source sentence, indicating absence from the meeting due to illness."
+          }
+        },
+        {
+          "step": "self_critic",
+          "raw": "```json\n{\"ok\": true, \"rerun\": [], \"comment\": \"All subagents agree and no issues were found.\"}\n```",
+          "json": {
+            "ok": true,
+            "rerun": [],
+            "comment": "All subagents agree and no issues were found."
+          }
+        },
+        {
+          "step": "synthesizer_raw",
+          "raw": "Score: 5\nLabel: excellent\nReasoning:\nAccuracy: The translation accurately conveys the meaning of the source summary.\nFluency: The sentence is grammatically correct and flows naturally.\nCoherence: The translation is coherent and easy to understand.\nCultural Appropriateness: The translation is culturally appropriate and uses common Filipino phrasing for expressing illness.\nGuideline Adherence: Not applicable.\nCompleteness: The translation accurately conveys the meaning of the source sentence, indicating absence from the meeting due to illness.\nConfidence: 100\n\n```json\n{\n  \"per_criteria_points\": {\n    \"accuracy\": 1,\n    \"fluency\": 1,\n    \"cultural\": 1,\n    \"completeness\": 1\n  },\n  \"total_points\": 4,\n  \"normalised_score\": 5.0\n}\n```"
+        }
+      ],
+      "final": {
+        "text": "Score: 5\nLabel: excellent\nReasoning:\nAccuracy: The translation accurately conveys the meaning of the source summary.\nFluency: The sentence is grammatically correct and flows naturally.\nCoherence: The translation is coherent and easy to understand.\nCultural Appropriateness: The translation is culturally appropriate and uses common Filipino phrasing for expressing illness.\nGuideline Adherence: Not applicable.\nCompleteness: The translation accurately conveys the meaning of the source sentence, indicating absence from the meeting due to illness.\nConfidence: 100\n\n```json\n{\n  \"per_criteria_points\": {\n    \"accuracy\": 1,\n    \"fluency\": 1,\n    \"cultural\": 1,\n    \"completeness\": 1\n  },\n  \"total_points\": 4,\n  \"normalised_score\": 5.0\n}\n```",
+        "json": {
+          "per_criteria_points": {
+            "accuracy": 1,
+            "fluency": 1,
+            "cultural": 1,
+            "completeness": 1
+          },
+          "total_points": 4,
+          "normalised_score": 5.0
+        }
+      }
+    },
+    "13": {
+      "source": "Darkness is not heresy. It lies within us all.",
+      "translation": "Hindi kasalanan ang kadiliman. Nagsisinungaling ito sa loob natin.",
+      "reference": null,
+      "steps": [
+        {
+          "step": "summarize_source",
+          "raw": "{\"summary_en\": \"Darkness is an inherent part of human nature, not an external evil.\"}",
+          "json": {
+            "summary_en": "Darkness is an inherent part of human nature, not an external evil."
+          }
+        },
+        {
+          "step": "paraphrase_translation",
+          "raw": "{\"paraphrase_en\": \"Darkness itself is not the problem; rather, it's the lies we tell ourselves within that are.\"}",
+          "json": {
+            "paraphrase_en": "Darkness itself is not the problem; rather, it's the lies we tell ourselves within that are."
+          }
+        },
+        {
+          "step": "accuracy",
+          "raw": "```json\n{\"issues\": [\"The translation and paraphrase focus on lies and internal struggles, which are not explicitly mentioned in the source summary about darkness being an inherent part of human nature.\", \"The translation misinterprets 'lies within us all' as 'nagsisinungaling ito sa loob natin' which means 'it lies within us', changing the subject from people to darkness itself.\", \"The paraphrase introduces the idea that 'darkness itself is not the problem,' which is a different interpretation than the source summary's statement that darkness is an inherent part of human nature.\"], \"accuracy_point\": 0, \"note\": \"The translation and paraphrase significantly deviate from the original meaning of the source summary.\"}\n```",
+          "json": {
+            "issues": [
+              "The translation and paraphrase focus on lies and internal struggles, which are not explicitly mentioned in the source summary about darkness being an inherent part of human nature.",
+              "The translation misinterprets 'lies within us all' as 'nagsisinungaling ito sa loob natin' which means 'it lies within us', changing the subject from people to darkness itself.",
+              "The paraphrase introduces the idea that 'darkness itself is not the problem,' which is a different interpretation than the source summary's statement that darkness is an inherent part of human nature."
+            ],
+            "accuracy_point": 0,
+            "note": "The translation and paraphrase significantly deviate from the original meaning of the source summary."
+          }
+        },
+        {
+          "step": "fluency",
+          "raw": "```json\n{\"issues\": [\"Redundant pronoun \\\"ito\\\" after \\\"kadiliman\\\".\"], \"suggestion\": \"Omit \\\"ito\\\": \\\"Hindi kasalanan ang kadiliman. Nagsisinungaling sa loob natin.\\\"\", \"fluency_point\": 1, \"note\": \"The sentence is understandable but slightly awkward due to the pronoun.\"}\n```",
+          "json": {
+            "issues": [
+              "Redundant pronoun \"ito\" after \"kadiliman\"."
+            ],
+            "suggestion": "Omit \"ito\": \"Hindi kasalanan ang kadiliman. Nagsisinungaling sa loob natin.\"",
+            "fluency_point": 1,
+            "note": "The sentence is understandable but slightly awkward due to the pronoun."
+          }
+        },
+        {
+          "step": "cultural",
+          "raw": "```json\n{\"issues\": [\"The translation of \\\"It lies within us all\\\" to \\\"Nagsisinungaling ito sa loob natin\\\" (It lies within us) is inaccurate. \\\"Nagsisinungaling\\\" means \\\"lying\\\" or \\\"telling lies,\\\" which doesn't capture the original meaning of inherent darkness or potential for evil within people. It should be rephrased to reflect the idea of darkness residing within.\"], \"cultural_point\": 0, \"note\": \"The translation misinterprets the original meaning, leading to an inaccurate and potentially confusing statement about human nature.\"}\n```",
+          "json": {
+            "issues": [
+              "The translation of \"It lies within us all\" to \"Nagsisinungaling ito sa loob natin\" (It lies within us) is inaccurate. \"Nagsisinungaling\" means \"lying\" or \"telling lies,\" which doesn't capture the original meaning of inherent darkness or potential for evil within people. It should be rephrased to reflect the idea of darkness residing within."
+            ],
+            "cultural_point": 0,
+            "note": "The translation misinterprets the original meaning, leading to an inaccurate and potentially confusing statement about human nature."
+          }
+        },
+        {
+          "step": "completeness",
+          "raw": "```json\n{\"omissions\": [\"Darkness\"], \"additions\": [], \"completeness_point\": 0, \"note\": \"The translation omits the subject 'Darkness' in the second sentence, changing the meaning.\"}\n```",
+          "json": {
+            "omissions": [
+              "Darkness"
+            ],
+            "additions": [],
+            "completeness_point": 0,
+            "note": "The translation omits the subject 'Darkness' in the second sentence, changing the meaning."
+          }
+        },
+        {
+          "step": "self_critic",
+          "raw": "```json\n{\"ok\": false, \"rerun\": [\"accuracy\", \"fluency\", \"cultural\", \"completeness\"], \"comment\": \"The translation has significant issues with accuracy, fluency, cultural appropriateness, and completeness, requiring a complete revision.\"}\n```",
+          "json": {
+            "ok": false,
+            "rerun": [
+              "accuracy",
+              "fluency",
+              "cultural",
+              "completeness"
+            ],
+            "comment": "The translation has significant issues with accuracy, fluency, cultural appropriateness, and completeness, requiring a complete revision."
+          }
+        },
+        {
+          "step": "rerun_accuracy",
+          "raw": "```json\n{\"issues\": [\"The translation and paraphrase focus on lies and internal struggles, which are not explicitly mentioned in the source summary about darkness being an inherent part of human nature.\", \"The translation of 'Darkness is not heresy' as 'Hindi kasalanan ang kadiliman' (Darkness is not a sin) shifts the meaning slightly from a broader concept of heresy to a more specific religious context of sin.\", \"The paraphrase introduces the idea that 'Darkness itself is not the problem,' which is a different interpretation than the source summary's statement that darkness is an inherent part of human nature.\"], \"accuracy_point\": 0, \"note\": \"The paraphrase and translation introduce elements and interpretations not directly present in the source summary, leading to meaning shifts.\"}\n```",
+          "json": {
+            "issues": [
+              "The translation and paraphrase focus on lies and internal struggles, which are not explicitly mentioned in the source summary about darkness being an inherent part of human nature.",
+              "The translation of 'Darkness is not heresy' as 'Hindi kasalanan ang kadiliman' (Darkness is not a sin) shifts the meaning slightly from a broader concept of heresy to a more specific religious context of sin.",
+              "The paraphrase introduces the idea that 'Darkness itself is not the problem,' which is a different interpretation than the source summary's statement that darkness is an inherent part of human nature."
+            ],
+            "accuracy_point": 0,
+            "note": "The paraphrase and translation introduce elements and interpretations not directly present in the source summary, leading to meaning shifts."
+          }
+        },
+        {
+          "step": "rerun_fluency",
+          "raw": "```json\n{\"issues\": [\"Redundant pronoun \\\"ito\\\" after \\\"kadiliman\\\".\"], \"suggestion\": \"Hindi kasalanan ang kadiliman; nagsisinungaling ito sa loob natin. (Add semicolon)\", \"fluency_point\": 0, \"note\": \"The sentence is grammatically correct but could be more fluent with minor adjustments.\"}\n```",
+          "json": {
+            "issues": [
+              "Redundant pronoun \"ito\" after \"kadiliman\"."
+            ],
+            "suggestion": "Hindi kasalanan ang kadiliman; nagsisinungaling ito sa loob natin. (Add semicolon)",
+            "fluency_point": 0,
+            "note": "The sentence is grammatically correct but could be more fluent with minor adjustments."
+          }
+        },
+        {
+          "step": "synthesizer_raw",
+          "raw": "Score: 1\nLabel: poor\nReasoning:\nAccuracy: The translation introduces interpretations not directly present in the source summary, leading to meaning shifts. The translation of \"Darkness is not heresy\" as \"Hindi kasalanan ang kadiliman\" shifts the meaning slightly.\nFluency: The sentence is grammatically correct but could be more fluent with minor adjustments. Redundant pronoun \"ito\" after \"kadiliman\".\nCoherence: The paraphrase introduces the idea that 'Darkness itself is not the problem,' which is a different interpretation than the source summary's statement that darkness is an inherent part of human nature.\nCultural Appropriateness: The translation of \"It lies within us all\" to \"Nagsisinungaling ito sa loob natin\" is inaccurate. \"Nagsisinungaling\" means \"lying\" or \"telling lies,\" which doesn't capture the original meaning of inherent darkness or potential for evil within people.\nGuideline Adherence: The translation significantly deviates from the source text's meaning and introduces inaccurate interpretations.\nCompleteness: The translation omits the subject 'Darkness' in the second sentence, changing the meaning.\nConfidence: 100\n```json\n{\n  \"per_criteria_points\": {\n    \"accuracy\": 0,\n    \"fluency\": 0,\n    \"cultural\": 0,\n    \"completeness\": 0\n  },\n  \"total_points\": 0,\n  \"normalised_score\": 1.0\n}\n```"
+        }
+      ],
+      "final": {
+        "text": "Score: 1\nLabel: poor\nReasoning:\nAccuracy: The translation introduces interpretations not directly present in the source summary, leading to meaning shifts. The translation of \"Darkness is not heresy\" as \"Hindi kasalanan ang kadiliman\" shifts the meaning slightly.\nFluency: The sentence is grammatically correct but could be more fluent with minor adjustments. Redundant pronoun \"ito\" after \"kadiliman\".\nCoherence: The paraphrase introduces the idea that 'Darkness itself is not the problem,' which is a different interpretation than the source summary's statement that darkness is an inherent part of human nature.\nCultural Appropriateness: The translation of \"It lies within us all\" to \"Nagsisinungaling ito sa loob natin\" is inaccurate. \"Nagsisinungaling\" means \"lying\" or \"telling lies,\" which doesn't capture the original meaning of inherent darkness or potential for evil within people.\nGuideline Adherence: The translation significantly deviates from the source text's meaning and introduces inaccurate interpretations.\nCompleteness: The translation omits the subject 'Darkness' in the second sentence, changing the meaning.\nConfidence: 100\n```json\n{\n  \"per_criteria_points\": {\n    \"accuracy\": 0,\n    \"fluency\": 0,\n    \"cultural\": 0,\n    \"completeness\": 0\n  },\n  \"total_points\": 0,\n  \"normalised_score\": 1.0\n}\n```",
+        "json": {
+          "per_criteria_points": {
+            "accuracy": 0,
+            "fluency": 0,
+            "cultural": 0,
+            "completeness": 0
+          },
+          "total_points": 0,
+          "normalised_score": 1.0
+        }
+      }
+    },
+    "14": {
+      "source": "This would be easier if blood came in more colours.",
+      "translation": "Ito ay magiging mas madali kung ang dugo ay dumating sa mas maraming kulay.",
+      "reference": null,
+      "steps": [
+        {
+          "step": "summarize_source",
+          "raw": "```json\n{\"summary_en\": \"The speaker is lamenting the difficulty of a task and sarcastically suggests that having different colored blood would make it easier.\"}\n```",
+          "json": {
+            "summary_en": "The speaker is lamenting the difficulty of a task and sarcastically suggests that having different colored blood would make it easier."
+          }
+        },
+        {
+          "step": "paraphrase_translation",
+          "raw": "{\"paraphrase_en\": \"It would be easier if blood came in more colors.\"}",
+          "json": {
+            "paraphrase_en": "It would be easier if blood came in more colors."
+          }
+        },
+        {
+          "step": "accuracy",
+          "raw": "```json\n{\"issues\": [], \"accuracy_point\": 1, \"note\": \"The translation accurately conveys the core meaning of the source summary.\"}\n```",
+          "json": {
+            "issues": [],
+            "accuracy_point": 1,
+            "note": "The translation accurately conveys the core meaning of the source summary."
+          }
+        },
+        {
+          "step": "fluency",
+          "raw": "```json\n{\"issues\": [\"Redundant 'ay' after 'Ito'\", \"Awkward phrasing with 'dumating sa mas maraming kulay'\"], \"suggestion\": \"Gawing mas madali sana kung may iba't ibang kulay ang dugo.\", \"fluency_point\": 0, \"note\": \"The original sentence contains grammatical redundancy and awkward phrasing, affecting fluency.\"}\n```",
+          "json": {
+            "issues": [
+              "Redundant 'ay' after 'Ito'",
+              "Awkward phrasing with 'dumating sa mas maraming kulay'"
+            ],
+            "suggestion": "Gawing mas madali sana kung may iba't ibang kulay ang dugo.",
+            "fluency_point": 0,
+            "note": "The original sentence contains grammatical redundancy and awkward phrasing, affecting fluency."
+          }
+        },
+        {
+          "step": "cultural",
+          "raw": "```json\n{\"issues\": [], \"cultural_point\": 1, \"note\": \"The translation is culturally appropriate and accurately conveys the meaning without any sensitive elements.\"}\n```",
+          "json": {
+            "issues": [],
+            "cultural_point": 1,
+            "note": "The translation is culturally appropriate and accurately conveys the meaning without any sensitive elements."
+          }
+        },
+        {
+          "step": "completeness",
+          "raw": "```json\n{\"omissions\": [], \"additions\": [], \"completeness_point\": 1, \"note\": \"The translation accurately conveys the core meaning of the source sentence without any omissions or additions.\"}\n```",
+          "json": {
+            "omissions": [],
+            "additions": [],
+            "completeness_point": 1,
+            "note": "The translation accurately conveys the core meaning of the source sentence without any omissions or additions."
+          }
+        },
+        {
+          "step": "self_critic",
+          "raw": "```json\n{\"ok\": false, \"rerun\": [\"fluency\"], \"comment\": \"Fluency issues identified require re-translation by the fluency subagent.\"}\n```",
+          "json": {
+            "ok": false,
+            "rerun": [
+              "fluency"
+            ],
+            "comment": "Fluency issues identified require re-translation by the fluency subagent."
+          }
+        },
+        {
+          "step": "rerun_fluency",
+          "raw": "```json\n{\"issues\": [\"Redundant 'ay' after 'Ito'\", \"Awkward phrasing with 'dumating sa mas maraming kulay'\"], \"suggestion\": \"Gawing mas madali sana kung may iba't ibang kulay ang dugo.\", \"fluency_point\": 0, \"note\": \"The original sentence contains grammatical awkwardness and unnatural phrasing.\"}\n```",
+          "json": {
+            "issues": [
+              "Redundant 'ay' after 'Ito'",
+              "Awkward phrasing with 'dumating sa mas maraming kulay'"
+            ],
+            "suggestion": "Gawing mas madali sana kung may iba't ibang kulay ang dugo.",
+            "fluency_point": 0,
+            "note": "The original sentence contains grammatical awkwardness and unnatural phrasing."
+          }
+        },
+        {
+          "step": "synthesizer_raw",
+          "raw": "Score: 2\nLabel: poor\nReasoning:\nAccuracy: The translation accurately conveys the core meaning of the source summary.\nFluency: The original sentence contains grammatical awkwardness and unnatural phrasing, including a redundant 'ay' and an awkward phrase.\nCoherence: The translation maintains coherence with the original text.\nCultural Appropriateness: The translation is culturally appropriate and accurately conveys the meaning without any sensitive elements.\nGuideline Adherence: The translation fails to adhere to fluency guidelines due to awkward phrasing.\nCompleteness: The translation accurately conveys the core meaning of the source sentence without any omissions or additions.\nConfidence: 100\n```json\n{\n  \"per_criteria_points\": {\n    \"accuracy\": 1,\n    \"fluency\": 0,\n    \"cultural\": 1,\n    \"completeness\": 1\n  },\n  \"total_points\": 3,\n  \"normalised_score\": 2\n}\n```"
+        }
+      ],
+      "final": {
+        "text": "Score: 2\nLabel: poor\nReasoning:\nAccuracy: The translation accurately conveys the core meaning of the source summary.\nFluency: The original sentence contains grammatical awkwardness and unnatural phrasing, including a redundant 'ay' and an awkward phrase.\nCoherence: The translation maintains coherence with the original text.\nCultural Appropriateness: The translation is culturally appropriate and accurately conveys the meaning without any sensitive elements.\nGuideline Adherence: The translation fails to adhere to fluency guidelines due to awkward phrasing.\nCompleteness: The translation accurately conveys the core meaning of the source sentence without any omissions or additions.\nConfidence: 100\n```json\n{\n  \"per_criteria_points\": {\n    \"accuracy\": 1,\n    \"fluency\": 0,\n    \"cultural\": 1,\n    \"completeness\": 1\n  },\n  \"total_points\": 3,\n  \"normalised_score\": 2\n}\n```",
+        "json": {
+          "per_criteria_points": {
+            "accuracy": 1,
+            "fluency": 0,
+            "cultural": 1,
+            "completeness": 1
+          },
+          "total_points": 3,
+          "normalised_score": 2
+        }
+      }
+    },
+    "15": {
+      "error": "call_gemini failed after retries"
+    },
+    "16": {
+      "error": "call_gemini failed after retries"
+    },
+    "17": {
+      "error": "call_gemini failed after retries"
+    },
+    "18": {
+      "error": "call_gemini failed after retries"
+    },
+    "19": {
+      "error": "call_gemini failed after retries"
+    },
+    "20": {
+      "error": "call_gemini failed after retries"
+    },
+    "21": {
+      "error": "call_gemini failed after retries"
+    },
+    "22": {
+      "error": "call_gemini failed after retries"
+    },
+    "23": {
+      "error": "call_gemini failed after retries"
+    },
+    "24": {
+      "error": "call_gemini failed after retries"
+    },
+    "25": {
+      "error": "call_gemini failed after retries"
+    },
+    "26": {
+      "error": "call_gemini failed after retries"
+    },
+    "27": {
+      "error": "call_gemini failed after retries"
+    },
+    "28": {
+      "error": "call_gemini failed after retries"
+    },
+    "29": {
+      "error": "call_gemini failed after retries"
+    },
+    "30": {
+      "error": "call_gemini failed after retries"
+    },
+    "31": {
+      "error": "call_gemini failed after retries"
+    },
+    "32": {
+      "error": "call_gemini failed after retries"
+    },
+    "33": {
+      "error": "call_gemini failed after retries"
+    },
+    "34": {
+      "error": "call_gemini failed after retries"
+    },
+    "35": {
+      "error": "call_gemini failed after retries"
+    },
+    "36": {
+      "error": "call_gemini failed after retries"
+    },
+    "37": {
+      "error": "call_gemini failed after retries"
+    },
+    "38": {
+      "error": "call_gemini failed after retries"
+    },
+    "39": {
+      "error": "call_gemini failed after retries"
+    },
+    "40": {
+      "error": "call_gemini failed after retries"
+    },
+    "41": {
+      "error": "call_gemini failed after retries"
+    },
+    "42": {
+      "error": "call_gemini failed after retries"
+    },
+    "43": {
+      "error": "call_gemini failed after retries"
+    },
+    "44": {
+      "error": "call_gemini failed after retries"
+    },
+    "45": {
+      "error": "call_gemini failed after retries"
+    },
+    "46": {
+      "error": "call_gemini failed after retries"
+    },
+    "47": {
+      "error": "call_gemini failed after retries"
+    },
+    "48": {
+      "error": "call_gemini failed after retries"
+    },
+    "49": {
+      "error": "call_gemini failed after retries"
+    },
+    "50": {
+      "error": "call_gemini failed after retries"
+    },
+    "51": {
+      "error": "call_gemini failed after retries"
+    },
+    "52": {
+      "error": "call_gemini failed after retries"
+    },
+    "53": {
+      "error": "call_gemini failed after retries"
+    },
+    "54": {
+      "error": "call_gemini failed after retries"
+    },
+    "55": {
+      "error": "call_gemini failed after retries"
+    },
+    "56": {
+      "error": "call_gemini failed after retries"
+    }
+  }
+}
